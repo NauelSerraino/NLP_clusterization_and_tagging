@@ -1,0 +1,900 @@
+Cluster  1
+['CARABINIERE; (Greek mythology) the threeheaded dog guarding the entrance to Hades son of Typhon;   ;   Cerberus ,  hellhound  ']
+
+Cluster  2
+['DISEGNATRICE; ; ; ', 'INFERMIERE; ; ; ', 'NEUROLOGA; ; ; ']
+
+Cluster  3
+['DOCENTE; someone who is a member of the faculty at a college or university;   ;   professor ,  prof  ', 'LETTORE; a public lecturer at certain universities;   ;   lector ,  lecturer ,  reader  ', 'PROFESSORE; someone who is a member of the faculty at a college or university;   ;   professor ,  prof  ']
+
+Cluster  4
+['ANIMALISTA; ; ; ', 'ARTIGIANA; ; ; ', 'BENZINAIA; ; ; ', 'BIDELLA; ; ; ', 'CHIACCHIERONA; ; ; ', 'COMICA; ; ; ', 'DATTILOGRAFA; ; ; ', 'DETERMINATA; ; ; ', 'FIORAIA; ; ; ', 'FISIATRA; ; ; ', 'FRUTTIVENDOLA; ; ; ', 'GELATAIA; ; ; ', 'GELATAIO; ; ; ', 'GENEROSA; ; ; ', 'GEOMETRA; ; ; ', 'JUVENTINA; ; ; ', 'MASSAGGIATRICE; ; ; ', 'PALLAVOLISTA; ; ; ', 'PARRUCCHIERA; ; ; ', 'PASTICCERA; ; ; ', 'POLIEDRICA; ; ; ', 'POLITOLOGO; ; ; ', 'POLIZIOTTA; ; ; ', 'PROFESSORESSA; ; ; ', 'PROGETTISTA; ; ; ', 'PSICOLOGA; ; ; ', 'RAGIONIERA; ; ; ', 'SCENOGRAFA; ; ; ', 'SCIENZIATA; ; ; ', 'SCOLARETTO; ; ; ', 'SCONOSCIUTA; ; ; ', 'SCONOSCIUTO; not known;   an unknown amount ,  an unknown island ,  an unknown writer ,  an unknown source  ;   unknown  ', 'SINDACA; ; ; ', 'STAGISTA; ; ; ', 'TERAPEUTA; ; ; ', 'VANITOSA; ; ; ', 'VENDITRICE; ; ; ', 'VICINA; ; ; ', 'VIGILESSA; ; ; ', 'VIONCELLISTA; ; ; ']
+
+Cluster  5
+['AMMINISTRATORE; someone who administers a business;   ;   administrator ,  decision_maker  ', 'MANAGER; someone who controls resources and expenditures;   ;   director ,  manager ,  managing_director  ']
+
+Cluster  6
+['MANOVALE; someone who works with their hands someone engaged in manual labor;   ;   laborer ,  manual_laborer ,  labourer ,  jack  ', 'OPERAIO; an employee who performs manual or industrial labor;   ;   workman ,  workingman ,  working_man ,  working_person  ']
+
+Cluster  7
+['DIPINGERE; apply paint to coat with paint;   We painted the rooms yellow  ;   paint  ', 'PITTORE; a painter of houses a similar buildings;   ;   house_painter  ']
+
+Cluster  8
+['INDIVIDUO; a human being;   there was too much for one person to do  ;   person ,  individual ,  someone ,  somebody ,  mortal ,  soul  ', 'PERSONA; a human being;   there was too much for one person to do  ;   person ,  individual ,  someone ,  somebody ,  mortal ,  soul  ', 'UMANO; a human being;   there was too much for one person to do  ;   person ,  individual ,  someone ,  somebody ,  mortal ,  soul  ']
+
+Cluster  9
+['CRISTO; someone who redeems or buys back (promissory notes or merchandise or commercial paper etc.);   ;   redeemer  ', 'FACCENDIERE; a shrewd or unscrupulous person who knows how to circumvent difficulties;   ;   hustler ,  wheeler_dealer ,  operator  ']
+
+Cluster  10
+['CHIACCHIERONE; an obnoxious and foolish and loquacious talker;   ;   chatterer ,  babbler ,  prater ,  chatterbox ,  magpie ,  spouter  ', 'FANNULLONE; someone who wastes time;   ;   dallier ,  dillydallier ,  dillydallier ,  mope ,  lounger  ', 'LECCACULO; someone who humbles himself as a sign of respect who behaves as if he had no selfrespect;   ;   apple_polisher ,  bootlicker ,  fawner ,  groveller ,  groveler ,  truckler  ']
+
+Cluster  11
+['FIGLIA; a female human offspring;   her daughter cared for her in her old age  ;   daughter ,  girl  ', 'FIGLIOLA; a female human offspring;   her daughter cared for her in her old age  ;   daughter ,  girl  ']
+
+Cluster  12
+['ORGANIZZATORE; a person who brings order and organization to an enterprise;   she was the organizer of the meeting  ;   organizer ,  organiser ,  arranger  ', 'ORGANIZZATRICE; ; ; ']
+
+Cluster  13
+['ARCHITETTO; someone who creates plans to be used in making something (such as buildings);   ;   architect ,  designer  ', 'ARREDATORE; a person who specializes in designing architectural interiors and their furnishings;   ;   interior_designer ,  designer ,  interior_decorator ,  house_decorator ,  room_decorator ,  decorator  ', 'FUNZIONARIO; someone who is appointed or elected to an office and who holds a position of trust;   he is an officer of the court ,  the club elected its officers for the coming year  ;   officeholder ,  officer  ', 'IDRAULICO; a craftsman who installs and repairs pipes and fixtures and appliances;   ;   plumber ,  pipe_fitter  ']
+
+Cluster  14
+['MARINAIO; a serviceman in the navy;   ;   bluejacket ,  navy_man ,  sailor ,  sailor_boy  ']
+
+Cluster  15
+['ASSICURATRICE; ; ; ', 'BACIATRICE; ; ; ', 'CALCIATRICE; ; ; ', 'CARDIOLOGA; ; ; ', 'COINQUILINA; ; ; ', 'COMMESSA; a legally binding command or decision entered on the court record (as if issued by a court or judge);   a friend in New Mexico said that the order caused no trouble out there  ;   decree ,  edict ,  fiat ,  order ,  rescript  ', 'COMMISSARIA; ; ; ', 'COORDINATRICE; ; ; ', 'DECORATRICE; ; ; ', 'MENEFREGHISTA; ; ; ', 'NUOTATRICE; ; ; ', 'PATTINATRICE; ; ; ', 'RICERCATRICE; ; ; ', 'RIORDINATRICE; ; ; ', 'SCIATRICE; ; ; ', 'SOCCORRITRICE; ; ; ', 'TRANSGENDER; ; ; ']
+
+Cluster  16
+['NONNA; the mother of your father or mother;   ;   grandma ,  grandmother ,  granny ,  grannie ,  gran ,  nan ,  nanna  ', 'NONNO; the father of your father or mother;   ;   grandfather ,  gramps ,  granddad ,  grandad ,  granddaddy ,  grandpa  ']
+
+Cluster  17
+['BAMBINA; a youthful female person;   the baby was a girl ,  the girls were just learning to ride a tricycle  ;   female_child ,  girl ,  little_girl  ', 'BIMBA; a youthful female person;   the baby was a girl ,  the girls were just learning to ride a tricycle  ;   female_child ,  girl ,  little_girl  ', 'RAGAZZA; a youthful female person;   the baby was a girl ,  the girls were just learning to ride a tricycle  ;   female_child ,  girl ,  little_girl  ', 'SCOLARA; a girl attending school;   ;   schoolgirl  ']
+
+Cluster  18
+['CONDOTTIERO; an officer in command of a military unit;   ;   commanding_officer ,  commandant ,  commander  ', 'DESIGNER; ; ; ', 'DIRIGENTE; of or relating to the function or responsibility or activity of management;   ;   managerial  ', 'MANUTENTORE; ; ; ']
+
+Cluster  19
+['CONDUCENTE; the operator of a motor vehicle;   ;   driver  ', 'CONDUTTORE; the operator of a motor vehicle;   ;   driver  ', 'GUIDATORE; the operator of a motor vehicle;   ;   driver  ']
+
+Cluster  20
+['ACCOGLIENTE; affording pleasure being in harmony with your taste or likings;   we had a pleasant evening together ,  a pleasant scene ,  pleasant sensations  ;   pleasant  ', 'DOLCE; affording pleasure being in harmony with your taste or likings;   we had a pleasant evening together ,  a pleasant scene ,  pleasant sensations  ;   pleasant  ']
+
+Cluster  21
+['AVVITARE; have sexual intercourse with;   This student sleeps with everyone in her dorm ,  Adam knew Eve ,  Were you ever intimate with this man?  ;   sleep_together ,  roll_in_the_hay ,  love ,  make_out ,  make_love ,  sleep_with ,  get_laid ,  have_sex ,  know ,  do_it ,  be_intimate ,  have_intercourse ,  have_it_away ,  have_it_off ,  screw ,  fuck ,  jazz ,  eff ,  hump ,  lie_with ,  bed ,  have_a_go_at_it ,  bang ,  get_it_on ,  bonk  ', 'SCOPARE; have sexual intercourse with;   This student sleeps with everyone in her dorm ,  Adam knew Eve ,  Were you ever intimate with this man?  ;   sleep_together ,  roll_in_the_hay ,  love ,  make_out ,  make_love ,  sleep_with ,  get_laid ,  have_sex ,  know ,  do_it ,  be_intimate ,  have_intercourse ,  have_it_away ,  have_it_off ,  screw ,  fuck ,  jazz ,  eff ,  hump ,  lie_with ,  bed ,  have_a_go_at_it ,  bang ,  get_it_on ,  bonk  ']
+
+Cluster  22
+['AGRICOLTORE; a person who operates a farm;   ;   farmer ,  husbandman ,  granger ,  sodbuster  ', 'APICOLTORE; a farmer who keeps bees for their honey;   ;   beekeeper ,  apiarist ,  apiculturist  ', 'FRUTTIVENDOLO; a person who sells fruit;   ;   fruiterer  ', 'GIARDINIERE; someone employed to work in a garden;   ;   gardener  ', 'MASSAIO; a person who operates a farm;   ;   farmer ,  husbandman ,  granger ,  sodbuster  ']
+
+Cluster  23
+['ATTORE; a theatrical performer;   ;   actor ,  histrion ,  player ,  thespian ,  role_player  ', 'CHITARRISTA; a musician who plays the guitar;   ;   guitarist ,  guitar_player  ', 'INTERPRETE; a theatrical performer;   ;   actor ,  histrion ,  player ,  thespian ,  role_player  ', 'INTRATTENITORE; a person who tries to please or amuse;   ;   entertainer  ']
+
+Cluster  24
+['FANCIULLO; a young person of either sex;   she writes books for children , "they re just kids", "`tiddler  is a British term for youngster" ;   child ,  kid ,  youngster ,  minor ,  shaver ,  nipper ,  small_fry ,  tiddler ,  tike ,  tyke ,  fry ,  nestling  ', 'FIGLIO; a young person of either sex;   she writes books for children , "they re just kids", "`tiddler  is a British term for youngster" ;   child ,  kid ,  youngster ,  minor ,  shaver ,  nipper ,  small_fry ,  tiddler ,  tike ,  tyke ,  fry ,  nestling  ']
+
+Cluster  25
+['ROMPICOGLIONI; a bothersome annoying person;   that kid is a terrible pain  ;   pain ,  pain_in_the_neck ,  nuisance  ', 'ROMPIPALLE; something or someone that causes trouble a source of unhappiness;   washing dishes was a nuisance before we got a dish washer ,  a bit of a bother , "he s not a friend, he s an infliction" ;   annoyance ,  bother ,  botheration ,  pain ,  infliction ,  pain_in_the_neck ,  pain_in_the_ass  ', 'ROMPISCATOLE; a bothersome annoying person;   that kid is a terrible pain  ;   pain ,  pain_in_the_neck ,  nuisance  ']
+
+Cluster  26
+['AUTORE; someone who composes music as a profession;   ;   composer  ', 'MUSICISTA; artist who composes or conducts music as a profession;   ;   musician  ']
+
+Cluster  27
+['CUOCA; someone who cooks food;   ;   cook  ', 'CUOCO; someone who cooks food;   ;   cook  ']
+
+Cluster  28
+['GINECOLOGO; a specialist in gynecology;   ;   gynecologist ,  gynaecologist , "woman s_doctor" ']
+
+Cluster  29
+['EDUCATORE; a specialist in the theory of education;   ;   educationist ,  educationalist  ', 'EDUCATRICE; ; ; ', 'INSEGNANTE; someone who educates young people;   ;   educator ,  pedagogue ,  pedagog  ', 'ISTRUTTORE; a person whose occupation is teaching;   ;   teacher ,  instructor  ', 'MAESTRO; a personified abstraction that teaches;   books were his teachers ,  experience is a demanding teacher  ;   teacher  ']
+
+Cluster  30
+['ALPINISTA; a mountain climber who specializes in difficult climbs;   ;   alpinist  ', 'SCALATORE; someone who climbs as a sport especially someone who climbs mountains;   the lead climber looked strong still but his partner often slumped in his ropes  ;   climber  ']
+
+Cluster  31
+['CAMERIERA; a maid who is employed to clean and care for bedrooms (now primarily in hotels);   ;   chambermaid ,  fille_de_chambre  ', 'DIRETTRICE; a woman headmaster;   ;   headmistress  ', 'DOMESTICA; a female domestic;   ;   maid ,  maidservant ,  housemaid ,  amah  ']
+
+Cluster  32
+['SCOLARO; someone who believes and helps to spread the doctrine of another;   ;   disciple ,  adherent  ']
+
+Cluster  33
+['AMANTE; a person who loves someone or is loved by someone;   ;   lover  ', 'AMICO; a person who loves someone or is loved by someone;   ;   lover  ']
+
+Cluster  34
+['COMMERCIANTE; a merchant who owns or manages a shop;   ;   shopkeeper ,  tradesman ,  storekeeper ,  market_keeper  ', 'COMMESSO; a salesperson in a store;   ;   salesclerk ,  shop_clerk ,  clerk ,  shop_assistant  ', 'NEGOZIANTE; a merchant who owns or manages a shop;   ;   shopkeeper ,  tradesman ,  storekeeper ,  market_keeper  ', 'PADRONA; (law) someone who owns (is legal possessor of) a business;   he is the owner of a chain of restaurants  ;   owner ,  proprietor  ', 'VENDITORE; a person employed to represent a business and to sell its merchandise (as to customers in a store or to customers who are visited);   ;   salesperson ,  sales_representative ,  sales_rep  ']
+
+Cluster  35
+['INGEGNERE; a person who uses scientific knowledge to solve practical problems;   ;   engineer ,  applied_scientist ,  technologist  ', 'INVENTORE; someone who is the first to think of or make something;   ;   inventor ,  discoverer ,  artificer  ', 'RICERCATORE; a scientist who devotes himself to doing research;   ;   research_worker ,  researcher ,  investigator  ', 'SCIENZIATO; a person with advanced knowledge of one or more sciences;   ;   scientist  ']
+
+Cluster  36
+['SPOSA; a woman who has recently been married;   ;   bride  ', 'SPOSO; a man who has recently been married;   ;   groom ,  bridegroom  ']
+
+Cluster  37
+['BADANTE; ; ; ']
+
+Cluster  38
+['ASCOLTATORE; someone who listens attentively;   ;   hearer ,  listener ,  auditor ,  attender  ', 'OSSERVATORE; a person who becomes aware (of things or events) through the senses;   ;   perceiver ,  percipient ,  observer ,  beholder  ']
+
+Cluster  39
+['COMMERCIALISTA; someone who maintains and audits business accounts;   ;   accountant ,  comptroller ,  controller  ', 'CONTABILE; someone who maintains and audits business accounts;   ;   accountant ,  comptroller ,  controller  ', 'RAGIONIERE; someone who maintains and audits business accounts;   ;   accountant ,  comptroller ,  controller  ']
+
+Cluster  40
+['PUGILE; someone who fights with his fists for sport;   ;   boxer ,  pugilist  ']
+
+Cluster  41
+['PULITRICE; a power tool used to buff surfaces;   ;   buffer ,  polisher  ', 'SPILLATRICE; a machine that inserts staples into sheets of paper in order to fasten them together;   ;   stapler ,  stapling_machine  ']
+
+Cluster  42
+['OMINO; a person who is markedly small;   ;   dwarf ,  midget ,  nanus  ']
+
+Cluster  43
+['DONNAIOLO; a man who takes advantage of women;   ;   seducer , "ladies _man",  lady_killer  ', 'MERETRICE; a woman who engages in sexual intercourse for money;   ;   prostitute ,  cocotte ,  whore ,  harlot ,  bawd ,  tart ,  cyprian ,  fancy_woman ,  working_girl ,  sporting_lady ,  lady_of_pleasure ,  woman_of_the_street  ', 'MIGNOTTA; a woman who engages in sexual intercourse for money;   ;   prostitute ,  cocotte ,  whore ,  harlot ,  bawd ,  tart ,  cyprian ,  fancy_woman ,  working_girl ,  sporting_lady ,  lady_of_pleasure ,  woman_of_the_street  ', 'SESSISTA; a man with a chauvinistic belief in the inferiority of women;   ;   male_chauvinist ,  sexist  ', 'VOYEUR; a viewer who enjoys seeing the sex acts or sex organs of others;   ;   voyeur ,  Peeping_Tom ,  peeper  ']
+
+Cluster  44
+['MANGIONE; a person who is devoted to eating and drinking to excess;   ;   glutton ,  gourmand ,  gourmandizer ,  trencherman  ', 'PAPPONE; a person who is devoted to eating and drinking to excess;   ;   glutton ,  gourmand ,  gourmandizer ,  trencherman  ']
+
+Cluster  45
+['COLLABORATRICE; a person who is a member of a partnership;   ;   partner  ', 'PARTNER; a person who is a member of a partnership;   ;   partner  ']
+
+Cluster  46
+['CANTORE; a lyric poet;   ;   bard  ']
+
+Cluster  47
+['AIUTANTE; a person who contributes to the fulfillment of a need or furtherance of an effort or purpose;   my invaluable assistant ,  they hired additional help to finish the work  ;   assistant ,  helper ,  help ,  supporter  ', 'ASSISTENTE; a person who contributes to the fulfillment of a need or furtherance of an effort or purpose;   my invaluable assistant ,  they hired additional help to finish the work  ;   assistant ,  helper ,  help ,  supporter  ', 'COLLABORATORE; a person who contributes to the fulfillment of a need or furtherance of an effort or purpose;   my invaluable assistant ,  they hired additional help to finish the work  ;   assistant ,  helper ,  help ,  supporter  ']
+
+Cluster  48
+['INTELLIGENTE; (usually followed by `to ) having the necessary means or skill or knowhow or authority to do something;   able to swim ,  she was able to program her computer ,  we were at last able to buy a car ,  able to get a grant for the project  ;   able  ']
+
+Cluster  49
+['LAVORATORE; a person who works at a specific occupation;   he is a good worker  ;   worker  ', 'LAVORATRICE; a person who works at a specific occupation;   he is a good worker  ;   worker  ', 'PADRONE; a person or firm that employs workers;   ;   employer  ']
+
+Cluster  50
+['IMBIANCHINO; an unskilled painter;   ;   dauber  ']
+
+Cluster  51
+['COMPAGNA; a friend who is frequently in the company of another;   drinking companions ,  comrades in arms  ;   companion ,  comrade ,  fellow ,  familiar ,  associate  ', 'CONVIVENTE; a friend who is frequently in the company of another;   drinking companions ,  comrades in arms  ;   companion ,  comrade ,  fellow ,  familiar ,  associate  ']
+
+Cluster  52
+['COMPAGNO; used as a term of address for those male persons engaged in the same movement;   Greetings, comrade!  ;   brother ,  comrade  ', 'SIGNORA; a form of address for a married woman;   ;   Mrs ,  Mrs.  ', 'SIGNORE; a form of address for a man;   ;   Mister ,  Mr ,  Mr.  ']
+
+Cluster  53
+['ALLENATORE; (sports) someone in charge of training an athlete or a team;   ;   coach ,  manager ,  handler  ']
+
+Cluster  54
+['DOTTORE; children take the roles of physician or patient or nurse and pretend they are at the physician s office;  "the children explored each other s bodies by playing the game of doctor" ;   doctor  ', 'INFERMIERA; one skilled in caring for young children or the sick (usually under the supervision of a physician);   ;   nurse  ']
+
+Cluster  55
+['RIORDINARE; put (things or places) in order;   Tidy up your room!  ;   tidy ,  tidy_up ,  clean_up ,  neaten ,  straighten ,  straighten_out ,  square_away  ', 'SISTEMARE; put (things or places) in order;   Tidy up your room!  ;   tidy ,  tidy_up ,  clean_up ,  neaten ,  straighten ,  straighten_out ,  square_away  ']
+
+Cluster  56
+['PASTORE; someone whose occupation is preaching the gospel;   ;   preacher ,  preacher_man ,  sermonizer ,  sermoniser  ', 'PRETE; a clergyman in Christian churches who has the authority to perform or administer various religious rites one of the Holy Orders;   ;   priest  ', 'SACERDOTE; a clergyman in Christian churches who has the authority to perform or administer various religious rites one of the Holy Orders;   ;   priest  ', 'SERVA; in a subordinate position;   theology should be the handmaiden of ethics ,  the state cannot be a servant of the church  ;   handmaid ,  handmaiden ,  servant  ']
+
+Cluster  57
+['CUCINARE; transform and make suitable for consumption by heating;   These potatoes have to cook for 20 minutes  ;   cook  ']
+
+Cluster  58
+['GENITORE; a father or mother one who begets or one who gives birth to or nurtures and raises a child a relative who plays the role of guardian;   ;   parent  ']
+
+Cluster  59
+['COGNATA; the sister of your spouse;   ;   sisterinlaw  ', 'FRATELLO; a male with the same parents as someone else;   my brother still lives with our parents  ;   brother ,  blood_brother  ', 'GENERO; the husband of your daughter;   ;   soninlaw  ', 'NIPOTE; a child of your son or daughter;   ;   grandchild  ', 'SUOCERA; the mother of your spouse;   ;   motherinlaw  ', 'SUOCERO; the father of your spouse;   ;   fatherinlaw  ']
+
+Cluster  60
+['CONIUGE; a person s partner in marriage;   ;   spouse ,  partner ,  married_person ,  mate ,  better_half  ', 'CONSORTE; a person s partner in marriage;   ;   spouse ,  partner ,  married_person ,  mate ,  better_half  ']
+
+Cluster  61
+['BAMBINO; a very young child (birth to 1 year) who has not yet begun to walk or talk;   the baby began to cry again ,  she held the baby in her arms ,  it sounds simple, but when you have your own baby it is all so different  ;   baby ,  babe ,  infant  ', 'BIMBO; a very young child (birth to 1 year) who has not yet begun to walk or talk;   the baby began to cry again ,  she held the baby in her arms ,  it sounds simple, but when you have your own baby it is all so different  ;   baby ,  babe ,  infant  ']
+
+Cluster  62
+['FESSO; a person who lacks good judgment;   ;   fool ,  sap ,  saphead ,  muggins ,  tomfool  ', 'SCEMO; a person who lacks good judgment;   ;   fool ,  sap ,  saphead ,  muggins ,  tomfool  ']
+
+Cluster  63
+['ESSERE; give certain properties to something;   get someone mad ,  She made us look silly ,  He made a fool of himself at the meeting , "Don t make this into a big deal",  This invention will make you a millionaire ,  Make yourself clear  ;   make ,  get  ']
+
+Cluster  64
+['POLIZIOTTO; uncomplimentary terms for a policeman;   ;   bull ,  cop ,  copper ,  fuzz ,  pig  ']
+
+Cluster  65
+['BALLERINO; a trained dancer who is a member of a ballet company;   ;   ballet_dancer  ', 'DANZATRICE; a performer who dances professionally;   ;   dancer ,  professional_dancer ,  terpsichorean  ']
+
+Cluster  66
+['INETTO; not qualified or suited for a purpose;   an incompetent secret service ,  the filming was hopeless incompetent  ;   incompetent  ']
+
+Cluster  67
+['POLITICA; a plan of action adopted by an individual or social group;   it was a policy of retribution ,  a politician keeps changing his policies  ;   policy  ']
+
+Cluster  68
+['ARCHEOLOGO; an anthropologist who studies prehistoric people and their culture;   ;   archeologist ,  archaeologist  ', 'GEOLOGO; a specialist in geology;   ;   geologist  ']
+
+Cluster  69
+['ANIMATORE; ; ; ', 'APPROFITTATORE; ; ; ', 'ASCOLTATRICE; ; ; ', 'ILLUSTRATRICE; ; ; ', 'IMPRENDITRICE; ; ; ', 'IMPROVVISATORE; ; ; ', 'INCLASSIFICABILE; ; ; ', 'INESISTENTE; ; ; ', 'INSTALLATORE; ; ; ', 'INSTALLATRICE; ; ; ', 'SOPPORTARMI; ; ; ', 'SPACCIATORE; ; ; ', 'SPECCHIARSI; ; ; ']
+
+Cluster  70
+['CANTANTE; a person who sings;   ;   singer ,  vocalist ,  vocalizer ,  vocaliser  ', 'CANTARE; produce tones with the voice;   She was singing while she was cooking ,  My brother sings very well  ;   sing  ']
+
+Cluster  71
+['FOTOGRAFO; someone who takes photographs professionally;   ;   photographer ,  lensman  ']
+
+Cluster  72
+['PASTICCIONE; someone who makes mistakes because of incompetence;   ;   bungler ,  blunderer ,  fumbler ,  bumbler ,  stumbler ,  sad_sack ,  botcher ,  butcher ,  fuckup  ', 'PELANDRONE; person who does no work;   a lazy bum  ;   idler ,  loafer ,  donothing ,  layabout ,  bum  ', 'PERDIGIORNO; person who does no work;   a lazy bum  ;   idler ,  loafer ,  donothing ,  layabout ,  bum  ', 'PIGRONE; a lazy person;   ;   lazybones  ', 'SCANSAFATICHE; an idle worthless person;   ;   goldbrick ,  goofoff , "ne erdowell",  goodfornothing ,  noaccount ,  goodfornaught  ', 'SFATICATO; person who does no work;   a lazy bum  ;   idler ,  loafer ,  donothing ,  layabout ,  bum  ']
+
+Cluster  73
+['ALUNNO; a boy attending school;   ;   schoolboy  ', 'FIGLIOLO; a male child (a familiar term of address to a boy);   ;   cub ,  lad ,  laddie ,  sonny ,  sonny_boy  ']
+
+Cluster  74
+['ATLETA; a person trained to compete in sports;   ;   athlete ,  jock  ', 'SPORT; the occupation of athletes who compete for pay;   ;   sport  ', 'SPORTIVO; relating to or used in sports;   sporting events ,  sporting equipment  ;   sporting  ']
+
+Cluster  75
+['AGGIUSTATORE; ; ; ', 'BENZINAIO; ; ; ', "BRAV'UOMO; ; ; ", 'BUGIARDA; ; ; ', 'CAGACAZZI; ; ; ', 'FIGA; ; ; ', 'GIARDINIERA; a car that has a long body and rear door with space behind rear seat;   ;   beach_wagon ,  station_wagon ,  wagon ,  estate_car ,  beach_waggon ,  station_waggon ,  waggon  ', 'GINECOLOGA; ; ; ', 'GIOCATRICE; ; ; ', 'GIOCHERELLONA; ; ; ', 'GIOVINE; ; ; ', 'GOMMISTA; ; ; ', 'GRUISTA; ; ; ', 'GUAGLIONA; ; ; ', 'GUASCONE; ; ; ', 'GUIDATRICE; ; ; ', 'JUVENTINO; ; ; ', 'NIPOTINO; ; ; ', 'NULLAFACENTE; ; ; ', 'RELAZIONANDOSI; ; ; ', 'SUCCHIACAZZI; ; ; ', 'VIAGGIATRICE; ; ; ']
+
+Cluster  76
+['GUAGLIONE; a youthful male person;   the baby was a boy ,  she made the boy brush his teeth every night ,  most soldiers are only boys in uniform  ;   male_child ,  boy  ', 'RAGAZZINO; a youthful male person;   the baby was a boy ,  she made the boy brush his teeth every night ,  most soldiers are only boys in uniform  ;   male_child ,  boy  ']
+
+Cluster  77
+['VICINO; not far away in relative terms;   she works nearby ,  the planets orbiting nearby are Venus and Mars  ;   nearby  ']
+
+Cluster  78
+['FANCIULLA; a girl or young woman who is unmarried;   ;   lass ,  lassie ,  young_girl ,  jeune_fille  ', 'FIDANZATA; a girl or young woman with whom a man is romantically involved;   his girlfriend kicked him out  ;   girlfriend ,  girl ,  lady_friend  ', 'FIDANZATO; a man who is the lover of a girl or young woman;  "if I d known he was her boyfriend I wouldn t have asked" ;   boyfriend ,  fellow ,  beau ,  swain ,  young_man  ', 'TIZIO; a boy or man;   that chap is your host , "there s a fellow at the door", "he s a likable cuss", "he s a good bloke" ;   chap ,  fellow ,  feller ,  fella ,  lad ,  gent ,  blighter ,  cuss ,  bloke  ']
+
+Cluster  79
+['SARTA; someone who makes or mends dresses;   ;   dressmaker ,  modiste ,  needlewoman ,  seamstress ,  sempstress  ', 'STILISTA; someone who designs clothing;   ;   couturier ,  fashion_designer ,  clothes_designer ,  designer  ']
+
+Cluster  80
+['CONSIGLIERA; ; ; ', 'LETTRICE; ; ; ', 'OPERATRICE; ; ; ', 'PRECISO; brief and to the point effectively cut short;   a crisp retort ,  a response so curt as to be almost rude , "the laconic reply `yes ",  short and terse and easy to understand  ;   crisp ,  curt ,  laconic ,  terse  ', 'PROGETTARE; devise a system or form a scheme for;   ;   scheme  ', 'PROGRAMMATRICE; ; ; ']
+
+Cluster  81
+['SURFISTA; someone who engages in surfboarding;   ;   surfer ,  surfboarder  ']
+
+Cluster  82
+['MADRE; female parent of an animal especially domestic livestock;   ;   dam  ', 'PADRE; male parent of an animal especially a domestic animal such as a horse;   ;   sire  ']
+
+Cluster  83
+['SCIARE; move along on skis;   We love to ski the Rockies , "My children don t ski" ;   ski  ']
+
+Cluster  84
+['MASSAGGIATORE; someone who rubs or kneads parts of the body to stimulate circulation and promote relaxation;   ;   massager  ']
+
+Cluster  85
+['BARBIERE; a hairdresser who cuts hair and shaves beards as a trade;   ;   barber  ', 'PARRUCCHIERE; a hairdresser who cuts hair and shaves beards as a trade;   ;   barber  ']
+
+Cluster  86
+['ZOCCOLA; brown rat commonly found in sewers;   ;   sewer_rat  ']
+
+Cluster  87
+['SCACCHISTA; someone who plays the game of chess;   ;   chess_player  ']
+
+Cluster  88
+['ALLIEVO; works for an expert to learn a trade;   ;   apprentice ,  learner ,  prentice  ', 'ARTIGIANO; a skilled worker who practices some trade or handicraft;   ;   craftsman ,  artisan ,  journeyman ,  artificer  ']
+
+Cluster  89
+['AVVOCATO; a person who cares for persons or property;   ;   defender ,  guardian ,  protector ,  shielder  ', 'TUTORE; a person who cares for persons or property;   ;   defender ,  guardian ,  protector ,  shielder  ']
+
+Cluster  90
+['CONTRALTO; the pitch range of the lowest female voice;   ;   alto  ']
+
+Cluster  91
+['STRONZO; obscene terms for feces;   ;   crap ,  dirt ,  shit ,  shite ,  poop ,  turd  ']
+
+Cluster  92
+['DONNA; (chess) the most powerful piece;   ;   queen  ']
+
+Cluster  93
+['DIRETTORE; the person who leads a musical group;   ;   conductor ,  music_director ,  director  ', 'REGISTA; someone who supervises the actors and directs the action in the production of a show;   ;   director ,  theater_director ,  theatre_director  ']
+
+Cluster  94
+['IDRAULICA; study of the mechanics of fluids;   ;   fluid_mechanics ,  hydraulics  ']
+
+Cluster  95
+['NUOTARE; be afloat either on or below a liquid surface and not sink to the bottom;   ;   float ,  swim  ']
+
+Cluster  96
+['PSICHIATRA; a psychiatrist and specialist in the legal aspects of mental illness;   ;   alienist  ']
+
+Cluster  97
+['BIDELLO; someone employed to clean and maintain a building;   ;   janitor  ', 'SPAZZINO; a worker employed to clean streets (especially one employed by a municipal sanitation department);   ;   street_cleaner ,  street_sweeper  ']
+
+Cluster  98
+['PULIRE; remove unwanted substances from, such as feathers or pits;   Clean the turkey  ;   clean ,  pick  ']
+
+Cluster  99
+['AMICA; any female friend;   Mary and her girlfriend organized the party  ;   girlfriend  ']
+
+Cluster  100
+['GENEROSO; willing to give and share unstintingly;   a generous donation  ;   generous  ']
+
+Cluster  101
+['IMPERATORE; the male ruler of an empire;   ;   emperor  ']
+
+Cluster  102
+['AUTOMOBILISTA; someone who drives (or travels in) an automobile;   ;   motorist ,  automobilist  ', 'CAMIONISTA; someone who drives a truck as an occupation;   ;   teamster ,  trucker ,  truck_driver  ', 'TASSISTA; someone who drives a taxi for a living;   ;   taxidriver ,  taximan ,  cabdriver ,  cabman ,  cabby ,  hack_driver ,  hackdriver ,  livery_driver  ']
+
+Cluster  103
+['WEBMARKETING; ; ; ']
+
+Cluster  104
+['ASTRONAUTA; a person trained to travel in a spacecraft;   the Russians called their astronauts cosmonauts  ;   astronaut ,  spaceman ,  cosmonaut  ']
+
+Cluster  105
+['FUMETTISTA; a person who draws cartoons;   ;   cartoonist  ']
+
+Cluster  106
+['ESPERTO; having experience having knowledge or skill from observation or participation;   ;   experienced ,  experient  ']
+
+Cluster  107
+['CONSIGLIERE; an expert who gives advice;   an adviser helped students select their courses ,  the United States sent military advisors to Guatemala  ;   adviser ,  advisor ,  consultant  ', 'CONSULENTE; an expert who gives advice;   an adviser helped students select their courses ,  the United States sent military advisors to Guatemala  ;   adviser ,  advisor ,  consultant  ']
+
+Cluster  108
+['BAGNINO; an attendant employed at a beach or pool to protect swimmers from accidents;   ;   lifeguard ,  lifesaver  ']
+
+Cluster  109
+['SINDACO; the head of a city government;   ;   mayor ,  city_manager  ']
+
+Cluster  110
+['ORATORE; a person who delivers a speech or oration;   ;   orator ,  speechmaker ,  rhetorician ,  public_speaker ,  speechifier  ', 'PARLATORE; someone who expresses in language someone who talks (especially someone who delivers a public speech or someone especially garrulous);   the speaker at commencement ,  an utterer of useful maxims  ;   speaker ,  talker ,  utterer ,  verbalizer ,  verbaliser  ', 'PRESENTATORE; a person who acts as host at formal occasions (makes an introductory speech and introduces other speakers);   ;   master_of_ceremonies ,  emcee ,  host  ']
+
+Cluster  111
+['SVILUPPATORE; photographic equipment consisting of a chemical solution for developing film;   ;   developer  ']
+
+Cluster  112
+['MULTITASKING; ; ; ']
+
+Cluster  113
+['COMICO; of or relating to or characteristic of comedy;   comic hero  ;   comic  ']
+
+Cluster  114
+['ARBITRO; someone chosen to judge and decide a disputed issue;   the critic was considered to be an arbiter of modern literature , "the arbitrator s authority derived from the consent of the disputants",  an umpire was appointed to settle the tax case  ;   arbiter ,  arbitrator ,  umpire  ', 'GIUDICE; an authority who is able to estimate worth or quality;   ;   evaluator ,  judge  ']
+
+Cluster  115
+['CESTISTA; ; ; ', 'INSEGNARE; accustom gradually to some action or attitude;   The child is taught to obey her parents  ;   teach  ', 'TECNICO; characterizing or showing skill in or specialized knowledge of applied arts and sciences;   a technical problem ,  highly technical matters hardly suitable for the general public ,  a technical report ,  producing the Abomb was a challenge to the technical people of this country ,  technical training ,  technical language  ;   technical  ', 'TENORE; the quality of something (an act or a piece of writing) that reveals the attitudes and presuppositions of the author;   the general tone of articles appearing in the newspapers is that the government should withdraw ,  from the tone of her behavior I gathered that I had outstayed my welcome  ;   tone  ']
+
+Cluster  116
+['TERRORISTA; a radical who employs terror as a political weapon usually organizes with other terrorists in small cells often uses religion as a cover for terrorist activities;   ;   terrorist  ']
+
+Cluster  117
+['PROFESSIONALE; characteristic of or befitting a profession or one engaged in a profession;   professional conduct ,  professional ethics ,  a thoroughly professional performance  ;   professional  ', 'PROFESSIONISTA; a person engaged in one of the learned professions;   ;   professional ,  professional_person  ']
+
+Cluster  118
+['CALCOLATORE; a machine for performing calculations automatically;   ;   computer ,  computing_machine ,  computing_device ,  data_processor ,  electronic_computer ,  information_processing_system  ', 'CLIENTE; (computer science) any computer that is hooked up to a computer network;   ;   node ,  client ,  guest  ', 'INFORMATICA; the branch of engineering science that studies (with the aid of computers) computable processes and structures;   ;   computer_science ,  computing  ', 'INFORMATICO; a scientist who specializes in the theory of computation and the design of computers;   ;   computer_scientist  ']
+
+Cluster  119
+['INTENDITORE; an expert able to appreciate a field especially in the fine arts;   ;   connoisseur ,  cognoscente  ', 'MAESTRA; a person with special knowledge or ability who performs skillfully;   ;   expert  ', 'STUDENTE; a learned person (especially in the humanities) someone who by long study has gained mastery in one or more disciplines;   ;   scholar ,  scholarly_person ,  bookman ,  student  ', 'STUDIOSO; a learned person (especially in the humanities) someone who by long study has gained mastery in one or more disciplines;   ;   scholar ,  scholarly_person ,  bookman ,  student  ']
+
+Cluster  120
+['SCRITTRICE; a woman author;   ;   authoress  ']
+
+Cluster  121
+['UOMO; any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage;   ;   homo ,  man ,  human_being ,  human  ']
+
+Cluster  122
+['ASTROFISICA; the branch of astronomy concerned with the physical and chemical properties of celestial bodies;   ;   astrophysics  ']
+
+Cluster  123
+['SUORA; a woman religious;   ;   nun  ']
+
+Cluster  124
+['FABBRO; a smith who forges and shapes iron with a hammer and anvil;   ;   blacksmith  ']
+
+Cluster  125
+['FIGO; very good;   he did a bully job ,  a neat sports car ,  had a great time at the party ,  you look simply smashing  ;   bangup ,  bully ,  corking ,  cracking ,  dandy ,  great ,  groovy ,  keen ,  neat ,  nifty ,  not_bad ,  peachy ,  slapup ,  swell ,  smashing  ']
+
+Cluster  126
+['PORNODIVO; ; ; ']
+
+Cluster  127
+['CHIRURGO; a physician who specializes in surgery;   ;   surgeon ,  operating_surgeon ,  sawbones  ', 'PEDICURE; a specialist in care for the feet;   ;   chiropodist ,  foot_doctor ,  podiatrist  ']
+
+Cluster  128
+['TRAGHETTATORE; someone who drives or rides in a boat;   ;   boatman ,  boater ,  waterman  ', 'TUTTOFARE; a man skilled in various odd jobs and other small tasks;   ;   handyman ,  jack_of_all_trades ,  oddjob_man  ']
+
+Cluster  129
+['CREATURA; a living organism characterized by voluntary movement;   ;   animal ,  animate_being ,  beast ,  brute ,  creature ,  fauna  ']
+
+Cluster  130
+['GIOCATORE; a person who wagers money on the outcome of games or sporting events;   ;   gambler  ']
+
+Cluster  131
+['EGOISTA; limited to or caring only about yourself and your own needs;   ;   egoistic ,  egoistical ,  egocentric ,  selfcentered ,  selfcentred  ', 'OPPORTUNISTA; a person who places expediency above principle;   ;   opportunist ,  selfseeker  ']
+
+Cluster  132
+['CUGINO; the child of your aunt or uncle;   ;   cousin ,  first_cousin ,  cousingerman ,  full_cousin  ', 'ZIA; the sister of your father or mother the wife of your uncle;   ;   aunt ,  auntie ,  aunty  ', 'ZIO; the brother of your father or mother the husband of your aunt;   ;   uncle  ']
+
+Cluster  133
+['CORISTA; a metal implement with two prongs that gives a fixed tone when struck used to tune musical instruments;   ;   tuning_fork  ']
+
+Cluster  134
+['LAVORARE; give a workout to;   Some parents exercise their infants ,  My personal trainer works me hard , "work one s muscles",  this puzzle will exercise your mind  ;   exercise ,  work ,  work_out  ']
+
+Cluster  135
+['PIANIFICARE; make plans for something;   He is planning a trip with his family  ;   plan  ']
+
+Cluster  136
+['AGGIUSTARE; restore by replacing a part or putting together what is torn or broken;   She repaired her TV set ,  Repair my shoes please  ;   repair ,  mend ,  fix ,  bushel ,  doctor ,  furbish_up ,  restore ,  touch_on  ', 'RIPARARE; set straight or right;   remedy these deficiencies ,  rectify the inequities in salaries ,  repair an oversight  ;   rectify ,  remediate ,  remedy ,  repair ,  amend  ']
+
+Cluster  137
+['DJ; a person who announces and plays popular recorded music;   ;   disk_jockey ,  disc_jockey ,  dj  ']
+
+Cluster  138
+['BABBO; an informal term for a father probably derived from baby talk;   ;   dad ,  dada ,  daddy ,  pa ,  papa ,  pappa ,  pop  ']
+
+Cluster  139
+['BALLERINA; Old World bird having a very long tail that jerks up and down as it walks;   ;   wagtail  ']
+
+Cluster  140
+['COINQUILINO; an associate who shares a room with you;   ;   roommate ,  roomie ,  roomy  ', 'INQUILINO; a tenant in someone s house;   ;   lodger ,  boarder ,  roomer  ']
+
+Cluster  141
+['AGENTE; a businessman who buys or sells for another in exchange for a commission;   ;   agent ,  factor ,  broker  ', 'IMPRENDITORE; someone who organizes a business venture and assumes the risk for it;   ;   entrepreneur ,  enterpriser  ', 'OPERATORE; a businessman who buys or sells for another in exchange for a commission;   ;   agent ,  factor ,  broker  ']
+
+Cluster  142
+['EFFICIENTE; being effective without wasting time or effort or expense;   an efficient production manager ,  efficient engines save gas  ;   efficient  ']
+
+Cluster  143
+['TRADUTTORE; a program that translates one programming language into another;   ;   translator ,  translating_program  ']
+
+Cluster  144
+['RIDERE; produce laughter;   ;   laugh ,  express_joy ,  express_mirth  ']
+
+Cluster  145
+['CHEF; a professional cook;   ;   chef  ', 'FORNAIO; someone who bakes commercially;   ;   baker  ', 'PANETTIERE; someone who bakes commercially;   ;   baker  ']
+
+Cluster  146
+['BRAVA; ; ; ', 'BRICOLEUR; ; ; ', 'BRICOLEUSE; ; ; ', 'BRICOMEN; ; ; ']
+
+Cluster  147
+['ECCELLENTE; very goodof the highest quality;   made an excellent speech ,  the school has excellent teachers ,  a firstclass mind  ;   excellent ,  firstclass ,  fantabulous ,  splendid  ']
+
+Cluster  148
+['CICLISTA; a person who rides a bicycle;   ;   cyclist ,  bicyclist ,  bicycler ,  wheeler  ']
+
+Cluster  149
+['GUADAGNARE; win something through one s efforts;   I acquired a passing knowledge of Chinese ,  Gain an understanding of international finance  ;   acquire ,  win ,  gain  ']
+
+Cluster  150
+['CACCIATORE; someone who hunts game;   ;   hunter ,  huntsman  ', 'CACCIATRICE; a woman hunter;   ;   huntress  ']
+
+Cluster  151
+['FACCHINO; a person employed to carry luggage and supplies;   ;   porter  ', 'FATTORINO; someone employed as an errand boy and luggage carrier around hotels;   ;   bellboy ,  bellman ,  bellhop  ']
+
+Cluster  152
+['SUONARE; indicate (a certain time) by striking;   The clock struck midnight ,  Just when I entered, the clock struck  ;   strike  ']
+
+Cluster  153
+['CALCIATORE; an athlete who plays American football;   ;   football_player ,  footballer  ']
+
+Cluster  154
+['BRUTTO; unpleasant to look at;   unsightly billboards  ;   unsightly  ']
+
+Cluster  155
+['MAMMA; informal terms for a mother;   ;   ma ,  mama ,  mamma ,  mom ,  momma ,  mommy ,  mammy ,  mum ,  mummy  ']
+
+Cluster  156
+['STUDIARE; be a student of a certain subject;   She is reading for the bar exam  ;   learn ,  study ,  read ,  take  ']
+
+Cluster  157
+['AMMINISTRATRICE; ; ; ', 'MINISTRA; ; ; ']
+
+Cluster  158
+['SCIATORE; someone who skis;   ;   skier  ']
+
+Cluster  159
+['UMANA; ; ; ']
+
+Cluster  160
+['GIOVANE; (used of living things especially persons) in an early period of life or development or growth;   young people  ;   young ,  immature  ']
+
+Cluster  161
+['DISOCCUPATO; not engaged in a gainful occupation;   unemployed workers marched on the capital  ;   unemployed  ', 'INDOLENTE; disinclined to work or exertion;   faineant kings under whose rule the country languished ,  an indolent hangeron ,  too lazy to wash the dishes ,  shiftless idle youth ,  slothful employees ,  the unemployed are not necessarily workshy  ;   faineant ,  indolent ,  lazy ,  otiose ,  slothful ,  workshy  ']
+
+Cluster  162
+['OSTETRICA; a woman skilled in aiding the delivery of babies;   ;   midwife ,  accoucheuse  ', 'PEDIATRA; a specialist in the care of babies;   ;   baby_doctor ,  pediatrician ,  pediatrist ,  paediatrician  ']
+
+Cluster  163
+['SUPPORTER; someone who shares your feelings or opinions and hopes that you will be successful;   ;   sympathizer ,  sympathiser ,  wellwisher  ']
+
+Cluster  164
+['LAMENTARSI; express complaints, discontent, displeasure, or unhappiness;   My mother complains all day ,  She has a lot to kick about  ;   complain ,  kick ,  plain ,  sound_off ,  quetch ,  kvetch  ']
+
+Cluster  165
+['MONTARE; cut and assemble the components of;   edit film ,  cut recording tape  ;   edit ,  cut ,  edit_out  ']
+
+Cluster  166
+['DETECTIVE; a police officer who investigates crimes;   ;   detective ,  investigator ,  tec ,  police_detective  ']
+
+Cluster  167
+['ALPHA; ; ; ']
+
+Cluster  168
+['PISCHELLO; an awkward and inexperienced youth;   ;   cub ,  greenhorn ,  rookie  ']
+
+Cluster  169
+['SMARTWORKER; ; ; ']
+
+Cluster  170
+['ANALISTA; a licensed practitioner of psychoanalysis;   ;   analyst ,  psychoanalyst  ', 'PSICOLOGO; a scientist trained in psychology;   ;   psychologist  ']
+
+Cluster  171
+['MECCANICO; using (or as if using) mechanisms or tools or devices;   a mechanical process ,  his smile was very mechanical ,  a mechanical toy  ;   mechanical  ']
+
+Cluster  172
+['CAVALIERE; a man of refinement;   ;   gentleman  ', 'GENTILUOMO; a man of refinement;   ;   gentleman  ']
+
+Cluster  173
+['VIOLINISTA; a musician who plays the violin;   ;   violinist ,  fiddler  ']
+
+Cluster  174
+['AFFACCENDATA; ; ; ', 'AGGIUSTATRICE; ; ; ', 'AGGIUSTATUTTO; ; ; ', 'ALLEATA; ; ; ', 'ALLIEVA; ; ; ', 'ALTLETA; ; ; ', 'ALUNNA; ; ; ', 'ARCHEOLOGA; ; ; ', 'ARROTINA; ; ; ', 'ASSESSORA; ; ; ', 'ELETTRAUTO; ; ; ', 'IMPEGNATA; ; ; ', 'IMPIANTISTA; ; ; ', 'IMPIEGATA; ; ; ', 'INQUILINA; ; ; ', 'OPERAIA; ; ; ', 'ORATRICE; ; ; ', 'TIPA; ; ; ']
+
+Cluster  175
+['INTERLOCUTORE; a person who takes part in a conversation;   ;   interlocutor ,  conversational_partner  ']
+
+Cluster  176
+['DOMESTICO; of concern to or concerning the internal affairs of a nation;   domestic issues such as tax rate and highway construction  ;   domestic  ']
+
+Cluster  177
+['MANGIARE; eat a meal take a meal;   We did not eat until 10 P.M. because there were so many phone calls , "I didn t eat yet, so I gladly accept your invitation" ;   eat  ']
+
+Cluster  178
+['CARPENTIERE; a woodworker who makes or repairs wooden objects;   ;   carpenter  ', 'FALEGNAME; a woodworker who makes or repairs wooden objects;   ;   carpenter  ']
+
+Cluster  179
+['DISPONIBILE; obtainable or accessible and ready for use or service;   kept a fire extinguisher available ,  much information is available through computers ,  available in many colors ,  the list of available candidates is unusually long  ;   available  ']
+
+Cluster  180
+['BRAVO; possessing or displaying courage able to face and deal with danger or fear without flinching  Herman Melville  William Wordsworth;   Familiarity with danger makes a brave man braver but less daring ,  a frank courageous heart...triumphed over pain ,  set a courageous example by leading them safely into and out of enemyheld territory  ;   brave ,  courageous  ']
+
+Cluster  181
+['RAGAZZO; a friendly informal reference to a grown man;   he likes to play golf with the boys  ;   boy  ']
+
+Cluster  182
+['AIUTO; the part played by a person in bringing about a result;   I am proud of my contribution in advancing the project ,  they all did their share of the work  ;   contribution ,  part ,  share  ']
+
+Cluster  183
+['LEVIGARE; make smooth or smoother, as if by rubbing;   smooth the surface of the wood  ;   smooth ,  smoothen  ']
+
+Cluster  184
+['ELETTRICISTA; a person who installs or repairs electrical or telephone lines;   ;   electrician ,  lineman ,  linesman  ']
+
+Cluster  185
+['IMPIEGATO; an employee who performs clerical work (e.g., keeps records or accounts);   ;   clerk  ', 'SEGRETARIA; an assistant who handles correspondence and clerical work for a boss or an organization;   ;   secretary ,  secretarial_assistant  ']
+
+Cluster  186
+['MEDIATRICE; ; ; ']
+
+Cluster  187
+['MEDICO; requiring or amenable to treatment by medicine especially as opposed to surgery;   medical treatment ,  pneumonia is a medical disease  ;   medical  ']
+
+Cluster  188
+['POETA; a writer of poems (the term is usually reserved for writers of good poetry);   ;   poet  ']
+
+Cluster  189
+['MACCHINISTA; the operator of a railway locomotive;   ;   engineer ,  locomotive_engineer ,  railroad_engineer ,  engine_driver  ']
+
+Cluster  190
+['GRAFICO; a chart or map showing the movements or progress of an object;   ;   plot  ']
+
+Cluster  191
+['OSPITE; an animal or plant that nourishes and supports a parasite it does not benefit and is often harmed by the association;   ;   host  ']
+
+Cluster  192
+['DOTTORESSA; a licensed medical practitioner;   I felt so bad I went to see my doctor  ;   doctor ,  doc ,  physician ,  MD ,  Dr. ,  medico  ']
+
+Cluster  193
+['DORMIGLIONE; a sleepy person;   ;   sleepyhead  ', 'DORMIRE; be asleep;   ;   sleep ,  kip ,  slumber , "log_Z s", "catch_some_Z s" ']
+
+Cluster  194
+['COMPETENTE; properly or sufficiently qualified or capable or efficient;   a competent typist  ;   competent  ']
+
+Cluster  195
+['PIRLA; ; ; ', 'PIRLONE; ; ; ']
+
+Cluster  196
+['FURBO; showing mental alertness and calculation and resourcefulness;   ;   smart  ']
+
+Cluster  197
+['BIOLOGA; ; ; ']
+
+Cluster  198
+['CAPO; one of a class of artifacts;   an article of clothing  ;   article  ']
+
+Cluster  199
+['RESPONSABILE; being the agent or cause;   determined who was the responsible party ,  termites were responsible for the damage  ;   responsible ,  responsible_for  ']
+
+Cluster  200
+['SOLDATO; a wingless sterile ant or termite having a large head and powerful jaws adapted for defending the colony;   ;   soldier  ']
+
+Cluster  201
+['CORRIDORE; (of limbs and feet) adapted for running;   ;   cursorial  ']
+
+Cluster  202
+['ELEMENTO; an artifact that is one of the individual parts of which a composite entity is made up especially a part that can be separated from or attached to a system;   spare components for cars ,  a component or constituent element of a system  ;   component ,  constituent ,  element  ']
+
+Cluster  203
+['SOCIALIZZARE; prepare for social life;   Children have to be socialized in school  ;   socialize ,  socialise  ']
+
+Cluster  204
+['POSTINO; a man who delivers the mail;   ;   mailman ,  postman ,  mail_carrier ,  letter_carrier ,  carrier  ']
+
+Cluster  205
+['FIORAIO; someone who grows and deals in flowers;   the florist made up an attractive bouquet  ;   florist  ']
+
+Cluster  206
+['GIORNALISTA; a journalist employed to provide news stories for newspapers or broadcast media;   ;   correspondent ,  newspaperman ,  newspaperwoman ,  newswriter ,  pressman  ']
+
+Cluster  207
+['GIOCOLIERE; a performer who juggles objects and performs tricks of manual dexterity;   ;   juggler  ']
+
+Cluster  208
+['BELLO; delighting the senses or exciting intellectual or emotional admiration;   a beautiful child ,  beautiful country ,  a beautiful painting ,  a beautiful theory ,  a beautiful party  ;   beautiful  ']
+
+Cluster  209
+['PRESTIGIATORE; someone who performs magic tricks to amuse an audience;   ;   magician ,  prestidigitator ,  conjurer ,  conjuror ,  illusionist  ']
+
+Cluster  210
+['DIAVOLO; a word used in exclamations of confusion;   what the devil ,  the deuce with it ,  the dickens you say  ;   devil ,  deuce ,  dickens  ']
+
+Cluster  211
+['PILOTA; someone who operates an aircraft;   ;   aviator ,  aeronaut ,  airman ,  flier ,  flyer  ']
+
+Cluster  212
+['GIOCARE; fool or hoax;   The immigrant was duped because he trusted everyone , "You can t fool me!" ;   gull ,  dupe ,  slang ,  befool ,  cod ,  fool ,  put_on ,  take_in ,  put_one_over ,  put_one_across  ']
+
+Cluster  213
+['ROMPERE; render inoperable or ineffective;   You broke the alarm clock when you took it apart!  ;   break  ']
+
+Cluster  214
+['CITTADINA; a community of people smaller than a town;   ;   village ,  small_town ,  settlement  ']
+
+Cluster  215
+['MATEMATICO; of or pertaining to or of the nature of mathematics;   a mathematical textbook ,  slide rules and other mathematical instruments ,  a mathematical solution to a problem ,  mathematical proof  ;   mathematical  ']
+
+Cluster  216
+['BAGNINA; ; ; ', 'BANCARIA; ; ; ', 'BANCARIO; ; ; ']
+
+Cluster  217
+['DISORDINATO; undisciplined and unruly;   disorderly youths ,  disorderly conduct  ;   disorderly  ']
+
+Cluster  218
+['ARTISTA; a person whose creative work shows sensitivity and imagination;   ;   artist ,  creative_person  ', 'SCULTORE; an artist who creates sculptures;   ;   sculptor ,  sculpturer ,  carver ,  statue_maker  ']
+
+Cluster  219
+['CAMERIERE; a person working in the service of another (especially in the household);   ;   servant ,  retainer  ', 'FACTOTUM; a servant employed to do a variety of jobs;   ;   factotum  ']
+
+Cluster  220
+['PENSATORE; an important intellectual;   the great minds of the 17th century  ;   thinker ,  creative_thinker ,  mind  ']
+
+Cluster  221
+['NARCISO; (Greek mythology) a beautiful young man who fell in love with his own reflection;   ;   Narcissus  ']
+
+Cluster  222
+['TENNISTA; an athlete who plays tennis;   ;   tennis_player  ']
+
+Cluster  223
+['SOGGETTO; something (a person or object or scene) selected by an artist or photographer for graphic representation;   a moving picture of a train is more dramatic than a still picture of the same subject  ;   subject ,  content ,  depicted_object  ']
+
+Cluster  224
+['SCRIVERE; communicate or express by writing;   Please write to me every week  ;   write  ']
+
+Cluster  225
+['TIPOGRAFO; a maker of books someone who edits or publishes or binds books;   ;   bookmaker  ']
+
+Cluster  226
+['MECCANICA; the branch of physics concerned with the motion of bodies in a frame of reference;   ;   mechanics  ']
+
+Cluster  227
+['OMETTO; a hanger that is shaped like a person s shoulders and used to hang garments on;   ;   coat_hanger ,  clothes_hanger ,  dress_hanger  ']
+
+Cluster  228
+['LAVANDAIA; a working woman who takes in washing;   ;   washwoman ,  washerwoman ,  laundrywoman ,  laundress  ', 'LAVANDAIO; someone who washes things for a living;   ;   washer  ']
+
+Cluster  229
+['RIPARATRICE; ; ; ', 'RIPARATUTTO; ; ; ']
+
+Cluster  230
+['COGLIONE; one of the two male reproductive glands that produce spermatozoa and secrete androgens;   she kicked him in the balls and got away  ;   testis ,  testicle ,  orchis ,  ball ,  ballock ,  bollock ,  nut ,  egg  ']
+
+Cluster  231
+['BARISTA; an employee who mixes and serves alcoholic drinks at a bar;   ;   bartender ,  barman ,  barkeep ,  barkeeper ,  mixologist  ']
+
+Cluster  232
+['VETERINARIA; the branch of medicine that deals with the diagnosis and treatment of diseases and injuries of animals (especially domestic animals);   ;   veterinary_medicine  ']
+
+Cluster  233
+['IMITATORE; someone who copies the words or behavior of another;   ;   copycat ,  imitator ,  emulator ,  ape ,  aper  ']
+
+Cluster  234
+['CORRERE; act or move at high speed;   We have to rush! , "hurryit s late!" ;   rush ,  hasten ,  hurry ,  look_sharp ,  festinate  ']
+
+Cluster  235
+['CITTADINO; happening or arising or located within some limits or especially surface;   internal organs ,  internal mechanism of a toy ,  internal party maneuvering  ;   internal  ']
+
+Cluster  236
+['ARCHITETTRICE; ; ; ', 'ARREDATRICE; ; ; ', 'BARZELLETTIERE; ; ; ', 'CARPENTIERIE; ; ; ', 'CASALINGO; ; ; ', 'CASSIERE; ; ; ', 'COPILOTA; a relief pilot on an airplane;   ;   copilot ,  copilot  ', 'ESCORT; ; ; ', 'FANCAZZISTA; ; ; ', 'FREELANCE; ; ; ', 'HANDYMAN; ; ; ', 'MANUTENTRICE; ; ; ', 'NAVIGATRICE; ; ; ', 'PASTICCERE; ; ; ', 'PATATONE; ; ; ', 'PITTRICE; ; ; ', 'POKERISTA; ; ; ', 'PRESENTATRICE; ; ; ', 'PRESTIDIGITATORE; ; ; ', 'PULITORE; ; ; ', 'RECRUITER; ; ; ', 'RESTAURATRICE; ; ; ', 'RIORDINATORE; ; ; ', 'SALUMIERE; ; ; ', 'SERVETTO; ; ; ', 'STIRATRICE; ; ; ', 'TESTER; ; ; ', 'URBANISTA; ; ; ']
+
+Cluster  237
+['ORGANIZZARE; make arrangements for;   Can you arrange a meeting with the President?  ;   arrange ,  fix_up  ']
+
+Cluster  238
+['DRIVER; ; ; ']
+
+Cluster  239
+['PERSONAGGIO; an imaginary person represented in a work of fiction (play or film or story);   she is the main character in the novel  ;   fictional_character ,  fictitious_character ,  character  ']
+
+Cluster  240
+['GIOVANOTTO; a man who has never been married;   ;   bachelor ,  unmarried_man  ', 'MARITO; a married man a woman s partner in marriage;   ;   husband ,  hubby ,  married_man  ', 'MOGLIE; a married woman a man s partner in marriage;   ;   wife ,  married_woman  ']
+
+Cluster  241
+['NUOTATORE; a person who travels through the water by swimming;   he is not a good swimmer  ;   swimmer ,  natator ,  bather  ']
+
+Cluster  242
+['COGNATO; one related by blood or origin especially on sharing an ancestor with another;   ;   blood_relation ,  blood_relative ,  cognate ,  sib  ']
+
+Cluster  243
+['AFFABILE; feeling or showing love and affection;   loving parents ,  loving glances  ;   loving  ']
+
+Cluster  244
+['MOGLIETTINA; ; ; ', 'MOTOCICLISTA; ; ; ', 'POMPIERA; ; ; ', 'POMPIERE; ; ; ', 'POMPINARA; ; ; ', 'SPELEOLOGA; ; ; ', 'TRUCCATRICE; ; ; ']
+
+Cluster  245
+['SCRITTORE; writes (books or stories or articles or the like) professionally (for pay);   ;   writer ,  author  ']
+
+Cluster  246
+['OSTETRICO; of or relating to or used in or practicing obstetrics;   obstetric hospital  ;   obstetric ,  obstetrical  ']
+
+Cluster  247
+['DIVULGATORE; a person who disseminates messages calculated to assist some cause or some government;   ;   propagandist  ']
+
+Cluster  248
+['COSTRUTTORE; someone who contracts for and supervises construction (as of a building);   ;   builder ,  constructor  ', 'DISEGNATORE; a skilled worker who draws plans of buildings or machines;   ;   draftsman ,  draughtsman ,  draftsperson  ', 'MURATORE; a craftsman skilled in building with bricks;   ;   bricklayer  ', 'RIPARATORE; a skilled worker whose job is to repair things;   ;   repairman ,  maintenance_man ,  service_man  ']
+
+Cluster  249
+['GENTLEMEN; ; ; ']
+
+Cluster  250
+['AUTISTA; a man paid to drive a privately owned car;   ;   chauffeur  ']
+
+Cluster  251
+['ANESTESISTA; a specialist who administers an anesthetic to a patient before he is treated;   ;   anesthesiologist ,  anesthetist ,  anaesthetist  ']
+
+Cluster  252
+['FOTOGRAFA; ; ; ']
+
+Cluster  253
+['ASSESSORE; a member of a council;   ;   council_member ,  councillor  ']
+
+Cluster  254
+['NOTAIO; someone legally empowered to witness signatures and certify a document s validity and to take depositions;   ;   notary ,  notary_public  ']
+
+Cluster  255
+['LEGGERE; interpret something that is written or printed;   read the advertisement ,  Have you read Salman Rushdie?  ;   read  ']
+
+Cluster  256
+['TIPO; exhibiting the qualities or characteristics that identify a group or kind or category;   a typical American girl ,  a typical suburban community ,  the typical car owner drives 10,000 miles a year ,  a painting typical of the Impressionist school ,  a typical romantic poem ,  a typical case of arteritis  ;   typical  ']
+
+Cluster  257
+['CAPOFAMIGLIA; the head of a household or family or tribe;   ;   head_of_household  ', 'CASALINGA; a wife who manages a household while her husband earns the family income;   ;   housewife ,  homemaker ,  lady_of_the_house ,  woman_of_the_house  ', 'MASSAIA; a wife who manages a household while her husband earns the family income;   ;   housewife ,  homemaker ,  lady_of_the_house ,  woman_of_the_house  ']
+
+Cluster  258
+['MACELLAIO; a person who slaughters or dresses meat for market;   ;   butcher ,  slaughterer  ']
+
+Cluster  259
+['DIETOLOGO; a specialist in the study of nutrition;   ;   dietician ,  dietitian ,  nutritionist  ']
+
+Cluster  260
+['COLLEGA; a person who is member of one s class or profession;   the surgeon consulted his colleagues ,  he sent email to his fellow hackers  ;   colleague ,  confrere ,  fellow  ']
+
+Cluster  261
+['PIZZAIOLO; ; ; ']
+
+Cluster  262
+['MILITARE; characteristic of or associated with soldiers or the military;   military uniforms  ;   military  ']
+
+Cluster  263
+['STUDIOSA; ; ; ']
+
+Cluster  264
+['PRESIDENTE; the chief executive of a republic;   ;   president  ']
+
+Cluster  265
+['PARACULO; ; ; ']
+
+Cluster  266
+['LAVATIVO; an injection of a liquid through the anus to stimulate evacuation sometimes used for diagnostic purposes;   ;   enema ,  clyster  ']
+
+Cluster  267
+['SOCIO; a person who joins with others in some activity or endeavor;   he had to consult his associate before continuing  ;   associate  ']
+
+Cluster  268
+['PROGRAMMATORE; a person who designs and writes and tests computer programs;   ;   programmer ,  computer_programmer ,  coder ,  software_engineer  ']
+
+Cluster  269
+['CONTADINO; a man who lives in the country and has country ways;   ;   countryman ,  ruralist  ']
+
+Cluster  270
+['NETTURBINO; someone employed to collect and dispose of refuse;   ;   garbage_man ,  garbageman ,  garbage_collector ,  garbage_carter ,  garbage_hauler ,  refuse_collector ,  dustman  ']
+
+Cluster  271
+['CRISTIANO; relating to or characteristic of Christianity;   Christian rites  ;   Christian  ']
+
+Cluster  272
+['PARLARE; express in speech;   She talks a lot of nonsense ,  This depressed patient does not verbalize  ;   talk ,  speak ,  utter ,  mouth ,  verbalize ,  verbalise  ']
+
+Cluster  273
+["PAPA'; ; ; "]
+
+Cluster  274
+['ASCOLTARE; perceive (sound) via the auditory sense;   ;   hear  ']
+
+Cluster  275
+['POSTINA; ; ; ']
+
+Cluster  276
+['FARMACISTA; a health professional trained in the art of preparing and dispensing drugs;   ;   pharmacist ,  druggist ,  chemist ,  apothecary ,  pill_pusher ,  pill_roller  ']
+
+Cluster  277
+['SARTO; a person whose occupation is making and altering garments;   ;   tailor ,  seamster ,  sartor  ']
+
+Cluster  278
+['CICCIONE; a rotund individual;   ;   fatso ,  fatty ,  fat_person ,  rolypoly ,  butterball  ']
+
+Cluster  279
+['CASINISTA; a rowdy or mischievous person (usually a young man);   he chased the young hellions out of his yard  ;   hellion ,  heller ,  devil  ']
+
+Cluster  280
+['STIRARE; extend one s limbs or muscles, or the entire body;   Stretch your legs! ,  Extend your right arm above your head  ;   stretch ,  extend  ']
+
+Cluster  281
+['MAGGIORDOMO; a manservant (usually the head servant of a household) who has charge of wines and the table;   ;   butler ,  pantryman  ']
+
+Cluster  282
+['GUIDARE; operate or control a vehicle;   drive a car or bus ,  Can you drive this fourwheel truck?  ;   drive  ']
+
+Cluster  283
+['BOCCHINARA; ; ; ', 'BUONA; ; ; ', 'CRISTIANA; ; ; ', 'CRISTIANACCIO; ; ; ', 'CUCINIERA; ; ; ', 'CUGINA; ; ; ', 'SCHIAVA; ; ; ', 'TRUCCARSI; ; ; ']
+
+Cluster  284
+['DENTISTA; a person qualified to practice dentistry;   ;   dentist ,  tooth_doctor ,  dental_practitioner  ']
+
+Cluster  285
+['BALLARE; move in a pattern usually to musical accompaniment do or perform a dance;   My husband and I like to dance at home to the radio  ;   dance ,  trip_the_light_fantastic ,  trip_the_light_fantastic_toe  ']
+
+Cluster  286
+['POSATORE; a person who habitually pretends to be something he is not;   ;   poseur ,  poser  ']
+
+Cluster  287
+['ACCOMPAGNATRICE; an attendant who is employed to accompany someone;   ;   escort  ']
+
+Cluster  288
+['SORELLA; a female person who is a fellow member of a sorority or labor union or other group;   none of her sisters would betray her  ;   sister  ']
+
+Cluster  289
+['ATTRICE; a female actor;   ;   actress  ']
+
+Cluster  290
+['STATISTICA; a branch of applied mathematics concerned with the collection and interpretation of quantitative data and the use of probability theory to estimate population parameters;   ;   statistics  ']
+
+Cluster  291
+['PESCATORE; someone whose occupation is catching fish;   ;   fisherman ,  fisher  ']
+
+Cluster  292
+['DISEGNARE; plan something for a specific role or purpose or effect;   This room is not designed for work  ;   design  ']
+
+Cluster  293
+['DIPENDENTE; subject or submissive to authority or the control of another;   a subordinate kingdom  ;   subordinate  ']
+
+Cluster  294
+['NARRATORE; someone who tells a story;   ;   narrator ,  storyteller ,  teller  ']
+
+Cluster  295
+['PIANISTA; a person who plays the piano;   ;   pianist ,  piano_player  ']
+
+Cluster  296
+['ESTETISTA; someone who works in a beauty parlor;   ;   beautician ,  cosmetician  ']
+
+Cluster  297
+['COMPLICE; someone who helps another person commit a crime;   ;   accessory ,  accessary  ']
+
+Cluster  298
+['COMMITTENTE; someone who pays for goods or services;   ;   customer ,  client  ']
+
+Cluster  299
+['VELISTA; a person who owns or sails a yacht;   ;   yachtsman ,  yachtswoman  ']
+
+Cluster  300
+['BELLA; a clean copy of a corrected draft;   ;   fair_copy  ']
+

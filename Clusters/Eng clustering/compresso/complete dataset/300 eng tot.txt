@@ -1,0 +1,900 @@
+Cluster  1
+['DANCE; an artistic form of nonverbal communication;   ;   dance  ']
+
+Cluster  2
+['DRIVER; the operator of a motor vehicle;   ;   driver  ', 'MOTORIST; someone who drives (or travels in) an automobile;   ;   motorist ,  automobilist  ', 'DRIVER; the operator of a motor vehicle;   ;   driver  ', 'DRIVERS; the operator of a motor vehicle;   ;   driver  ', 'DRIVER; the operator of a motor vehicle;   ;   driver  ', 'DRIVER; the operator of a motor vehicle;   ;   driver  ']
+
+Cluster  3
+['GIRL; a young woman;   a young lady of 18  ;   girl ,  miss ,  missy ,  young_lady ,  young_woman ,  fille  ', 'GIRL; a young woman;   a young lady of 18  ;   girl ,  miss ,  missy ,  young_lady ,  young_woman ,  fille  ', 'GIRL; a young woman;   a young lady of 18  ;   girl ,  miss ,  missy ,  young_lady ,  young_woman ,  fille  ', 'GIRL; a young woman;   a young lady of 18  ;   girl ,  miss ,  missy ,  young_lady ,  young_woman ,  fille  ']
+
+Cluster  4
+['SISTER IN LAW', 'BROTHER IN LAW', 'SON IN LAW', 'MOTHER IN LAW', 'FATHER IN LAW']
+
+Cluster  5
+['COhabitant; ; ; ', 'FIANCÉE; ; ; ']
+
+Cluster  6
+['PROFESSIONAL HOUSE CLEANING', 'CLEANING MAN']
+
+Cluster  7
+['ALLY; a friendly nation;   ;   ally  ', 'COLLABORATOR; someone who assists in a plot;   ;   confederate ,  collaborator ,  henchman ,  partner_in_crime  ', 'COLLABORATOR; someone who assists in a plot;   ;   confederate ,  collaborator ,  henchman ,  partner_in_crime  ', 'ACCOMPLICE; a person who joins with another in carrying out some plan (especially an unethical or illegal plan);   ;   accomplice ,  confederate  ']
+
+Cluster  8
+['GUITARIST; a musician who plays the guitar;   ;   guitarist ,  guitar_player  ', 'DJs; a person who announces and plays popular recorded music;   ;   disk_jockey ,  disc_jockey ,  dj  ', 'MUSICIAN; someone who plays a musical instrument (as a profession);   ;   musician ,  instrumentalist ,  player  ', 'PIANIST; a person who plays the piano;   ;   pianist ,  piano_player  ', 'VIOLINIST; a musician who plays the violin;   ;   violinist ,  fiddler  ', 'CELLIST; someone who plays a violoncello;   ;   cellist ,  violoncellist  ']
+
+Cluster  9
+['ELECTRICIAN; a person who installs or repairs electrical or telephone lines;   ;   electrician ,  lineman ,  linesman  ']
+
+Cluster  10
+['COUNSELOR; someone who gives advice about problems;   ;   counselor ,  counsellor  ', 'COUNSELOR; someone who gives advice about problems;   ;   counselor ,  counsellor  ', 'CONSULTANT; an expert who gives advice;   an adviser helped students select their courses ,  the United States sent military advisors to Guatemala  ;   adviser ,  advisor ,  consultant  ', 'THERAPIST; a person skilled in a particular type of therapy;   ;   therapist ,  healer  ']
+
+Cluster  11
+['SET DESIGNER']
+
+Cluster  12
+['SOCCER PLAYER', 'SOCCER PLAYER', 'SOCCER PLAYER']
+
+Cluster  13
+['IN THE DRAWING', 'IN THE EXECUTION']
+
+Cluster  14
+['READER; a person who enjoys reading;   ;   reader  ', 'READER; a person who enjoys reading;   ;   reader  ', 'POET; a writer of poems (the term is usually reserved for writers of good poetry);   ;   poet  ']
+
+Cluster  15
+['PELANDRONE; ; ; ', 'PIRLA; ; ; ', 'PISCHELLO; ; ; ']
+
+Cluster  16
+['ADJUST THE ELECTRICAL SYSTEM', 'CHANGE LIGHT BULBS', 'CHANGE THE BULBS', 'FIX CHANDELIER']
+
+Cluster  17
+['COMMISSIONER; a government administrator;   ;   commissioner  ', 'MAYOR; the head of a city government;   ;   mayor ,  city_manager  ', 'MAYOR; the head of a city government;   ;   mayor ,  city_manager  ']
+
+Cluster  18
+['CARPENTER; a woodworker who makes or repairs wooden objects;   ;   carpenter  ', 'CARPENTRY; the craft of a carpenter making things out of wood;   ;   carpentry ,  woodworking ,  woodwork  ', 'CARPENTER; a woodworker who makes or repairs wooden objects;   ;   carpenter  ']
+
+Cluster  19
+['WORK COMPANY', 'TO DRIVE', 'TO WORK']
+
+Cluster  20
+['EDUCATOR; someone who educates young people;   ;   educator ,  pedagogue ,  pedagog  ', 'EDUCATOR; someone who educates young people;   ;   educator ,  pedagogue ,  pedagog  ', 'TEACHER; a person whose occupation is teaching;   ;   teacher ,  instructor  ', 'TEACH; an English pirate who operated in the Caribbean and off the Atlantic coast of North America (died in 1718);   ;   Teach ,  Edward_Teach ,  Thatch ,  Edward_Thatch ,  Blackbeard  ', 'INSTRUCTOR; a person whose occupation is teaching;   ;   teacher ,  instructor  ', 'TEACHER; a person whose occupation is teaching;   ;   teacher ,  instructor  ']
+
+Cluster  21
+['FARMER; a person who operates a farm;   ;   farmer ,  husbandman ,  granger ,  sodbuster  ', 'BEEKEEPER; a farmer who keeps bees for their honey;   ;   beekeeper ,  apiarist ,  apiculturist  ', 'FARMER; a person who operates a farm;   ;   farmer ,  husbandman ,  granger ,  sodbuster  ', 'FISHERMAN; someone whose occupation is catching fish;   ;   fisherman ,  fisher  ']
+
+Cluster  22
+['SPOUSE; a person s partner in marriage;   ;   spouse ,  partner ,  married_person ,  mate ,  better_half  ', 'WIFE; a married woman a man s partner in marriage;   ;   wife ,  married_woman  ', 'FIANCE; a man who is engaged to be married;   ;   fiance ,  groomtobe  ', 'HUSBAND; a married man a woman s partner in marriage;   ;   husband ,  hubby ,  married_man  ', 'WIFE; a married woman a man s partner in marriage;   ;   wife ,  married_woman  ', 'WIFE; a married woman a man s partner in marriage;   ;   wife ,  married_woman  ', 'PARTNER; a person s partner in marriage;   ;   spouse ,  partner ,  married_person ,  mate ,  better_half  ', 'PARTNER; a person s partner in marriage;   ;   spouse ,  partner ,  married_person ,  mate ,  better_half  ', 'WIFE; a married woman a man s partner in marriage;   ;   wife ,  married_woman  ', 'GROOM; a man participant in his own marriage ceremony;   ;   groom ,  bridegroom  ']
+
+Cluster  23
+['SUPPORT WORKER', 'DOMESTIC HELP', 'SOCIAL WORKER', 'BABY SITTER', 'OFFICE WORKER', 'DOMESTIC WORKER', 'WORKING MOTHER', 'LABOR WORKER']
+
+Cluster  24
+['ICE CREAM MAKER', 'ICE CREAM MAN', 'PIZZA MAKER']
+
+Cluster  25
+['ANIMALIST; ; ; ', 'SURFIST; ; ; ', 'URBANIST; ; ; ']
+
+Cluster  26
+['Janitor; someone employed to clean and maintain a building;   ;   janitor  ', 'JANITOR; someone employed to clean and maintain a building;   ;   janitor  ', 'PORTER; a person employed to carry luggage and supplies;   ;   porter  ']
+
+Cluster  27
+['ASSHOLE; insulting terms of address for people who are stupid or irritating or ridiculous;   ;   asshole ,  bastard ,  cocksucker ,  dickhead ,  shit ,  mother_fucker ,  motherfucker ,  prick ,  whoreson ,  son_of_a_bitch ,  SOB  ', 'ASS-GUCK; ; ; ', 'ASSHOLE; insulting terms of address for people who are stupid or irritating or ridiculous;   ;   asshole ,  bastard ,  cocksucker ,  dickhead ,  shit ,  mother_fucker ,  motherfucker ,  prick ,  whoreson ,  son_of_a_bitch ,  SOB  ']
+
+Cluster  28
+['SCULPTOR; an artist who creates sculptures;   ;   sculptor ,  sculpturer ,  carver ,  statue_maker  ']
+
+Cluster  29
+['PUPIL; a learner who is enrolled in an educational institution;   ;   student ,  pupil ,  educatee  ', 'STUDENT; a learner who is enrolled in an educational institution;   ;   student ,  pupil ,  educatee  ', 'PUPIL; a learner who is enrolled in an educational institution;   ;   student ,  pupil ,  educatee  ', 'STUDENT; a learner who is enrolled in an educational institution;   ;   student ,  pupil ,  educatee  ', 'STUDENT; a learner who is enrolled in an educational institution;   ;   student ,  pupil ,  educatee  ']
+
+Cluster  30
+['DO THE CLEANING', 'CLEAN HOUSE', 'TIDY UP']
+
+Cluster  31
+['MINISTER; a person authorized to conduct religious worship;   clergymen are usually called ministers in Protestant churches  ;   curate ,  minister_of_religion ,  minister ,  parson ,  pastor ,  rector  ', 'SHEPHERD; a clergyman who watches over a group of people;   ;   shepherd  ', 'PRIEST; a clergyman in Christian churches who has the authority to perform or administer various religious rites one of the Holy Orders;   ;   priest  ', 'PRIEST; a clergyman in Christian churches who has the authority to perform or administer various religious rites one of the Holy Orders;   ;   priest  ']
+
+Cluster  32
+['PLANT INSTALLER', 'INSTALLER; ; ; ', 'INSTALLER; ; ; ', 'INSTALLER; ; ; ']
+
+Cluster  33
+['WITH ANIMALS']
+
+Cluster  34
+['ANALYST; someone who is skilled at analyzing data;   ;   analyst  ', 'DETERMINED; establish after a calculation, investigation, experiment, survey, or study;   find the product of two numbers ,  The physicist who found the elusive particle won the Nobel Prize  ;   determine ,  find ,  find_out ,  ascertain  ', 'RESEARCHER; a scientist who devotes himself to doing research;   ;   research_worker ,  researcher ,  investigator  ', 'RESEARCHER; a scientist who devotes himself to doing research;   ;   research_worker ,  researcher ,  investigator  ']
+
+Cluster  35
+['BABY; a very young child (birth to 1 year) who has not yet begun to walk or talk;   the baby began to cry again ,  she held the baby in her arms ,  it sounds simple, but when you have your own baby it is all so different  ;   baby ,  babe ,  infant  ', 'CHILD; a young person of either sex;   she writes books for children , "they re just kids", "`tiddler  is a British term for youngster" ;   child ,  kid ,  youngster ,  minor ,  shaver ,  nipper ,  small_fry ,  tiddler ,  tike ,  tyke ,  fry ,  nestling  ', 'CHILD; a young person of either sex;   she writes books for children , "they re just kids", "`tiddler  is a British term for youngster" ;   child ,  kid ,  youngster ,  minor ,  shaver ,  nipper ,  small_fry ,  tiddler ,  tike ,  tyke ,  fry ,  nestling  ']
+
+Cluster  36
+['COUSIN; the child of your aunt or uncle;   ;   cousin ,  first_cousin ,  cousingerman ,  full_cousin  ', 'COUSIN; the child of your aunt or uncle;   ;   cousin ,  first_cousin ,  cousingerman ,  full_cousin  ', 'BROTHER; a male with the same parents as someone else;   my brother still lives with our parents  ;   brother ,  blood_brother  ', 'GRANDSON; a male grandchild;   ;   grandson  ', 'NEPHEW; a son of your brother or sister;   ;   nephew  ', 'SISTER; a female person who has the same parents as another person;   my sister married a musician  ;   sister ,  sis  ', 'AUNT; the sister of your father or mother the wife of your uncle;   ;   aunt ,  auntie ,  aunty  ', 'UNCLE; the brother of your father or mother the husband of your aunt;   ;   uncle  ']
+
+Cluster  37
+['GOOD; benefit;   for your own good , "what s the good of worrying?" ;   good  ', 'GOOD; benefit;   for your own good , "what s the good of worrying?" ;   good  ']
+
+Cluster  38
+['BASIC DOCTOR', 'DENTIST; a person qualified to practice dentistry;   ;   dentist ,  tooth_doctor ,  dental_practitioner  ', 'DOCTOR; a licensed medical practitioner;   I felt so bad I went to see my doctor  ;   doctor ,  doc ,  physician ,  MD ,  Dr. ,  medico  ', 'PHARMACIST; a health professional trained in the art of preparing and dispensing drugs;   ;   pharmacist ,  druggist ,  chemist ,  apothecary ,  pill_pusher ,  pill_roller  ', 'DOCTOR; a licensed medical practitioner;   I felt so bad I went to see my doctor  ;   doctor ,  doc ,  physician ,  MD ,  Dr. ,  medico  ', 'INTERN; an advanced student or graduate in medicine gaining supervised practical experience (`houseman  is a British term);   ;   intern ,  interne ,  houseman ,  medical_intern  ']
+
+Cluster  39
+['MESSY; dirty and disorderly;   a mussy fussy bedroom , "a child s messy eating habits" ;   messy ,  mussy  ']
+
+Cluster  40
+['PASTRY EATER', 'PASTRY CHEF']
+
+Cluster  41
+['ADMINISTRATOR; someone who administers a business;   ;   administrator ,  decision_maker  ', 'ADMINISTRATOR; someone who administers a business;   ;   administrator ,  decision_maker  ', 'EXECUTIVE; a person responsible for the administration of a business;   ;   executive ,  executive_director  ', 'ENTREPRENEUR; someone who organizes a business venture and assumes the risk for it;   ;   entrepreneur ,  enterpriser  ', 'ORGANIZER; a person who brings order and organization to an enterprise;   she was the organizer of the meeting  ;   organizer ,  organiser ,  arranger  ', 'PRESIDENT; an executive officer of a firm or corporation;   ;   president  ']
+
+Cluster  42
+['FIX IT ALL', 'MAKE MINOR REPAIRS', 'DO EVERYTHING', 'FIX EVERYTHING', 'FIXES EVERYTHING', 'FIX THE MACHINE']
+
+Cluster  43
+['PLAYER; a person who participates in or is skilled at some game;   ;   player ,  participant  ', 'PLAYER; a person who participates in or is skilled at some game;   ;   player ,  participant  ', 'SUPPORTERS; a person who backs a politician or a team etc.;   all their supporters came out for the game ,  they are friends of the library  ;   supporter ,  protagonist ,  champion ,  admirer ,  booster ,  friend  ']
+
+Cluster  44
+['IN THE DIY', 'IN THE DIY']
+
+Cluster  45
+['CARETAKER; a custodian who is hired to take care of something (property or a person);   ;   caretaker  ', 'HOUSEKEEPER; a servant who is employed to perform domestic task in a household;   ;   housekeeper  ', 'DOMESTIC; a servant who is paid to perform menial tasks around the household;   ;   domestic ,  domestic_help ,  house_servant  ', 'FACTOTUM; a servant employed to do a variety of jobs;   ;   factotum  ', 'BUTLER; a manservant (usually the head servant of a household) who has charge of wines and the table;   ;   butler ,  pantryman  ', 'SLAVE; a person who is owned by someone;   ;   slave  ', 'SERVANT; a person working in the service of another (especially in the household);   ;   servant ,  retainer  ']
+
+Cluster  46
+['UNKNOWN; an unknown and unexplored region;   they came like angels out the unknown  ;   unknown ,  unknown_region ,  terra_incognita  ', 'UNKNOWN; an unknown and unexplored region;   they came like angels out the unknown  ;   unknown ,  unknown_region ,  terra_incognita  ']
+
+Cluster  47
+['little man', 'LITTLE BOY']
+
+Cluster  48
+['DAD; an informal term for a father probably derived from baby talk;   ;   dad ,  dada ,  daddy ,  pa ,  papa ,  pappa ,  pop  ', 'PARENT; a father or mother one who begets or one who gives birth to or nurtures and raises a child a relative who plays the role of guardian;   ;   parent  ', 'FATHER; a male parent (also used as a term of address to your father);   his father was born in Atlanta  ;   father ,  male_parent ,  begetter  ']
+
+Cluster  49
+['COMIC; a professional performer who tells jokes and performs comical acts;   ;   comedian ,  comic  ', 'COMIC; a professional performer who tells jokes and performs comical acts;   ;   comedian ,  comic  ']
+
+Cluster  50
+['AT SCHOOL', 'AT THE PC', 'IN HOME', 'IN THE KITCHEN', 'AT WORK']
+
+Cluster  51
+['FURNISH HOME', 'BENEFITER; ; ; ', 'FURNISHER; ; ; ', 'FURNISHER; ; ; ', 'IMPROVISER; ; ; ']
+
+Cluster  52
+['ORGANIZE PARTIES']
+
+Cluster  53
+['GENTLEMAN; a man of refinement;   ;   gentleman  ', 'GENTLEMEN; a man of refinement;   ;   gentleman  ']
+
+Cluster  54
+['COMPUTER SCIENTIST', 'COMPUTER OPERATOR', 'COMPUTER OPERATOR', 'COMPUTER REPAIR']
+
+Cluster  55
+['LIAR; a person who has lied or who lies repeatedly;   ;   liar ,  prevaricator  ', 'INTERLOCUTOR; the performer in the middle of a minstrel line who engages the others in talk;   ;   interlocutor ,  middleman  ', 'NARRATOR; someone who tells a story;   ;   narrator ,  storyteller ,  teller  ', 'SPEAKER; someone who expresses in language someone who talks (especially someone who delivers a public speech or someone especially garrulous);   the speaker at commencement ,  an utterer of useful maxims  ;   speaker ,  talker ,  utterer ,  verbalizer ,  verbaliser  ', 'SPEAKER; someone who expresses in language someone who talks (especially someone who delivers a public speech or someone especially garrulous);   the speaker at commencement ,  an utterer of useful maxims  ;   speaker ,  talker ,  utterer ,  verbalizer ,  verbaliser  ', 'TALKER; someone who expresses in language someone who talks (especially someone who delivers a public speech or someone especially garrulous);   the speaker at commencement ,  an utterer of useful maxims  ;   speaker ,  talker ,  utterer ,  verbalizer ,  verbaliser  ', 'ANNOUNCER; someone who proclaims a message publicly;   ;   announcer  ', 'PRESENTER; someone who presents a message of some sort (as a petition or an address or a check or a memorial etc.);   ;   presenter  ']
+
+Cluster  56
+['COMPANY; an institution created to conduct business;   he only invests in large wellestablished companies ,  he started the company in his garage  ;   company  ', 'EMPLOYER; a person or firm that employs workers;   ;   employer  ', 'EMPLOYEE; a worker who is hired to perform a job;   ;   employee  ', 'UNEMPLOYED; people who are involuntarily out of work (considered as a group);   the longterm unemployed need assistance  ;   unemployed_people ,  unemployed  ']
+
+Cluster  57
+['ARTISAN; a skilled worker who practices some trade or handicraft;   ;   craftsman ,  artisan ,  journeyman ,  artificer  ', 'ARTISAN; a skilled worker who practices some trade or handicraft;   ;   craftsman ,  artisan ,  journeyman ,  artificer  ']
+
+Cluster  58
+['LIFEGUARD; an attendant employed at a beach or pool to protect swimmers from accidents;   ;   lifeguard ,  lifesaver  ', 'LIFEGUARD; an attendant employed at a beach or pool to protect swimmers from accidents;   ;   lifeguard ,  lifesaver  ', 'RESCUER; a person who rescues you from harm or danger;   ;   savior ,  saviour ,  rescuer ,  deliverer  ']
+
+Cluster  59
+['CUSTOMER; someone who pays for goods or services;   ;   customer ,  client  ', 'MERCHANT; a businessperson engaged in retail trade;   ;   merchant ,  merchandiser  ', 'RETAILER; a merchant who sells goods at retail;   ;   retailer ,  retail_merchant  ', 'RECRUITERS; someone who supplies members or employees;   ;   recruiter  ', 'REORDER; a repeated order for the same merchandise;  "he s the one who sends out all the new orders and reorders" ;   reorder  ', 'SALESPERSON; a person employed to represent a business and to sell its merchandise (as to customers in a store or to customers who are visited);   ;   salesperson ,  sales_representative ,  sales_rep  ', 'SELLER; someone who promotes or exchanges goods or services for money;   ;   seller ,  marketer ,  vender ,  vendor ,  trafficker  ']
+
+Cluster  60
+['BRICOMEN; ; ; ']
+
+Cluster  61
+['PROFESSIONAL; a person engaged in one of the learned professions;   ;   professional ,  professional_person  ', 'PROFESSIONAL; a person engaged in one of the learned professions;   ;   professional ,  professional_person  ']
+
+Cluster  62
+['HUMAN BEING', 'CREATURE; a living organism characterized by voluntary movement;   ;   animal ,  animate_being ,  beast ,  brute ,  creature ,  fauna  ', 'INTELLIGENT; having the capacity for thought and reason especially to a high degree;   is there intelligent life in the universe? ,  an intelligent question  ;   intelligent  ', 'HUMAN; any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage;   ;   homo ,  man ,  human_being ,  human  ', 'HUMAN; any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage;   ;   homo ,  man ,  human_being ,  human  ']
+
+Cluster  63
+['DECORATOR; a person who specializes in designing architectural interiors and their furnishings;   ;   interior_designer ,  designer ,  interior_decorator ,  house_decorator ,  room_decorator ,  decorator  ', 'DESIGNER; a person who specializes in designing architectural interiors and their furnishings;   ;   interior_designer ,  designer ,  interior_decorator ,  house_decorator ,  room_decorator ,  decorator  ', 'DESIGNER; a person who specializes in designing architectural interiors and their furnishings;   ;   interior_designer ,  designer ,  interior_decorator ,  house_decorator ,  room_decorator ,  decorator  ', 'DESIGNER; a person who specializes in designing architectural interiors and their furnishings;   ;   interior_designer ,  designer ,  interior_decorator ,  house_decorator ,  room_decorator ,  decorator  ', 'DESIGNER; a person who specializes in designing architectural interiors and their furnishings;   ;   interior_designer ,  designer ,  interior_decorator ,  house_decorator ,  room_decorator ,  decorator  ']
+
+Cluster  64
+['CRISTIAN CHRISTIANS', 'CHRISTIAN; a religious person who believes Jesus is the Christ and who is a member of a Christian denomination;   ;   Christian  ', 'CHRISTIAN; a religious person who believes Jesus is the Christ and who is a member of a Christian denomination;   ;   Christian  ', 'CHRIST; a teacher and prophet born in Bethlehem and active in Nazareth his life and sermons form the basis for Christianity (circa 4 BC  AD 29);   ;   Jesus ,  Jesus_of_Nazareth ,  the_Nazarene ,  Jesus_Christ ,  Christ ,  Savior ,  Saviour ,  Good_Shepherd ,  Redeemer ,  Deliverer  ', 'DEVIL; (JudeoChristian and Islamic religions) chief spirit of evil and adversary of God tempter of mankind master of Hell;   ;   Satan ,  Old_Nick ,  Devil ,  Lucifer ,  Beelzebub ,  the_Tempter ,  Prince_of_Darkness  ', 'TERRORIST; a radical who employs terror as a political weapon usually organizes with other terrorists in small cells often uses religion as a cover for terrorist activities;   ;   terrorist  ']
+
+Cluster  65
+['PROGRAMMER; a person who designs and writes and tests computer programs;   ;   programmer ,  computer_programmer ,  coder ,  software_engineer  ', 'PROGRAMMER; a person who designs and writes and tests computer programs;   ;   programmer ,  computer_programmer ,  coder ,  software_engineer  ']
+
+Cluster  66
+['CONDOMINIUM ADMINISTRATOR']
+
+Cluster  67
+['AUTHOR; writes (books or stories or articles or the like) professionally (for pay);   ;   writer ,  author  ', 'TYPIST; someone paid to operate a typewriter;   ;   typist  ', 'JOURNALIST; a writer for newspapers and magazines;   ;   journalist  ', 'WRITER; writes (books or stories or articles or the like) professionally (for pay);   ;   writer ,  author  ', 'WRITER; writes (books or stories or articles or the like) professionally (for pay);   ;   writer ,  author  ', 'PRINTER; someone whose occupation is printing;   ;   printer ,  pressman  ']
+
+Cluster  68
+['SMOOTH; the act of smoothing;   he gave his hair a quick smooth  ;   smooth  ', 'CARELESS; marked by lack of attention or consideration or forethought or thoroughness not careful;   careless about her clothes ,  forgotten by some careless person ,  a careless housekeeper ,  careless proofreading ,  it was a careless mistake ,  hurt by a careless remark  ;   careless  ']
+
+Cluster  69
+['BUSY; keep busy with;   She busies herself with her butterfly collection  ;   busy ,  occupy  ', 'ENGAGED; carry out or participate in an activity be involved in;   She pursued many activities ,  They engaged in a discussion  ;   prosecute ,  engage ,  pursue  ', 'ENGAGED; carry out or participate in an activity be involved in;   She pursued many activities ,  They engaged in a discussion  ;   prosecute ,  engage ,  pursue  ']
+
+Cluster  70
+['INDOLENT; disinclined to work or exertion;   faineant kings under whose rule the country languished ,  an indolent hangeron ,  too lazy to wash the dishes ,  shiftless idle youth ,  slothful employees ,  the unemployed are not necessarily workshy  ;   faineant ,  indolent ,  lazy ,  otiose ,  slothful ,  workshy  ', 'LAZY; moving slowly and gently;   up a lazy river ,  lazy white clouds ,  at a lazy pace  ;   lazy  ', 'LAZY; moving slowly and gently;   up a lazy river ,  lazy white clouds ,  at a lazy pace  ;   lazy  ']
+
+Cluster  71
+['ACCOUNTANT; someone who maintains and audits business accounts;   ;   accountant ,  comptroller ,  controller  ', 'ACCOUNTANT; someone who maintains and audits business accounts;   ;   accountant ,  comptroller ,  controller  ', 'ACCOUNTANT; someone who maintains and audits business accounts;   ;   accountant ,  comptroller ,  controller  ']
+
+Cluster  72
+['HYDRAULICS; study of the mechanics of fluids;   ;   fluid_mechanics ,  hydraulics  ', 'HYDRAULIC; moved or operated or effected by liquid (water or oil);   hydraulic erosion ,  hydraulic brakes  ;   hydraulic  ']
+
+Cluster  73
+['WOMAN OF THE HOUSE', 'LADY OF THE HOUSE', 'MAN OF THE HOUSE']
+
+Cluster  74
+['GENEROUS; willing to give and share unstintingly;   a generous donation  ;   generous  ', 'GENEROUS; willing to give and share unstintingly;   a generous donation  ;   generous  ']
+
+Cluster  75
+['IN THE MANAGEMENT', 'IN MAINTENANCE']
+
+Cluster  76
+['ARCHAEOLOGIST; an anthropologist who studies prehistoric people and their culture;   ;   archeologist ,  archaeologist  ', 'ARCHAEOLOGIST; an anthropologist who studies prehistoric people and their culture;   ;   archeologist ,  archaeologist  ', 'GEOLOGIST; a specialist in geology;   ;   geologist  ']
+
+Cluster  77
+['MAINTAINER; someone who upholds or maintains;   firm upholders of tradition ,  they are sustainers of the idea of democracy  ;   upholder ,  maintainer ,  sustainer  ', 'RESTORER; a skilled worker who is employed to restore or refinish buildings or antique furniture;   ;   refinisher ,  renovator ,  restorer ,  preserver  ', 'REPAIR; the act of putting something in working order again;   ;   repair ,  fix ,  fixing ,  fixture ,  mend ,  mending ,  reparation  ', 'REPAIRMAN; a skilled worker whose job is to repair things;   ;   repairman ,  maintenance_man ,  service_man  ', 'REPAIRER; a skilled worker who mends or repairs things;   ;   mender ,  repairer ,  fixer  ']
+
+Cluster  78
+['BASKETBALL PLAYER', 'PLAY TENNIS', 'TENNIS PLAYER', 'GOLF PLAYER', 'VOLLEYBALL PLAYER', 'POKER PLAYER', 'POLE Vaulter', 'CHESS PLAYER', 'TENNIS PLAYER']
+
+Cluster  79
+['SWIMMER; a trained athlete who participates in swimming meets;   he was an Olympic swimmer  ;   swimmer  ', 'SWIMMER; a trained athlete who participates in swimming meets;   he was an Olympic swimmer  ;   swimmer  ']
+
+Cluster  80
+['FIREFIGHTER; a member of a fire department who tries to extinguish fires;   ;   fireman ,  firefighter ,  fire_fighter ,  fireeater  ']
+
+Cluster  81
+['LEGAL GUARDIAN', 'LAWYER; a professional person authorized to practice law conducts lawsuits or gives legal advice;   ;   lawyer ,  attorney  ', 'CLIENT; a person who seeks the advice of a lawyer;   ;   client  ', 'JUDGE; a public official authorized to decide questions brought before a court of justice;   ;   judge ,  justice ,  jurist  ', 'NOTARY; someone legally empowered to witness signatures and certify a document s validity and to take depositions;   ;   notary ,  notary_public  ']
+
+Cluster  82
+['LAUGHTER; the sound of laughing;   ;   laugh ,  laughter  ', 'LAUGH; the sound of laughing;   ;   laugh ,  laughter  ']
+
+Cluster  83
+['GOOD MAN', 'GOOD PERSON', 'GOOD BOY']
+
+Cluster  84
+['WOMAN; an adult female person (as opposed to a man);   the woman kept house while the man hunted  ;   woman ,  adult_female  ', 'NUN; a woman religious;   ;   nun  ', 'TRANSGENDER; involving a partial or full reversal of gender;   ;   transgender ,  transgendered  ']
+
+Cluster  85
+['DO THE HOUSE CHORES', 'DO THE HOUSEWORK', 'DO SMALL HOUSEHOLD WORK', 'FIX THE HOUSE']
+
+Cluster  86
+['WORKER; a person who works at a specific occupation;   he is a good worker  ;   worker  ', 'WORKER; a person who works at a specific occupation;   he is a good worker  ;   worker  ', 'WORKER; a person who works at a specific occupation;   he is a good worker  ;   worker  ', 'Slackers; a person who shirks his work or duty (especially one who tries to evade military service in wartime);   ;   slacker ,  shirker  ']
+
+Cluster  87
+['CHEF; a professional cook;   ;   chef  ', 'COOKED; prepare a hot meal;  "My husband doesn t cook" ;   cook  ', 'COOK; someone who cooks food;   ;   cook  ', 'COOK; someone who cooks food;   ;   cook  ']
+
+Cluster  88
+['COMPUTER; a machine for performing calculations automatically;   ;   computer ,  computing_machine ,  computing_device ,  data_processor ,  electronic_computer ,  information_processing_system  ', 'GRAPHIC; an image that is generated by a computer;   ;   graphic ,  computer_graphic  ']
+
+Cluster  89
+['MASTER; an artist of consummate skill;   a master of the violin ,  one of the old masters  ;   maestro ,  master  ', 'MASTER; an artist of consummate skill;   a master of the violin ,  one of the old masters  ;   maestro ,  master  ']
+
+Cluster  90
+['ARTIST; a person whose creative work shows sensitivity and imagination;   ;   artist ,  creative_person  ', 'PHOTOGRAPHER; someone who takes photographs professionally;   ;   photographer ,  lensman  ', 'PAINTER; an artist who paints;   ;   painter  ', 'PAINTER; an artist who paints;   ;   painter  ', 'PAINTER; an artist who paints;   ;   painter  ']
+
+Cluster  91
+['REAL ESTATE AGENT', 'BUSINESS CONSULTANT', 'BUSINESS OWNER', 'BUSINESS MAN']
+
+Cluster  92
+['LIFE PARTNER', 'LIFE PARTNER']
+
+Cluster  93
+['CARING FOR THE CHILDREN', 'WITH FRIENDS', 'WITH THE CHILDREN', 'WITH CHILDREN', 'WITH THE FAMILY']
+
+Cluster  94
+['COOKING THE ROAST']
+
+Cluster  95
+['FIREMAN; play in which children pretend to put out a fire;   ;   fireman  ', 'FIREMAN; play in which children pretend to put out a fire;   ;   fireman  ']
+
+Cluster  96
+['CONDUCTOR; the person who leads a musical group;   ;   conductor ,  music_director ,  director  ', 'COORDINATOR; someone whose task is to see that work goes harmoniously;   ;   coordinator  ', 'DIRECTOR; someone who controls resources and expenditures;   ;   director ,  manager ,  managing_director  ', 'DIRECTOR; someone who controls resources and expenditures;   ;   director ,  manager ,  managing_director  ', 'MANAGER; someone who controls resources and expenditures;   ;   director ,  manager ,  managing_director  ', 'MANAGER; someone who controls resources and expenditures;   ;   director ,  manager ,  managing_director  ', 'SECRETARY; a person who is head of an administrative department of government;   ;   secretary  ']
+
+Cluster  97
+['WASHING; the work of cleansing (usually with soap and water);   ;   wash ,  washing ,  lavation  ', 'HOUSEWORKS; the work of cleaning and running a house;   ;   housework ,  housekeeping  ', 'MAINTENANCE; activity involved in maintaining something in good working order;   he wrote the manual on car care  ;   care ,  maintenance ,  upkeep  ']
+
+Cluster  98
+['ALTO; a singer whose voice lies in the alto clef;   ;   alto  ', 'SWEET; English phonetician one of the founders of modern phonetics (18451912);   ;   Sweet ,  Henry_Sweet  ', 'TENOR; the adult male singing voice above baritone;   ;   tenor ,  tenor_voice  ']
+
+Cluster  99
+['MASSAGE THERAPIST', 'MASSEUSE; a female massager;   ;   masseuse  ', 'MASSAGER; someone who rubs or kneads parts of the body to stimulate circulation and promote relaxation;   ;   massager  ', 'MEDIATRIX; a woman who is a mediator;   ;   mediatrix  ', 'PEDICURE; professional care for the feet and toenails;   ;   pedicure  ']
+
+Cluster  100
+['INFLUENCE THE THINKING OF THE GROUP']
+
+Cluster  101
+['MATE; the officer below the master on a commercial ship;   ;   mate ,  first_mate  ', 'NAVIGATOR; the ship s officer in charge of navigation;   ;   sailing_master ,  navigator  ', 'FERRYMAN; a man who operates a ferry;   ;   ferryman  ', 'SAILOR; any member of a ship s crew;   ;   sailor ,  crewman  ']
+
+Cluster  102
+['FLORIST; someone who grows and deals in flowers;   the florist made up an attractive bouquet  ;   florist  ']
+
+Cluster  103
+['FEMALE DOCTOR', 'GYNECOLOGIST; a specialist in gynecology;   ;   gynecologist ,  gynaecologist , "woman s_doctor" ', 'GYNECOLOGIST; a specialist in gynecology;   ;   gynecologist ,  gynaecologist , "woman s_doctor" ', 'NEUROLOGIST; a medical specialist in the nervous system and the disorders affecting it;   ;   neurologist ,  brain_doctor  ', 'OBSTETRICIAN; a physician specializing in obstetrics;   ;   obstetrician ,  accoucheur  ', 'PEDIATRICIAN; a specialist in the care of babies;   ;   baby_doctor ,  pediatrician ,  pediatrist ,  paediatrician  ']
+
+Cluster  104
+['gas station', 'GAS STATION']
+
+Cluster  105
+['Escort; someone who escorts and protects a prominent person;   ;   bodyguard ,  escort  ', 'ESCORT; someone who escorts and protects a prominent person;   ;   bodyguard ,  escort  ']
+
+Cluster  106
+['MAKING SWEETS', 'PREPARE SWEETS']
+
+Cluster  107
+['MOTORBIKE PILOT', 'CYCLIST; a person who rides a bicycle;   ;   cyclist ,  bicyclist ,  bicycler ,  wheeler  ', 'MOTORCYCLIST; a traveler who rides a motorcycle;   ;   motorcyclist  ', 'TRAVELLER; a person who changes location;   ;   traveler ,  traveller  ']
+
+Cluster  108
+['SON; a male human offspring;   their son became a famous judge ,  his boy is taller than he is  ;   son ,  boy  ', 'SON; a male human offspring;   their son became a famous judge ,  his boy is taller than he is  ;   son ,  boy  ']
+
+Cluster  109
+['DANCER; a performer who dances professionally;   ;   dancer ,  professional_dancer ,  terpsichorean  ', 'DANCER; a performer who dances professionally;   ;   dancer ,  professional_dancer ,  terpsichorean  ', 'DANCER; a performer who dances professionally;   ;   dancer ,  professional_dancer ,  terpsichorean  ']
+
+Cluster  110
+['COUNCILOR; ; ; ', 'COUNCILOR; ; ; ', 'CASINIST; ; ; ', "POPE'; ; ; "]
+
+Cluster  111
+['BREAK; some abrupt occurrence that interrupts an ongoing activity;   the telephone is an annoying interruption ,  there was a break in the action when a player was hurt  ;   interruption ,  break  ', 'CLOSE; the temporal end the concluding time;   the stopping point of each round was signaled by a bell ,  the market was up at the finish ,  they were playing better at the close of the season  ;   stopping_point ,  finale ,  finis ,  finish ,  last ,  conclusion ,  close  ']
+
+Cluster  112
+['LIVING BEING']
+
+Cluster  113
+['OPERATOR; (mathematics) a symbol or function representing a mathematical operation;   ;   operator  ', 'OPERATOR; (mathematics) a symbol or function representing a mathematical operation;   ;   operator  ']
+
+Cluster  114
+['PROFESSOR; someone who is a member of the faculty at a college or university;   ;   professor ,  prof  ', 'PROFESSOR; someone who is a member of the faculty at a college or university;   ;   professor ,  prof  ', 'PROFESSOR; someone who is a member of the faculty at a college or university;   ;   professor ,  prof  ']
+
+Cluster  115
+['DETECTIVES; a police officer who investigates crimes;   ;   detective ,  investigator ,  tec ,  police_detective  ', 'POLICEWOMAN; a woman policeman;   ;   police_matron ,  policewoman  ', 'POLICEMAN; a member of a police force;   it was an accident, officer  ;   policeman ,  police_officer ,  officer  ']
+
+Cluster  116
+['TO PAINT', 'TO DRAW']
+
+Cluster  117
+['MIstress; an adulterous woman a woman who has an ongoing extramarital sexual relationship with a man;   ;   mistress ,  kept_woman ,  fancy_woman  ']
+
+Cluster  118
+['FATHER OF THE FAMILY', 'FAMILY MAN']
+
+Cluster  119
+['HOUSEHOLDER; someone who owns a home;   ;   homeowner ,  householder  ', 'HOUSEHOLDER; someone who owns a home;   ;   homeowner ,  householder  ']
+
+Cluster  120
+['GO SHOPPING']
+
+Cluster  121
+['INDIVIDUAL; a human being;   there was too much for one person to do  ;   person ,  individual ,  someone ,  somebody ,  mortal ,  soul  ', 'PERSON; a human being;   there was too much for one person to do  ;   person ,  individual ,  someone ,  somebody ,  mortal ,  soul  ']
+
+Cluster  122
+['greengrocer; a grocer who sells fresh fruits and vegetables;   ;   greengrocer  ', 'GREENGROCER; a grocer who sells fresh fruits and vegetables;   ;   greengrocer  ', 'GLUTTON; a person who is devoted to eating and drinking to excess;   ;   glutton ,  gourmand ,  gourmandizer ,  trencherman  ']
+
+Cluster  123
+['LISTENER; someone who listens attentively;   ;   hearer ,  listener ,  auditor ,  attender  ', 'LISTENER; someone who listens attentively;   ;   hearer ,  listener ,  auditor ,  attender  ', 'OBSERVER; a person who becomes aware (of things or events) through the senses;   ;   perceiver ,  percipient ,  observer ,  beholder  ', 'VOYEUR; a viewer who enjoys seeing the sex acts or sex organs of others;   ;   voyeur ,  Peeping_Tom ,  peeper  ']
+
+Cluster  124
+['FRIEND; a person you know well and regard with affection and trust;   he was my best friend at the university  ;   friend  ', 'FRIEND; a person you know well and regard with affection and trust;   he was my best friend at the university  ;   friend  ']
+
+Cluster  125
+['DO HEAVY WORK', 'IN HOUSE WORK', 'IN THE HOUSEHOLD WORK']
+
+Cluster  126
+['LEADER; a person who rules or guides or inspires others;   ;   leader  ', 'OFFICER; any person in the armed services who holds a position of authority or command;   an officer is responsible for the lives of his men  ;   military_officer ,  officer  ', 'EMPEROR; the male ruler of an empire;   ;   emperor  ', 'MILITARY; the military forces of a nation;   their military is the largest in the region ,  the military machine is the same one we faced in 1991 but now it is weaker  ;   military ,  armed_forces ,  armed_services ,  military_machine ,  war_machine  ', 'SOLDIER; an enlisted man or woman who serves in an army;   the soldiers stood at attention  ;   soldier  ']
+
+Cluster  127
+['WITH CARLA', 'TAKE CARE OF YOURSELF AND OF CARLA']
+
+Cluster  128
+['FUCKS; slang for sexual intercourse;   ;   fuck ,  fucking ,  screw ,  screwing ,  ass ,  nooky ,  nookie ,  piece_of_ass ,  piece_of_tail ,  roll_in_the_hay ,  shag ,  shtup  ', 'PUSSY; obscene terms for female genitals;   ;   cunt ,  puss ,  pussy ,  slit ,  snatch ,  twat  ', 'BLOWJOB; slang for fellatio;   ;   cock_sucking ,  blowjob  ', 'FUCK; slang for sexual intercourse;   ;   fuck ,  fucking ,  screw ,  screwing ,  ass ,  nooky ,  nookie ,  piece_of_ass ,  piece_of_tail ,  roll_in_the_hay ,  shag ,  shtup  ']
+
+Cluster  129
+['AGENT; an active and efficient cause capable of producing a certain effect;   their research uncovered new disease agents  ;   agent  ', 'BIOLOGY; the science that studies living organisms;   ;   biology ,  biological_science  ', 'EXPERT; a person with special knowledge or ability who performs skillfully;   ;   expert  ', 'ENGINEER; a person who uses scientific knowledge to solve practical problems;   ;   engineer ,  applied_scientist ,  technologist  ', 'INVENTOR; someone who is the first to think of or make something;   ;   inventor ,  discoverer ,  artificer  ', 'SCIENTIST; a person with advanced knowledge of one or more sciences;   ;   scientist  ', 'SCIENTIST; a person with advanced knowledge of one or more sciences;   ;   scientist  ']
+
+Cluster  130
+['YOGA TEACHER']
+
+Cluster  131
+['GUAGLIONA; ; ; ', 'GUAGLION; ; ; ']
+
+Cluster  132
+['MAKE ME FEEL GOOD']
+
+Cluster  133
+['IN MATHEMATICS', 'IN THE CALCULATIONS']
+
+Cluster  134
+['HANDYMAN; a man skilled in various odd jobs and other small tasks;   ;   handyman ,  jack_of_all_trades ,  oddjob_man  ', 'LAUNDRYMAN; operates industrial washing machine;   ;   washerman ,  laundryman  ', 'DUSTMAN; someone employed to collect and dispose of refuse;   ;   garbage_man ,  garbageman ,  garbage_collector ,  garbage_carter ,  garbage_hauler ,  refuse_collector ,  dustman  ', 'HANDYMAN; a man skilled in various odd jobs and other small tasks;   ;   handyman ,  jack_of_all_trades ,  oddjob_man  ']
+
+Cluster  135
+['BEAUTICIAN; someone who works in a beauty parlor;   ;   beautician ,  cosmetician  ', 'HAIRDRESSER; someone who cuts or beautifies hair;   ;   hairdresser ,  hairstylist ,  stylist ,  styler  ', 'HAIRDRESSER; someone who cuts or beautifies hair;   ;   hairdresser ,  hairstylist ,  stylist ,  styler  ', 'STYLIST; an artist who is a master of a particular style;   ;   stylist  ']
+
+Cluster  136
+['SKI INSTRUCTOR', 'SKATER; someone who skates;   ;   skater  ', 'SKIER; someone who skis;   ;   skier  ', 'SKIER; someone who skis;   ;   skier  ']
+
+Cluster  137
+['NOT NO']
+
+Cluster  138
+['MASON; American Revolutionary leader from Virginia whose objections led to the drafting of the Bill of Rights (17251792);   ;   Mason ,  George_Mason  ']
+
+Cluster  139
+['EASY GOING']
+
+Cluster  140
+['PROJECT LEADER', 'PROJECT MANAGER']
+
+Cluster  141
+['TENANT; someone who pays rent to use land or a building or a car that is owned by someone else;  "the landlord can evict a tenant who doesn t pay the rent" ;   tenant ,  renter  ', 'TENANT; someone who pays rent to use land or a building or a car that is owned by someone else;  "the landlord can evict a tenant who doesn t pay the rent" ;   tenant ,  renter  ']
+
+Cluster  142
+['ALPHA extension']
+
+Cluster  143
+['JUGGLER; a performer who juggles objects and performs tricks of manual dexterity;   ;   juggler  ', 'PRESTIDIGITATOR; someone who performs magic tricks to amuse an audience;   ;   magician ,  prestidigitator ,  conjurer ,  conjuror ,  illusionist  ', 'MAGICIAN; someone who performs magic tricks to amuse an audience;   ;   magician ,  prestidigitator ,  conjurer ,  conjuror ,  illusionist  ']
+
+Cluster  144
+['DELIVERY MAN', 'DELIVERY MAN']
+
+Cluster  145
+['DOG TRAINER', 'TRAINER OF PAROKETS', 'TRAINER; one who trains other persons or animals;   ;   trainer  ']
+
+Cluster  146
+['BLACKSMITH; a smith who forges and shapes iron with a hammer and anvil;   ;   blacksmith  ', 'MACHINIST; a craftsman skilled in operating machine tools;   ;   machinist ,  mechanic ,  shop_mechanic  ', 'MECHANIC; a craftsman skilled in operating machine tools;   ;   machinist ,  mechanic ,  shop_mechanic  ', 'IRONER; extremely robust;   an iron constitution  ;   castiron ,  iron  ', 'TECHNICIAN; someone whose occupation involves training in a specific technical process;   ;   technician  ']
+
+Cluster  147
+['BANKING; engaging in the business of keeping money for savings and checking accounts or for exchange or for issuing loans and credit etc.;   ;   banking  ', 'BANKING; engaging in the business of keeping money for savings and checking accounts or for exchange or for issuing loans and credit etc.;   ;   banking  ']
+
+Cluster  148
+['HOME COLLABORATOR', 'COLLABORATOR FOR HOUSEWORK']
+
+Cluster  149
+['DAUGHTER; a female human offspring;   her daughter cared for her in her old age  ;   daughter ,  girl  ', 'DAUGHTER; a female human offspring;   her daughter cared for her in her old age  ;   daughter ,  girl  ']
+
+Cluster  150
+['MAKE THE ACCOUNTS']
+
+Cluster  151
+['WORKSHOP HEAD']
+
+Cluster  152
+['BEAUTIFUL; delighting the senses or exciting intellectual or emotional admiration;   a beautiful child ,  beautiful country ,  a beautiful painting ,  a beautiful theory ,  a beautiful party  ;   beautiful  ', 'UGLY; displeasing to the senses;   an ugly face ,  ugly furniture  ;   ugly  ', 'EXCELLENT; very goodof the highest quality;   made an excellent speech ,  the school has excellent teachers ,  a firstclass mind  ;   excellent ,  firstclass ,  fantabulous ,  splendid  ', 'WONDERFUL; extraordinarily good or great  used especially as intensifiers;   a fantastic trip to the Orient ,  the film was fantastic! ,  a howling success ,  a marvelous collection of rare books ,  had a rattling conversation about politics ,  a tremendous achievement  ;   fantastic ,  grand ,  howling ,  marvelous ,  marvellous ,  rattling ,  terrific ,  tremendous ,  wonderful ,  wondrous  ']
+
+Cluster  153
+['PROSE ACTOR', 'ACTOR; a theatrical performer;   ;   actor ,  histrion ,  player ,  thespian ,  role_player  ', 'ACTRESS; a female actor;   ;   actress  ', 'PLAY; a dramatic work intended for performance by actors on a stage;   he wrote several plays but only one was produced on Broadway  ;   play ,  drama ,  dramatic_play  ', 'ENTERTAINER; a person who tries to please or amuse;   ;   entertainer  ', 'CHARACTER; an imaginary person represented in a work of fiction (play or film or story);   she is the main character in the novel  ;   fictional_character ,  fictitious_character ,  character  ']
+
+Cluster  154
+['LAD; a boy or man;   that chap is your host , "there s a fellow at the door", "he s a likable cuss", "he s a good bloke" ;   chap ,  fellow ,  feller ,  fella ,  lad ,  gent ,  blighter ,  cuss ,  bloke  ', 'GUY; an informal term for a youth or man;   a nice guy , "the guy s only doing it for some doll" ;   guy ,  cat ,  hombre ,  bozo  ', 'DUDE; an informal form of address for a man;   Say, fellow, what are you doing? , "Hey buster, what s up?" ;   fellow ,  dude ,  buster  ']
+
+Cluster  155
+['HOMEMADE; made or produced in the home or by yourself;   homemade bread  ;   homemade  ', 'COOKIE; any of various small flat sweet cakes (`biscuit  is the British term);   ;   cookie ,  cooky ,  biscuit  ', 'BAKER; someone who bakes commercially;   ;   baker  ', 'BAKER; someone who bakes commercially;   ;   baker  ', 'PASTRY; a dough of flour and water and shortening;   ;   pastry ,  pastry_dough  ']
+
+Cluster  156
+['CAR ELECTRIC']
+
+Cluster  157
+['CHATTERY; ; ; ']
+
+Cluster  158
+['CASHIER; an employee of a bank who receives and pays out money;   ;   teller ,  cashier ,  bank_clerk  ', 'CLERK; an employee who performs clerical work (e.g., keeps records or accounts);   ;   clerk  ', 'CLERK; an employee who performs clerical work (e.g., keeps records or accounts);   ;   clerk  ', 'SORTER; a clerk who sorts things (as letters at the post office);   ;   sorter  ']
+
+Cluster  159
+['BALL BREAKER']
+
+Cluster  160
+['STAY AS A COUPLE']
+
+Cluster  161
+['FOOTBALL; any of various games played with a ball (round or oval) in which two teams try to kick or carry or propel the ball into each other s goal;   ;   football ,  football_game  ', 'RUN; a score in baseball made by a runner touching all four bases safely;   the Yankees scored 3 runs in the bottom of the 9th ,  their first tally came in the 3rd inning  ;   run ,  tally  ']
+
+Cluster  162
+['SELF EMPLOYED', 'SELF-EMPLOYED WORKER']
+
+Cluster  163
+['HUNTER; someone who hunts game;   ;   hunter ,  huntsman  ', 'BUTCHER; a retailer of meat;   ;   butcher ,  meatman  ', 'butcher; a retailer of meat;   ;   butcher ,  meatman  ']
+
+Cluster  164
+['INSURANCE; promise of reimbursement in the case of loss paid to people or companies so concerned about hazards that they have made prepayments to an insurance company;   ;   insurance  ']
+
+Cluster  165
+['PARACULO; ; ; ', 'SERVITE; ; ; ']
+
+Cluster  166
+['POLITICAL EXPERT', 'PRIME MINISTER']
+
+Cluster  167
+['TRUCK DRIVER', 'CRANE OPERATOR', 'CRANE OPERATOR']
+
+Cluster  168
+['NICE; a city in southeastern France on the Mediterranean the leading resort on the French Riviera;   ;   Nice  ']
+
+Cluster  169
+['TAXI DRIVER']
+
+Cluster  170
+['DOING MALE THINGS TOO']
+
+Cluster  171
+['ADJUSTER; one who investigates insurance claims or claims for damages and recommends an effective settlement;   ;   adjuster ,  adjustor ,  claims_adjuster ,  claims_adjustor ,  claim_agent  ', 'ADJUSTER; one who investigates insurance claims or claims for damages and recommends an effective settlement;   ;   adjuster ,  adjustor ,  claims_adjuster ,  claims_adjustor ,  claim_agent  ', 'TESTER; someone who administers a test to determine your qualifications;   ;   examiner ,  tester ,  quizzer  ']
+
+Cluster  172
+['FREELANCE; a writer or artist who sells services to different employers without a longterm contract with any of them;   ;   freelancer ,  freelance ,  freelance ,  free_lance ,  independent ,  selfemployed_person  ', 'FREELANCER; a writer or artist who sells services to different employers without a longterm contract with any of them;   ;   freelancer ,  freelance ,  freelance ,  free_lance ,  independent ,  selfemployed_person  ']
+
+Cluster  173
+['HOUSEWIFE; a wife who manages a household while her husband earns the family income;   ;   housewife ,  homemaker ,  lady_of_the_house ,  woman_of_the_house  ', 'HOUSEWIFE; a wife who manages a household while her husband earns the family income;   ;   housewife ,  homemaker ,  lady_of_the_house ,  woman_of_the_house  ', 'MIDWIFE; a woman skilled in aiding the delivery of babies;   ;   midwife ,  accoucheuse  ', 'LANDLADY; a landlord who is a woman;   ;   landlady  ']
+
+Cluster  174
+['STATISTICS; a branch of applied mathematics concerned with the collection and interpretation of quantitative data and the use of probability theory to estimate population parameters;   ;   statistics  ']
+
+Cluster  175
+['WITHSTAND ME']
+
+Cluster  176
+['STAPLER; a machine that inserts staples into sheets of paper in order to fasten them together;   ;   stapler ,  stapling_machine  ']
+
+Cluster  177
+['PROFESSIONAL REMOTE WORKER', 'SMARTWORKING WORKER', 'SMARTWORKER; ; ; ']
+
+Cluster  178
+['PUT ON MAKEUP', 'MAKEUP DRESSER']
+
+Cluster  179
+['ANESTHETIST; a specialist who administers an anesthetic to a patient before he is treated;   ;   anesthesiologist ,  anesthetist ,  anaesthetist  ', 'CARDIOLOGIST; a specialist in cardiology a specialist in the structure and function and disorders of the heart;   ;   cardiologist ,  heart_specialist ,  heart_surgeon  ', 'DIETICIAN; a specialist in the study of nutrition;   ;   dietician ,  dietitian ,  nutritionist  ']
+
+Cluster  180
+['SUBJECT; the subject matter of a conversation or discussion;  "he didn t want to discuss that subject",  it was a very sensitive topic ,  his letters were always on the theme of love  ;   subject ,  topic ,  theme  ']
+
+Cluster  181
+['NARCISSUS; bulbous plant having erect linear leaves and showy yellow or white flowers either solitary or in clusters;   ;   narcissus  ']
+
+Cluster  182
+['WEB MARKETING']
+
+Cluster  183
+['CHATTY; full of trivial conversation;   kept from her housework by gabby neighbors  ;   chatty ,  gabby ,  garrulous ,  loquacious ,  talkative ,  talky  ']
+
+Cluster  184
+['FOOL; a person who lacks good judgment;   ;   fool ,  sap ,  saphead ,  muggins ,  tomfool  ', 'CUNNING; shrewdness as demonstrated by being skilled in deception;   ;   craft ,  craftiness ,  cunning ,  foxiness ,  guile ,  slyness ,  wiliness  ', 'STUPID; a person who is not very bright;   The economy, stupid!  ;   stupid ,  stupid_person ,  stupe ,  dullard ,  dolt ,  pudding_head ,  puddenhead ,  poor_fish ,  pillock  ']
+
+Cluster  185
+['UNSCREW THE WHEEL BOLTS']
+
+Cluster  186
+['ASTROPHYSICS; the branch of astronomy concerned with the physical and chemical properties of celestial bodies;   ;   astrophysics  ']
+
+Cluster  187
+['EFFICIENT; being effective without wasting time or effort or expense;   an efficient production manager ,  efficient engines save gas  ;   efficient  ', 'ACCURATE; conforming exactly or almost exactly to fact or to a standard or performing with total accuracy;   an accurate reproduction ,  the accounting was accurate ,  accurate measurements ,  an accurate scale  ;   accurate  ']
+
+Cluster  188
+['BARBER SHOP', 'SHOP ASSISTANT', 'FLOWER SHOP', 'TIRE SHOP', 'FACTORY GIRL', 'DRUG DEALER']
+
+Cluster  189
+['LIGHT; (physics) electromagnetic radiation that can produce a visual sensation;   the light was filtered through a soft glass window  ;   light ,  visible_light ,  visible_radiation  ', 'MIRROR; polished surface that forms images by reflecting light;   ;   mirror  ']
+
+Cluster  190
+['ORDER AT HOME']
+
+Cluster  191
+['SIMPLIFY PROBLEMS']
+
+Cluster  192
+['QUALIFIED; prove capable or fit meet requirements;   ;   qualify ,  measure_up  ']
+
+Cluster  193
+['Caver; ; ; ']
+
+Cluster  194
+['PAIN ASSHOLE']
+
+Cluster  195
+['TOURIST GUIDE']
+
+Cluster  196
+['TO LISTEN', 'TO SLEEP', 'TO EAT']
+
+Cluster  197
+['NOTHING; a quantity of no importance;   it looked like nothing I had ever seen before ,  reduced to nil all the work we had done ,  we racked up a pathetic goose egg ,  it was all for naught , "I didn t hear zilch about it" ;   nothing ,  nil ,  nix ,  nada ,  null ,  aught ,  cipher ,  cypher ,  goose_egg ,  naught ,  zero ,  zilch ,  zip ,  zippo  ']
+
+Cluster  198
+['PRESS; the state of demanding notice or attention;   the insistence of their hunger ,  the press of business matters  ;   imperativeness ,  insistence ,  insistency ,  press ,  pressure  ']
+
+Cluster  199
+['PSYCHIATRIST; a physician who specializes in psychiatry;   ;   psychiatrist ,  headshrinker ,  shrink  ', 'PSYCHOLOGIST; a scientist trained in psychology;   ;   psychologist  ', 'PSYCHOLOGIST; a scientist trained in psychology;   ;   psychologist  ']
+
+Cluster  200
+['SCHOOLGIRL; a girl attending school;   ;   schoolgirl  ', 'SCHOOLBOY; a boy attending school;   ;   schoolboy  ']
+
+Cluster  201
+['TO BE']
+
+Cluster  202
+['IMITATOR; someone who (fraudulently) assumes the appearance of another;   ;   impersonator ,  imitator  ']
+
+Cluster  203
+['MATCH COLORS']
+
+Cluster  204
+['ATHLETE; a person trained to compete in sports;   ;   athlete ,  jock  ', 'ATHLETE; a person trained to compete in sports;   ;   athlete ,  jock  ', 'BOXER; someone who fights with his fists for sport;   ;   boxer ,  pugilist  ', 'SPORT; an active diversion requiring physical exertion and competition;   ;   sport ,  athletics  ', 'SPORTY; exhibiting or calling for sportsmanship or fair play;   a clean fight ,  a sporting solution of the disagreement ,  sportsmanlike conduct  ;   clean ,  sporting ,  sporty ,  sportsmanlike  ']
+
+Cluster  205
+['Gascon; ; ; ']
+
+Cluster  206
+['ELEMENT; an abstract part of something;   jealousy was a component of his character ,  two constituents of a musical composition are melody and harmony ,  the grammatical elements of a sentence ,  a key factor in her success ,  humor an effective ingredient of a speech  ;   component ,  constituent ,  element ,  factor ,  ingredient  ']
+
+Cluster  207
+['UNCLASSIFIABLE; not possible to classify;   ;   unclassifiable  ']
+
+Cluster  208
+['THAT CONTRIBUTES TO EVERYDAY LIFE']
+
+Cluster  209
+['FAT; a soft greasy substance occurring in organic tissue and consisting of a mixture of lipids (mostly triglycerides);   pizza has too much fat  ;   fat  ']
+
+Cluster  210
+['EARN; earn on some commercial or business transaction earn as salary or wages;   How much do you make a month in your new job? ,  She earns a lot in her new job ,  this merger brought in lots of money ,  He clears $5,000 each month  ;   gain ,  take_in ,  clear ,  make ,  earn ,  realize ,  realise ,  pull_in ,  bring_in  ']
+
+Cluster  211
+['LAUNDRESS; a working woman who takes in washing;   ;   washwoman ,  washerwoman ,  laundrywoman ,  laundress  ', 'SEAMSTRESS; someone who makes or mends dresses;   ;   dressmaker ,  modiste ,  needlewoman ,  seamstress ,  sempstress  ', 'TAILOR; a person whose occupation is making and altering garments;   ;   tailor ,  seamster ,  sartor  ']
+
+Cluster  212
+['BUDDLED; ; ; ']
+
+Cluster  213
+['INTERPRETER; someone who mediates between speakers of different languages;   ;   interpreter ,  translator  ', 'TRANSLATOR; a person who translates written messages from one language to another;   ;   translator ,  transcriber  ']
+
+Cluster  214
+['BUZZERS; a push button at an outer door that gives a ringing or buzzing signal when pushed;   ;   doorbell ,  bell ,  buzzer  ']
+
+Cluster  215
+['BITCH; an unpleasant difficulty;   this problem is a real bitch  ;   bitch  ']
+
+Cluster  216
+['HARLOT; a woman who engages in sexual intercourse for money;   ;   prostitute ,  cocotte ,  whore ,  harlot ,  bawd ,  tart ,  cyprian ,  fancy_woman ,  working_girl ,  sporting_lady ,  lady_of_pleasure ,  woman_of_the_street  ', 'PIMP; someone who procures customers for whores (in England they call a pimp a ponce);   ;   pimp ,  procurer ,  panderer ,  pander ,  pandar ,  fancy_man ,  ponce  ', 'SEXIST; a man with a chauvinistic belief in the inferiority of women;   ;   male_chauvinist ,  sexist  ', 'COCKSUCKER; a person who performs fellatio;   ;   cocksucker  ', 'Slut; a dirty untidy woman;   ;   slattern ,  slut ,  slovenly_woman ,  trollop  ']
+
+Cluster  217
+['HELP; the activity of contributing to the fulfillment of a need or furtherance of an effort or purpose;   he gave me an assist with the housework ,  could not walk without assistance ,  rescue party went to their aid ,  offered his help in unloading  ;   aid ,  assist ,  assistance ,  help  ', 'ASSISTANT; a person who contributes to the fulfillment of a need or furtherance of an effort or purpose;   my invaluable assistant ,  they hired additional help to finish the work  ;   assistant ,  helper ,  help ,  supporter  ']
+
+Cluster  218
+['DOING HOMEWORK']
+
+Cluster  219
+['SCAVENGER; a chemical agent that is added to a chemical mixture to counteract the effects of impurities;   ;   scavenger  ']
+
+Cluster  220
+['MOUTHPIECE; a part that goes over or into the mouth of a person;   the mouthpiece of a respirator  ;   mouthpiece  ']
+
+Cluster  221
+['IN THE HOUSE CHOICES']
+
+Cluster  222
+['SET UP']
+
+Cluster  223
+['RESPONSIBLE; worthy of or requiring responsibility or trust or held accountable;   a responsible adult ,  responsible journalism ,  a responsible position , "the captain is responsible for the ship s safety",  the cabinet is responsible to the parliament  ;   responsible  ']
+
+Cluster  224
+['GARDENER; someone who takes care of a garden;   ;   gardener ,  nurseryman  ', 'GARDENER; someone who takes care of a garden;   ;   gardener ,  nurseryman  ', 'NURSE; one skilled in caring for young children or the sick (usually under the supervision of a physician);   ;   nurse  ', 'CLIMBER; a vine or climbing plant that readily grows up a support or over other plants;   ;   climber  ']
+
+Cluster  225
+['JUVENTINA; ; ; ', 'JUVENTINO; ; ; ']
+
+Cluster  226
+['ROOM MATE', 'ROOMMATE; an associate who shares a room with you;   ;   roommate ,  roomie ,  roomy  ', 'COLLEAGUE; an associate that one works with;   ;   colleague ,  coworker ,  fellow_worker ,  workfellow  ', 'GUEST; a visitor to whom hospitality is extended;   ;   guest ,  invitee  ', 'NEIGHBOR; a person who lives (or is located) near another;   ;   neighbor ,  neighbour  ']
+
+Cluster  227
+['MOVIE DIRECTOR']
+
+Cluster  228
+['LOVER; a person who loves someone or is loved by someone;   ;   lover  ', 'KISSER; someone who kisses;   ;   kisser ,  osculator  ']
+
+Cluster  229
+['BARZELLETTERE; ; ; ', 'BRICOLEUR; ; ; ', 'BRICOLEUSE; ; ; ']
+
+Cluster  230
+['CONNOISSEUR; an expert able to appreciate a field especially in the fine arts;   ;   connoisseur ,  cognoscente  ', 'THINKER; an important intellectual;   the great minds of the 17th century  ;   thinker ,  creative_thinker ,  mind  ', 'SCHOLAR; a learned person (especially in the humanities) someone who by long study has gained mastery in one or more disciplines;   ;   scholar ,  scholarly_person ,  bookman ,  student  ', 'SCHOLAR; a learned person (especially in the humanities) someone who by long study has gained mastery in one or more disciplines;   ;   scholar ,  scholarly_person ,  bookman ,  student  ']
+
+Cluster  231
+['TYPE; a subdivision of a particular kind of thing;   what type of sculpture do you prefer?  ;   type  ']
+
+Cluster  232
+['STUDY; a detailed critical inspection;   ;   survey ,  study  ']
+
+Cluster  233
+['COLLABORATE IN THE DRAFTING OF THE WORK']
+
+Cluster  234
+['YOUNG; any immature animal;   ;   young ,  offspring  ', 'YOUNG; any immature animal;   ;   young ,  offspring  ']
+
+Cluster  235
+['POLITICS; social relations involving intrigue to gain authority or power;   office politics is often counterproductive  ;   politics ,  political_relation  ']
+
+Cluster  236
+['AVAILABLE; obtainable or accessible and ready for use or service;   kept a fire extinguisher available ,  much information is available through computers ,  available in many colors ,  the list of available candidates is unusually long  ;   available  ']
+
+Cluster  237
+['MOTHER; a woman who has given birth to a child (also used as a term of address to your mother);   the mother of three children  ;   mother ,  female_parent  ', 'MOM; informal terms for a mother;   ;   ma ,  mama ,  mamma ,  mom ,  momma ,  mommy ,  mammy ,  mum ,  mummy  ', 'GRANDMOTHER; the mother of your father or mother;   ;   grandma ,  grandmother ,  granny ,  grannie ,  gran ,  nan ,  nanna  ']
+
+Cluster  238
+['SLEEPYLONE; ; ; ', 'PYRLONE; ; ; ']
+
+Cluster  239
+['PREPARE BREAKFAST']
+
+Cluster  240
+['ORGANIZE MEETINGS']
+
+Cluster  241
+['INTERPRETER OF GENDER EQUALITY']
+
+Cluster  242
+['OMIT; prevent from being included or considered or accepted;   The bad results were excluded from the report ,  Leave off the top piece  ;   exclude ,  except ,  leave_out ,  leave_off ,  omit ,  take_out  ']
+
+Cluster  243
+['RELATING; make a logical or causal connection;   I cannot connect these two pieces of evidence in my mind ,  colligate these facts ,  I cannot relate these events at all  ;   associate ,  tie_in ,  relate ,  link ,  colligate ,  link_up ,  connect  ']
+
+Cluster  244
+['INEXISTENT; ; ; ']
+
+Cluster  245
+['SOUNDS COOL']
+
+Cluster  246
+['PLAY BOY']
+
+Cluster  247
+['DO-IT-YOURSELF; done by yourself;   their house was a doityourself project ,  he opened a doityourself store  ;   doityourself  ']
+
+Cluster  248
+['REFEREE; (sports) the chief official (as in boxing or American football) who is expected to ensure fair play;   ;   referee ,  ref  ']
+
+Cluster  249
+['POTATO; an edible tuber native to South America a staple food of Ireland;   ;   potato ,  white_potato ,  Irish_potato ,  murphy ,  spud ,  tater  ']
+
+Cluster  250
+['COMPLAIN; express complaints, discontent, displeasure, or unhappiness;   My mother complains all day ,  She has a lot to kick about  ;   complain ,  kick ,  plain ,  sound_off ,  quetch ,  kvetch  ', 'SPEAK; express in speech;   She talks a lot of nonsense ,  This depressed patient does not verbalize  ;   talk ,  speak ,  utter ,  mouth ,  verbalize ,  verbalise  ', 'SOCIALIZE; take part in social activities interact with others;   He never socializes with his colleagues ,  The old man hates to socialize  ;   socialize ,  socialise  ']
+
+Cluster  251
+['SCREW; someone who guards prisoners;   ;   prison_guard ,  jailer ,  jailor ,  gaoler ,  screw ,  turnkey  ', 'WATCHMAN; a guard who keeps watch;   ;   watchman ,  watcher ,  security_guard  ']
+
+Cluster  252
+['IN EVERYTHING']
+
+Cluster  253
+['SAILOR MAN']
+
+Cluster  254
+['ADJUST; alter or regulate so as to achieve accuracy or conform to a standard;   Adjust the clock, please ,  correct the alignment of the front wheels  ;   adjust ,  set ,  correct  ']
+
+Cluster  255
+['STUDY COMPANION']
+
+Cluster  256
+['Naughty; suggestive of sexual impropriety;   a blue movie ,  blue jokes ,  he skips asterisks and gives you the gamy details ,  a juicy scandal ,  a naughty wink ,  naughty words ,  racy anecdotes ,  a risque story ,  spicy gossip  ;   blue ,  gamy ,  gamey ,  juicy ,  naughty ,  racy ,  risque ,  spicy  ']
+
+Cluster  257
+['CARABINIER; a soldier (historically a mounted soldier) who is armed with a carbine;   ;   carbineer ,  carabineer ,  carabinier  ']
+
+Cluster  258
+['SCHOOLKID; ; ; ']
+
+Cluster  259
+['SMALL TOWN']
+
+Cluster  260
+['GET TO DO']
+
+Cluster  261
+['I PHOTOGRAPH']
+
+Cluster  262
+['SELFISH; concerned chiefly or only with yourself and your advantage to the exclusion of others  Maria Weston Chapman;   Selfish men were...trying to make capital for themselves out of the sacred cause of civil rights  ;   selfish  ', 'OPPORTUNIST; a person who places expediency above principle;   ;   opportunist ,  selfseeker  ']
+
+Cluster  263
+['SURGEON; a physician who specializes in surgery;   ;   surgeon ,  operating_surgeon ,  sawbones  ', 'VETERINARY; a doctor who practices veterinary medicine;   ;   veterinarian ,  veterinary ,  veterinary_surgeon ,  vet  ']
+
+Cluster  264
+['GRINDING; material resulting from the process of grinding;   vegetable grindings clogged the drain  ;   grinding  ']
+
+Cluster  265
+['MANAGING SITUATIONS']
+
+Cluster  266
+['PORNSTAR; ; ; ']
+
+Cluster  267
+['AT VOLLEYBALL', 'IN SPORTS']
+
+Cluster  268
+['VANITY; feelings of excessive pride;   ;   amour_propre ,  conceit ,  selflove ,  vanity  ']
+
+Cluster  269
+['LADY; a polite name for any woman;   a nice lady at the library helped me  ;   lady  ']
+
+Cluster  270
+['BY BIKE']
+
+Cluster  271
+['TO WRITE', 'WRITE TO THE COMPUTER']
+
+Cluster  272
+['MECHANICS; the branch of physics concerned with the motion of bodies in a frame of reference;   ;   mechanics  ']
+
+Cluster  273
+['POSTMAIN; ; ; ']
+
+Cluster  274
+['RELEASER; ; ; ', 'UNSORCERER; ; ; ']
+
+Cluster  275
+['MULTITASKING; ; ; ']
+
+Cluster  276
+['WELCOMING; accept gladly;   I welcome your proposals  ;   welcome  ']
+
+Cluster  277
+['BARTENDER; an employee who mixes and serves alcoholic drinks at a bar;   ;   bartender ,  barman ,  barkeep ,  barkeeper ,  mixologist  ', 'WAITRESS; a woman waiter;   ;   waitress  ', 'WAITER; a person whose occupation is to serve at table (as in a restaurant);   ;   waiter ,  server  ']
+
+Cluster  278
+['HEAD; the upper part of the human body or the front part of the body in animals contains the face and brains;   he stuck his head out the window  ;   head ,  caput  ']
+
+Cluster  279
+['TO SING', 'TO SWIM', 'TO SKI']
+
+Cluster  280
+['TO ORGANIZE', 'TO PLAN', 'TO DESIGN']
+
+Cluster  281
+['ASTRONAUT; a person trained to travel in a spacecraft;   the Russians called their astronauts cosmonauts  ;   astronaut ,  spaceman ,  cosmonaut  ', 'CO-PILOT; a relief pilot on an airplane;   ;   copilot ,  copilot  ', 'RUNNER; someone who imports or exports without paying duties;   ;   smuggler ,  runner ,  contrabandist ,  moon_curser ,  mooncurser  ', 'PILOT; someone who is licensed to operate an aircraft in flight;   ;   pilot ,  airplane_pilot  ']
+
+Cluster  282
+['WASTER; someone who dissipates resources selfindulgently;   ;   wastrel ,  waster  ']
+
+Cluster  283
+['HOUSE ADMINISTRATOR', 'MANAGING WORK AND FAMILY', 'HOUSE MANAGER']
+
+Cluster  284
+['VERSATILE; having great diversity or variety;   his various achievements are impressive ,  his vast and versatile erudition  ;   versatile ,  various  ']
+
+Cluster  285
+['SINGER; a person who sings;   ;   singer ,  vocalist ,  vocalizer ,  vocaliser  ', 'SINGER; a person who sings;   ;   singer ,  vocalist ,  vocalizer ,  vocaliser  ', 'CHOIR; a chorus that sings as part of a religious ceremony;   ;   choir  ']
+
+Cluster  286
+['TO RING']
+
+Cluster  287
+['INFORMATICS; the sciences concerned with gathering, manipulating, storing, retrieving, and classifying recorded information;   ;   information_science ,  informatics ,  information_processing ,  IP  ']
+
+Cluster  288
+['YOUNG MAN']
+
+Cluster  289
+['ANIMATOR; someone who imparts energy and vitality and spirit to other people;   ;   energizer ,  energiser ,  vitalizer ,  vitaliser ,  animator  ', 'CARTOONIST; a person who draws cartoons;   ;   cartoonist  ', 'ILLUSTRATOR; an artist who makes illustrations (for books or magazines or advertisements etc.);   ;   illustrator  ']
+
+Cluster  290
+['BUILDER; a substance added to soaps or detergents to increase their cleansing action;   ;   builder ,  detergent_builder  ', 'CLEAN; a weightlift in which the barbell is lifted to shoulder height and then jerked overhead;   ;   clean_and_jerk ,  clean  ', 'CLEANER; a preparation used in cleaning something;   ;   cleansing_agent ,  cleanser ,  cleaner  ', 'CLEANER; a preparation used in cleaning something;   ;   cleansing_agent ,  cleanser ,  cleaner  ']
+
+Cluster  291
+['PHYSIATRIC; ; ; ']
+
+Cluster  292
+['ARCHITECT; someone who creates plans to be used in making something (such as buildings);   ;   architect ,  designer  ', 'ARCHITECTURE; an architectural product or work;   ;   architecture  ', 'SURVEYOR; an engineer who determines the boundaries and elevations of land or structures;   ;   surveyor  ', 'DEVELOPER; someone who develops real estate (especially someone who prepares a site for residential or commercial use);   ;   developer  ']
+
+Cluster  293
+['KNIGHT; originally a person of noble birth trained to arms and chivalry today in Great Britain a person honored by the sovereign for personal merit;   ;   knight  ']
+
+Cluster  294
+['MALE NURSE']
+
+Cluster  295
+['MATHEMATICAL; of or pertaining to or of the nature of mathematics;   a mathematical textbook ,  slide rules and other mathematical instruments ,  a mathematical solution to a problem ,  mathematical proof  ;   mathematical  ']
+
+Cluster  296
+['MOUNTAINEEPER; ; ; ']
+
+Cluster  297
+['ECOLOGICAL OPERATOR']
+
+Cluster  298
+['MAN; an adult person who is male (as opposed to a woman);   there were two women and six men on the bus  ;   man ,  adult_male  ', 'MAN; an adult person who is male (as opposed to a woman);   there were two women and six men on the bus  ;   man ,  adult_male  ']
+
+Cluster  299
+['INEPT; not elegant or graceful in expression;   an awkward prose style ,  a clumsy apology ,  his cumbersome writing style ,  if the rumor is true, can anything be more inept than to repeat it now?  ;   awkward ,  clumsy ,  cumbersome ,  inapt ,  inept ,  illchosen  ']
+
+Cluster  300
+['CITIZEN; a native or naturalized member of a state or other political community;   ;   citizen  ']
+

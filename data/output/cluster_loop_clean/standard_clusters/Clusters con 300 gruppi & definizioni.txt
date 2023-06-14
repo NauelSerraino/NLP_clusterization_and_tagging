@@ -1,0 +1,601 @@
+Clustering with 300 groups: 
+Cluster 1
+ ["DRIVER ", "TRUCK DRIVER ", "DRIVER ", "DRIVERS ", "DRIVER ", "DRIVER ", "TAXI DRIVER "] 
+Cluster 2
+ ["TO BE ", "MAKING SWEETS ", "MAKE THE ACCOUNTS ", "MAKE MINOR REPAIRS ", 'MAKE ME FEEL GOOD ', 'MAKE UP ARTIST '] 
+Cluster 3
+ ["ANALYST ", "ACCOUNTANT ", "ACCOUNTANT ", "ACCOUNTANT "] 
+Cluster 4
+ ["DECORATOR ", "DESIGNER ", "DESIGNER ", "DESIGNER ", "DESIGNER "] 
+Cluster 5
+ ["KNIGHT ", 'LADY OF THE HOUSE '] 
+Cluster 6
+ ["CONDUCTOR ", "MUSICIAN ", "VIOLINIST ", "CELLIST "] 
+Cluster 7
+ ["COMPUTER ", "COMPUTER SCIENTIST ", "COMPUTER SCIENTIST ", "COMPUTER OPERATOR ", "COMPUTER OPERATOR ", "COMPUTER REPAIR ", "PRINTER "] 
+Cluster 8
+ ['BOY ', 'BOY '] 
+Cluster 9
+ ["CONSULTANT ", "THERAPIST "] 
+Cluster 10
+ ["FRIEND ", "FRIEND ", "WITH FRIENDS "] 
+Cluster 11
+ ['IMPROVISER '] 
+Cluster 12
+ ["EXPERT ", "POLITICAL EXPERT "] 
+Cluster 13
+ ["SPEAKER ", "SPEAKER ", "TALKER "] 
+Cluster 14
+ ['IN HOME ', "IN THE KITCHEN ", "IN MATHEMATICS ", "IN EVERYTHING ", "IN THE CALCULATIONS ", 'IN HOUSE WORK ', "IN THE DIY ", "IN THE DIY ", "IN THE EXECUTION ", "IN THE MANAGEMENT ", 'IN THE HOUSE CHOICES ', 'IN THE HOUSEHOLD WORK ', "IN MAINTENANCE ", 'IN SPORTS '] 
+Cluster 15
+ ["TO COOK ", "COOKING THE ROAST ", "COOK ", "COOK ", "COOK ", "TO EAT "] 
+Cluster 16
+ ["CHILD ", "CHILD ", "WITH THE CHILDREN ", "WITH CHILDREN ", "CHILD ", "CHILD "] 
+Cluster 17
+ ["SELF EMPLOYED ", "SELF EMPLOYED "] 
+Cluster 18
+ ['GROOM ', 'GROOM '] 
+Cluster 19
+ ["GENEROUS ", "GENEROUS "] 
+Cluster 20
+ ["CASHIER ", "MERCHANT ", "CLERK ", "RETAILER "] 
+Cluster 21
+ ["ATHLETE ", "ATHLETE ", 'SPORT '] 
+Cluster 22
+ ['CHATTERY ', 'CHATTERY '] 
+Cluster 23
+ ["PROFESSOR ", "PROFESSOR ", "PROFESSOR "] 
+Cluster 24
+ ['PYRLONE '] 
+Cluster 25
+ ["HANDYMAN ", "DUSTMAN ", "HANDYMAN "] 
+Cluster 26
+ ['GOOD MAN ', 'GOOD BOY ', 'GOOD PERSON ', 'GOOD BOY ', 'GOOD '] 
+Cluster 27
+ ["CONNOISSEUR ", "THINKER ", "SCHOLAR ", "SCHOLAR "] 
+Cluster 28
+ ['SON ', 'SON ', 'SON ', 'SON ', 'SON IN LAW '] 
+Cluster 29
+ ["MESSY ", 'WASHING ', "CLEANER ", "CLEANER ", 'TIDY UP ', 'CLEANING MAN '] 
+Cluster 30
+ ["ADMINISTRATOR ", "ADMINISTRATOR ", "CONDOMINIUM ADMINISTRATOR ", "EXECUTIVE ", "PRESIDENT ", "SECRETARY "] 
+Cluster 31
+ ['PLAY BOY ', 'TO PLAY ', 'PLAY TENNIS ', 'PLAY TENNIS '] 
+Cluster 32
+ ["COUSIN ", "COUSIN "] 
+Cluster 33
+ ['PARACULO ', 'SERVITE '] 
+Cluster 34
+ ['BROTHER IN LAW ', 'BROTHER IN LAW ', "BROTHER ", "SISTER "] 
+Cluster 35
+ ["ASSHOLE ", 'ASS-GUCK ', "ASSHOLE ", "COCKSUCKER "] 
+Cluster 36
+ ["ARTISAN ", "ARTISAN ", "SOCIAL WORKER ", "WORKER ", "WORKER ", "SMARTWORKING WORKER ", 'LABOR WORKER ', "WORKER ", "WORKER "] 
+Cluster 37
+ ['DOING MALE THINGS TOO ', "DOING HOMEWORK ", 'DO THE SHOPPING ', 'DO HEAVY WORK ', 'DO THE HOUSE CHORES ', 'DO THE HOUSEWORK ', 'DO THE CLEANING ', 'DO SMALL HOUSEHOLD WORK ', 'DO EVERYTHING '] 
+Cluster 38
+ ['ICE CREAM MAN ', 'ICE CREAM MAN '] 
+Cluster 39
+ ["MINISTER ", "POPE ", "PRIEST ", "PRIEST "] 
+Cluster 40
+ ["HUMAN BEING ", "HUMAN ", "HUMAN "] 
+Cluster 41
+ ["ELECTRICIAN ", "MACHINIST ", "MECHANIC ", "MECHANIC ", "FISHERMAN ", "RESTORER ", "REPAIRMAN ", "REPAIRMAN "] 
+Cluster 42
+ ['DELIVERY MAN ', 'DELIVERY MAN ', 'DELIVERY MAN '] 
+Cluster 43
+ ["REPAIR ", 'FIX EVERYTHING ', 'FIXES EVERYTHING ', 'FIX THE HOUSE ', 'FIX THE MACHINE ', 'FIX CHANDELIER '] 
+Cluster 44
+ ["ALLY ", "COLLABORATOR ", "COLLABORATOR FOR HOUSEWORK ", "COLLABORATOR "] 
+Cluster 45
+ ["ANESTHETIST ", "CAREGIVER ", "CARDIOLOGIST ", "SURGEON ", "DENTIST ", "DIETICIAN ", "PHARMACIST ", "OBSTETRICIAN ", "OBSTETRICIAN ", "PEDIATRICIAN ", 'INTERN ', "VETERINARY "] 
+Cluster 46
+ ['MASTER ', 'MASTER ', 'MASTER ', 'MASTER '] 
+Cluster 47
+ ["LAUGHTER ", "LAUGH "] 
+Cluster 48
+ ["ADJUSTER ", "ADJUSTER ", "ADJUSTER ", "INSURER "] 
+Cluster 49
+ ['INSTALLER ', 'INSTALLER ', 'INSTALLER '] 
+Cluster 50
+ ["FIREMAN ", "FIREMAN ", "FIREMAN "] 
+Cluster 51
+ ["PROSE ACTOR ", "AUTHOR ", "TYPIST ", "JOURNALIST ", "NARRATOR ", "POET ", "WRITER ", "WRITER "] 
+Cluster 52
+ ["LOVER ", 'PARTNER IN CRIME ', 'PARTNER ', 'PARTNER '] 
+Cluster 53
+ ["BIOLOGIST ", "GEOLOGIST ", "ENGINEER ", "RESEARCHER ", "RESEARCHER ", "SCIENTIST ", "SCIENTIST "] 
+Cluster 54
+ ["DAD ", "PARENT ", 'FATHER ', 'FATHER OF THE FAMILY ', 'FATHER IN LAW ', 'FATHER IN LAW '] 
+Cluster 55
+ ['LIFE PARTNER ', 'LIFE PARTNER ', "LIVING BEING "] 
+Cluster 56
+ ['SOCCER PLAYER ', 'SOCCER PLAYER ', 'SOCCER PLAYER ', 'SOCCER PLAYER ', "BASKETBALL PLAYER ", "PLAYER ", "PLAYER ", "GOLF PLAYER ", "VOLLEYBALL PLAYER ", "POKER PLAYER ", 'CHESS PLAYER ', "TENNIS PLAYER "] 
+Cluster 57
+ ["COMIC ", "COMIC ", "CARTOONIST "] 
+Cluster 58
+ ['FURNISH HOME ', 'TIRE SHOP ', 'UNSCREW THE WHEEL BOLTS '] 
+Cluster 59
+ ['BARZELLETTERE '] 
+Cluster 60
+ ['DOCTOR ', 'DOCTOR ', 'DOCTOR ', 'BASIC DOCTOR '] 
+Cluster 61
+ ["YOUNG ", 'YOUNG MAN ', "YOUNG "] 
+Cluster 62
+ ['MALE NURSE ', 'MALE NURSE '] 
+Cluster 63
+ ["ANIMATOR ", "ARTIST ", "PAINT ", "PAINTER ", "PAINTER ", "PAINTER "] 
+Cluster 64
+ ["CHEF ", "PASTRY EATER ", "PASTRY CHEF ", "PASTRY CHEF "] 
+Cluster 65
+ ['FLOWER SHOP ', 'FLOWER SHOP ', "PLANT INSTALLER "] 
+Cluster 66
+ ["ACTOR ", "ACTOR ", "ENTERTAINER "] 
+Cluster 67
+ ['PROJECT LEADER ', 'PROJECT MANAGER '] 
+Cluster 68
+ ["BARTENDER ", "WAITER ", "WAITER "] 
+Cluster 69
+ ['ANIMALIST ', "WITH ANIMALS ", 'CREATURE '] 
+Cluster 70
+ ["CITIZEN ", "CITIZEN "] 
+Cluster 71
+ ["HOUSE ADMINISTRATOR ", 'HOME COLLABORATOR ', "HOUSE MANAGER "] 
+Cluster 72
+ ["TO READ ", 'TO WRITE ', 'WRITE TO THE COMPUTER '] 
+Cluster 73
+ ["GUY ", "GUY ", "DUDE "] 
+Cluster 74
+ ['FURNISHER ', 'FURNISHER '] 
+Cluster 75
+ ["REORDER "] 
+Cluster 76
+ ["CO-PILOT ", 'CAR ELECTRIC ', "BY BIKE ", "PILOT ", "MOTORBIKE PILOT "] 
+Cluster 77
+ ["NICE ", "NICE "] 
+Cluster 78
+ ["HOUSEHOLDER ", "HOUSEHOLDER ", "HOUSEHOLDER "] 
+Cluster 79
+ ["TO SWIM ", "SWIMMER ", "SWIMMER "] 
+Cluster 80
+ ["NOTHING "] 
+Cluster 81
+ ["CARPENTER ", "CARPENTER ", "BLACKSMITH ", "CARPENTER "] 
+Cluster 82
+ ["DANCE ", "DANCER ", "DANCER ", "DANCER "] 
+Cluster 83
+ ["NEAR ", "NEAR "] 
+Cluster 84
+ ["FOOL ", "FOOL "] 
+Cluster 85
+ ['UNSORCERER ', 'UNSORCERER '] 
+Cluster 86
+ ['BRICOLEUR ', 'BRICOLEUR ', 'BRICOLEUR '] 
+Cluster 87
+ ["TRAINER ", "TRAINER OF PAROKETS "] 
+Cluster 88
+ ['COLLABORATE IN THE DRAFTING OF THE WORK ', 'DRAW ', 'IN THE DRAWING ', "PUT ON MAKEUP "] 
+Cluster 89
+ ['HAIR SALON ', 'HAIR SALON '] 
+Cluster 90
+ ["FREELANCE ", "FREELANCE "] 
+Cluster 91
+ ['WORK COMPANION ', 'TO GAIN ', "TO DRIVE ", 'TO WORK ', 'WORKING MOTHER '] 
+Cluster 92
+ ["EDUCATOR ", "EDUCATOR ", "TEACHER ", "YOGA TEACHER ", "TO TEACH ", "INSTRUCTOR ", "SKI INSTRUCTOR "] 
+Cluster 93
+ ["DETECTIVES ", 'OFFICER ', "POLICEMAN ", "POLICEMAN "] 
+Cluster 94
+ ["MANAGER ", "MANAGER ", "MANAGER "] 
+Cluster 95
+ ['GUAGLION ', 'GUAGLION '] 
+Cluster 96
+ ['SEXIST ', 'MAN ', 'MAN ', 'MAN ', 'MAN OF THE HOUSE '] 
+Cluster 97
+ ['FIANC� ', 'FIANC� '] 
+Cluster 98
+ ["SKATER ", "SKI ", "SKIER ", "SKIER "] 
+Cluster 99
+ ["DOG TRAINER ", "BITCH "] 
+Cluster 100
+ ["AT VOLLEYBALL ", 'AT SCHOOL ', "AT THE PC ", "ELEMENT ", 'AT WORK '] 
+Cluster 101
+ ['COMPANY ', 'COMPANY '] 
+Cluster 102
+ ["HOMEMADE ", "HOMEMADE ", "DO-IT-YOURSELF "] 
+Cluster 103
+ ["WASTER ", "SCAVENGER "] 
+Cluster 104
+ ["CHRISTIAN ", "CRISTIAN CHRISTIANS ", "CHRISTIAN ", "CHRIST "] 
+Cluster 105
+ ['MULTITASKING '] 
+Cluster 106
+ ["TO LISTEN ", "LISTENER ", "LISTENER ", "OBSERVER "] 
+Cluster 107
+ ["NEPHEW ", "UNCLE ", "UNCLE "] 
+Cluster 108
+ ["PREPARE SWEETS ", "PREPARE BREAKFAST "] 
+Cluster 109
+ ["SOUNDS COOL ", "SOUNDS COOL "] 
+Cluster 110
+ ["INEPT ", 'CARELESS '] 
+Cluster 111
+ ["LAWYER ", "COUNSELOR ", "COUNSELOR "] 
+Cluster 112
+ ["DOMESTIC HELP ", "DOMESTIC ", "DOMESTIC ", "DOMESTIC WORKER ", "HOUSEWORKS ", "SERVANT "] 
+Cluster 113
+ ["BEEKEEPER ", "GARDENER ", "GARDENER "] 
+Cluster 114
+ ["TOURIST GUIDE ", "TRAVELER "] 
+Cluster 115
+ ["ORGANIZE ", 'ORGANIZE PARTIES ', "ORGANIZE MEETINGS ", "SOCIALIZE "] 
+Cluster 116
+ ['SPOUSE ', 'WIFE ', 'HUSBAND ', 'WIFE ', 'WIFE '] 
+Cluster 117
+ ["PLUMBER ", "PLUMBER "] 
+Cluster 118
+ ["EFFICIENT "] 
+Cluster 119
+ ["UNKNOWN ", "UNKNOWN "] 
+Cluster 120
+ ["LIFEGUARD ", "LIFEGUARD "] 
+Cluster 121
+ ['SWEET '] 
+Cluster 122
+ ['INTERPRETER ', 'INTERPRETER OF GENDER EQUALITY ', "TRANSLATOR "] 
+Cluster 123
+ ["SUPPORT WORKER ", 'SUPPORTERS '] 
+Cluster 124
+ ['PHYSIATRIC '] 
+Cluster 125
+ ['CHANGE LIGHT BULBS ', 'CHANGE LIGHT BULBS '] 
+Cluster 126
+ ['PORNSTAR '] 
+Cluster 127
+ ['PELANDRONE ', 'PIRLA ', 'PISCHELLO '] 
+Cluster 128
+ ["MATHEMATICAL "] 
+Cluster 129
+ ["OPERATOR ", "ECOLOGICAL OPERATOR ", "OPERATOR "] 
+Cluster 130
+ ["MAINTAINER ", "MAINTAINER "] 
+Cluster 131
+ ['LITTLE MAN ', 'LITTLE BOY '] 
+Cluster 132
+ ["BANKING ", "BANKING "] 
+Cluster 133
+ ["STUDENT ", "STUDENT ", "STUDENT ", "STUDENT ", "STUDENT COMPANION ", "STUDENT ", 'STUDY '] 
+Cluster 134
+ ['REFEREE ', "JUDGE ", "LEGAL GUARDIAN "] 
+Cluster 135
+ ['MASSAGE THERAPIST ', 'MASSAGE THERAPIST ', "MASSAGER ", "MASSAGER "] 
+Cluster 136
+ ["TECHNICAL "] 
+Cluster 137
+ ['GASCON '] 
+Cluster 138
+ ["INDOLENT ", "LAZY ", "LAZY "] 
+Cluster 139
+ ["WITH THE FAMILY ", 'FAMILY MAN '] 
+Cluster 140
+ ["TENANT ", "TENANT "] 
+Cluster 141
+ ["JUGGLER ", "PRESTIDIGITATOR ", "MAGICIAN "] 
+Cluster 142
+ ["STAPLER "] 
+Cluster 143
+ ["ADJUST ", "ADJUST THE ELECTRICAL SYSTEM ", "SIMPLIFY PROBLEMS "] 
+Cluster 144
+ ["MOTORIST ", "CYCLIST ", "MOTORCYCLIST "] 
+Cluster 145
+ ['WITH CARLA '] 
+Cluster 146
+ ["ARCHAEOLOGIST ", "ARCHAEOLOGIST ", "SPELEOLOGIST "] 
+Cluster 147
+ ['CASINIST '] 
+Cluster 148
+ ["BUTCHER ", "BUTCHER "] 
+Cluster 149
+ ['MOUNTAINEEPER '] 
+Cluster 150
+ ["ROOMMATE ", "ROOMMATE "] 
+Cluster 151
+ ["GAS STATION ", "GAS STATION "] 
+Cluster 152
+ ["MILITARY ", "RECRUITERS ", "SOLDIER "] 
+Cluster 153
+ ["SCREW ", "FUCKS ", "FUCK "] 
+Cluster 154
+ ["IRONER "] 
+Cluster 155
+ ["COMMISSIONER ", "LEADER ", "MAYOR ", "MAYOR "] 
+Cluster 156
+ ["SINGER ", "SINGER "] 
+Cluster 157
+ ["I PHOTOGRAPH ", "I PHOTOGRAPH "] 
+Cluster 158
+ ['GENTLEMAN ', 'GENTLEMAN '] 
+Cluster 159
+ ['COUNCILOR ', 'COUNCILOR '] 
+Cluster 160
+ ["SING ", "SPEAK "] 
+Cluster 161
+ ['MOVIE DIRECTOR '] 
+Cluster 162
+ ["VERSATILE "] 
+Cluster 163
+ ['PAIN ASSHOLE '] 
+Cluster 164
+ ["CRANE OPERATOR ", "CRANE OPERATOR "] 
+Cluster 165
+ ['BARBER SHOP ', 'SHOP ASSISTANT ', 'SHOP ASSISTANT '] 
+Cluster 166
+ ["CUSTOMER ", "CLIENT "] 
+Cluster 167
+ ["YOU LIAR "] 
+Cluster 168
+ ["FARMER ", "FARMER "] 
+Cluster 169
+ ["CHOIR "] 
+Cluster 170
+ ["SELFISH "] 
+Cluster 171
+ ['TO CLEAN ', 'CLEAN HOUSE '] 
+Cluster 172
+ ["EMPLOYER ", "EMPLOYEE ", "UNEMPLOYED ", "EMPLOYEE ", "EMPLOYEE "] 
+Cluster 173
+ ['RELEASER '] 
+Cluster 174
+ ['NOTARY '] 
+Cluster 175
+ ["SCHOOLBOY ", 'SCHOOLKID ', "SCHOOLBOY "] 
+Cluster 176
+ ['HEAD ', 'WORKSHOP HEAD '] 
+Cluster 177
+ ["PROFESSIONAL REMOTE WORKER ", "PROFESSIONAL ", "PROFESSIONAL ", 'PROFESSIONAL HOUSE CLEANING '] 
+Cluster 178
+ ["ACCURATE "] 
+Cluster 179
+ ["UNCLASSIFIABLE "] 
+Cluster 180
+ ["GREENGROCER ", "GREENGROCER "] 
+Cluster 181
+ ["WOMAN ", "WOMAN OF THE HOUSE ", "SLUT "] 
+Cluster 182
+ ["NOT NO ", "NOT NO "] 
+Cluster 183
+ ['SET UP ', 'SET DESIGNER '] 
+Cluster 184
+ ["READER ", "READER "] 
+Cluster 185
+ ['BUDDLED '] 
+Cluster 186
+ ["BAKER ", "BAKER ", "PIZZA MAKER "] 
+Cluster 187
+ ["ANNOUNCER ", "ANNOUNCER "] 
+Cluster 188
+ ['REAL ESTATE AGENT '] 
+Cluster 189
+ ["DIRECTOR ", "DIRECTOR "] 
+Cluster 190
+ ['INFLUENCE THE THINKING OF THE GROUP '] 
+Cluster 191
+ ["ALTO ", 'TENOR '] 
+Cluster 192
+ ['URBANIST '] 
+Cluster 193
+ ["WITHSTAND ME "] 
+Cluster 194
+ ["CUNNING "] 
+Cluster 195
+ ["EXCELLENT ", "WONDERFUL "] 
+Cluster 196
+ ['JUVENTINO ', 'JUVENTINO ', 'MERENTOR '] 
+Cluster 197
+ ["TRANSGENDER "] 
+Cluster 198
+ ["NARCISSUS "] 
+Cluster 199
+ ["FACTOTUM "] 
+Cluster 200
+ ["MASON "] 
+Cluster 201
+ ["TAILOR ", "TAILOR "] 
+Cluster 202
+ ["BEAUTICIAN ", 'PEDICURE ', "STYLIST "] 
+Cluster 203
+ ['MANAGING WORK AND FAMILY ', 'MANAGING SITUATIONS '] 
+Cluster 204
+ ["WEB MARKETING "] 
+Cluster 205
+ ["AVAILABLE "] 
+Cluster 206
+ ["BUSINESS CONSULTANT ", 'BUSINESS MAN '] 
+Cluster 207
+ ["PIMP "] 
+Cluster 208
+ ['BENEFITER '] 
+Cluster 209
+ ["PLAYFUL "] 
+Cluster 210
+ ['WELCOMING '] 
+Cluster 211
+ ["NUN "] 
+Cluster 212
+ ["INDIVIDUAL ", "PERSON ", 'CHARACTER '] 
+Cluster 213
+ ["GRAPHIC "] 
+Cluster 214
+ ['QUALIFIED '] 
+Cluster 215
+ ['RUN ', "RUNNER "] 
+Cluster 216
+ ['SURFIST '] 
+Cluster 217
+ ['SLEEPYLONE '] 
+Cluster 218
+ ["LAUNDRYMAN ", "LAUNDRYMAN "] 
+Cluster 219
+ ["CARING FOR THE CHILDREN ", 'BABY SITTER ', "BABY ", "BABY "] 
+Cluster 220
+ ["ARCHITECT ", "ARCHITECT ", "BUILDER ", "SURVEYOR ", "SCULPTOR ", "DEVELOPER "] 
+Cluster 221
+ ['KISSER '] 
+Cluster 222
+ ['SAILOR MAN ', "FERRYMAN ", 'SAILOR '] 
+Cluster 223
+ ["SMOOTH "] 
+Cluster 224
+ ["SUBJECT "] 
+Cluster 225
+ ["INTELLIGENT "] 
+Cluster 226
+ ['POLE VAULTER '] 
+Cluster 227
+ ["ASTROPHYSICS "] 
+Cluster 228
+ ["GRINDER "] 
+Cluster 229
+ ["ENTREPRENEUR ", "ENTREPRENEUR ", "INVENTOR "] 
+Cluster 230
+ ["STATISTICS "] 
+Cluster 231
+ ["GUITARIST ", "PIANIST "] 
+Cluster 232
+ ['ORDER AT HOME '] 
+Cluster 233
+ ["PROGRAMMER ", "PROGRAMMER "] 
+Cluster 234
+ ["GUEST "] 
+Cluster 235
+ ["UGLY "] 
+Cluster 236
+ ["GRANDSON "] 
+Cluster 237
+ ["RESPONSIBLE "] 
+Cluster 238
+ ["MOTHER ", "MOM "] 
+Cluster 239
+ ['TRAFFIC WARDEN '] 
+Cluster 240
+ ['FOOTBALL ', "BALL BREAKER "] 
+Cluster 241
+ ["GLUTTON "] 
+Cluster 242
+ ["CARABINIER "] 
+Cluster 243
+ ["COMPANION ", "ESCORT "] 
+Cluster 244
+ ["DEVIL "] 
+Cluster 245
+ ["SHEPHERD "] 
+Cluster 246
+ ["BOXER "] 
+Cluster 247
+ ['TO BREAK '] 
+Cluster 248
+ ["JANITOR ", "JANITOR "] 
+Cluster 249
+ ["AGENT "] 
+Cluster 250
+ ["SALESPERSON ", "SALESPERSON "] 
+Cluster 251
+ ['THAT CONTRIBUTES TO EVERYDAY LIFE ', "RELATING "] 
+Cluster 252
+ ["FAT "] 
+Cluster 253
+ ['EASY GOING '] 
+Cluster 254
+ ["TO PLAN ", "TO DESIGN "] 
+Cluster 255
+ ["TO RING "] 
+Cluster 256
+ ["PRIME MINISTER "] 
+Cluster 257
+ ["IMITATOR "] 
+Cluster 258
+ ['INEXISTENT '] 
+Cluster 259
+ ['MATCH COLORS '] 
+Cluster 260
+ ["SPORTY "] 
+Cluster 261
+ ["CLIMBER "] 
+Cluster 262
+ ['SLEEP '] 
+Cluster 263
+ ['BUSY ', 'ENGAGED '] 
+Cluster 264
+ ["OMIT "] 
+Cluster 265
+ ["ALPHA EXTENSION "] 
+Cluster 266
+ ["SLACKERS "] 
+Cluster 267
+ ["MIRROR "] 
+Cluster 268
+ ["BLOWJOB "] 
+Cluster 269
+ ["OPPORTUNIST "] 
+Cluster 270
+ ['GYNECOLOGIST ', 'GYNECOLOGIST ', "NEUROLOGIST "] 
+Cluster 271
+ ["VAIN "] 
+Cluster 272
+ ['MOUTHPIECE '] 
+Cluster 273
+ ["BUTLER "] 
+Cluster 274
+ ['PORTER '] 
+Cluster 275
+ ['COHABITANT '] 
+Cluster 276
+ ["ASTRONAUT ", 'NAVIGATOR '] 
+Cluster 277
+ ["PRESS "] 
+Cluster 278
+ ["RESCUER "] 
+Cluster 279
+ ["VOYEUR "] 
+Cluster 280
+ ["TESTER "] 
+Cluster 281
+ ['GET TO DO ', 'TAKE CARE OF YOURSELF AND OF CARLA '] 
+Cluster 282
+ ["TO COMPLAIN "] 
+Cluster 283
+ ["POTATO "] 
+Cluster 284
+ ["DJS "] 
+Cluster 285
+ ["BUZZERS "] 
+Cluster 286
+ ["DRUG DEALER "] 
+Cluster 287
+ ["PSYCHIATRIST ", "PSYCHOLOGIST ", "PSYCHOLOGIST "] 
+Cluster 288
+ ["HELP ", "ASSISTANT "] 
+Cluster 289
+ ["INTERLOCUTOR "] 
+Cluster 290
+ ["MEDIATOR "] 
+Cluster 291
+ ['SLAVE '] 
+Cluster 292
+ ["COORDINATOR "] 
+Cluster 293
+ ['SMARTWORKER '] 
+Cluster 294
+ ['STAY AS A COUPLE '] 
+Cluster 295
+ ["POLICY "] 
+Cluster 296
+ ["TERRORIST "] 
+Cluster 297
+ ["ILLUSTRATOR "] 
+Cluster 298
+ ["EMPEROR "] 
+Cluster 299
+ ['COLLEAGUE '] 
+Cluster 300
+ ['DETERMINED '] 

@@ -1,0 +1,741 @@
+,gender_bias_model,generic_model,ita_word
+football,man,man,A CALCIO
+at volleyball,woman,man,A PALLAVOLO
+at school,man,person,A SCUOLA
+match colors,person,woman,ABBINARE I COLORI
+welcoming,person,person,ACCOGLIENTE
+companion,woman,woman,ACCOMPAGNATRICE
+caring for the children,woman,person,ACCUDIRE I FIGLI
+dog trainer,man,woman,ADDESTRATORE DI CANI
+easy going,person,woman,AFFABILE
+busy,woman,person,AFFACCENDATA
+agent,man,woman,AGENTE
+real estate agent,man,woman,AGENTE IMMOBILIARE
+adjust,person,person,AGGIUSTARE
+adjust the electrical system,person,person,AGGIUSTARE L'IMPIANTO ELETTRICO
+adjuster,woman,person,AGGIUSTATORE
+adjuster,woman,person,AGGIUSTATRICE
+adjuster,woman,person,AGGIUSTATUTTO
+farmer,man,man,AGRICOLTORE
+support worker,woman,woman,AIUTANTE
+domestic help,person,woman,AIUTANTE DOMESTICO
+help,person,person,AIUTO
+at the pc,person,person,AL COMPUTER
+ally,man,woman,ALLEATA
+trainer,man,man,ALLENATORE
+student,woman,woman,ALLIEVA
+student,woman,woman,ALLIEVO
+alpha extension,person,person,ALPHA
+mountaineeper,woman,woman,ALPINISTA
+athlete,woman,woman,ALTLETA
+student,woman,woman,ALUNNA
+student,woman,woman,ALUNNO
+lover,woman,woman,AMANTE
+friend,woman,woman,AMICA
+friend,woman,woman,AMICO
+trainer of parokets,man,man,AMMAESTRATORE DI COCORITE
+administrator,man,woman,AMMINISTRATORE
+administrator,man,woman,AMMINISTRATRICE
+house administrator,man,man,AMMINISTRATRICE DI CASA
+condominium administrator,woman,woman,AMMINISTRATRICE DI CONDOMINIO
+analyst,person,woman,ANALISTA
+anesthetist,woman,woman,ANESTESISTA
+animalist,woman,woman,ANIMALISTA
+animator,man,man,ANIMATORE
+beekeeper,woman,woman,APICOLTORE
+benefiter,man,man,APPROFITTATORE
+referee,man,man,ARBITRO
+archaeologist,man,woman,ARCHEOLOGA
+archaeologist,man,woman,ARCHEOLOGO
+architect,man,woman,ARCHITETTO
+architect,man,woman,ARCHITETTRICE
+furnish home,person,person,ARREDARE CASA
+furnisher,woman,woman,ARREDATORE
+furnisher,woman,woman,ARREDATRICE
+grinder,person,person,ARROTINA
+artisan,woman,person,ARTIGIANA
+artisan,woman,person,ARTIGIANO
+artist,woman,woman,ARTISTA
+to listen,person,person,ASCOLTARE
+listener,woman,man,ASCOLTATORE
+listener,woman,man,ASCOLTATRICE
+councilor,woman,woman,ASSESSORA
+councilor,woman,woman,ASSESSORE
+insurer,person,woman,ASSICURATRICE
+assistant,man,woman,ASSISTENTE
+social worker,woman,woman,ASSISTENTE SOCIALE
+astrophysics,man,man,ASTROFISICA
+astronaut,woman,woman,ASTRONAUTA
+athlete,woman,woman,ATLETA
+actor,man,woman,ATTORE
+prose actor,man,man,ATTORE DI PROSA
+actor,man,woman,ATTRICE
+driver,man,man,AUTISTA
+motorist,woman,woman,AUTOMOBILISTA
+author,woman,man,AUTORE
+screw,person,person,AVVITARE
+lawyer,man,woman,AVVOCATO
+dad,woman,man,BABBO
+baby sitter,woman,woman,BABY SITTER
+kisser,woman,woman,BACIATRICE
+caregiver,woman,woman,BADANTE
+lifeguard,woman,woman,BAGNINA
+lifeguard,woman,woman,BAGNINO
+dance,woman,person,BALLARE
+dancer,woman,woman,BALLERINA
+dancer,woman,woman,BALLERINO
+baby,woman,woman,BAMBINA
+baby,woman,woman,BAMBINO
+banking,person,person,BANCARIA
+banking,person,person,BANCARIO
+barber shop,man,person,BARBIERE
+bartender,woman,woman,BARISTA
+barzellettere,person,person,BARZELLETTIERE
+nice,person,woman,BELLA
+nice,person,woman,BELLO
+gas station,person,person,BENZINAIA
+gas station,person,person,BENZINAIO
+janitor,man,woman,BIDELLA
+janitor,man,woman,BIDELLO
+child,woman,woman,BIMBA
+child,woman,woman,BIMBO
+biologist,man,woman,BIOLOGA
+mouthpiece,person,person,BOCCHINARA
+good man,man,person,BRAV'UOMO
+good boy,man,man,BRAVA
+good person,person,woman,BRAVA PERSONA
+good boy,man,man,BRAVO
+bricoleur,person,person,BRICOLEUR
+bricoleur,person,person,BRICOLEUSE
+bricoleur,person,person,BRICOMEN
+ugly,person,woman,BRUTTO
+you liar,person,man,BUGIARDA
+good,person,person,BUONA
+soccer player,man,man,CACCIATORE
+soccer player,man,man,CACCIATRICE
+fucks,woman,person,CAGACAZZI
+soccer player,man,man,CALCIATORE
+soccer player,man,man,CALCIATRICE
+computer,person,person,CALCOLATORE
+change light bulbs,person,person,CAMBIARE LAMPADINE
+change light bulbs,person,person,CAMBIARE LE LAMPADINE
+waiter,woman,woman,CAMERIERA
+waiter,woman,woman,CAMERIERE
+truck driver,man,man,CAMIONISTA
+singer,woman,woman,CANTANTE
+sing,woman,woman,CANTARE
+singer,woman,woman,CANTORE
+head,man,person,CAPO
+workshop head,man,person,CAPO OFFICINA
+project leader,man,man,CAPO PROGETTO
+householder,woman,man,CAPOFAMIGLIA
+carabinier,man,man,CARABINIERE
+cardiologist,woman,woman,CARDIOLOGA
+carpenter,man,man,CARPENTIERE
+carpenter,man,man,CARPENTIERIE
+homemade,person,person,CASALINGA
+homemade,person,person,CASALINGO
+casinist,person,person,CASINISTA
+cashier,woman,woman,CASSIERE
+knight,man,man,CAVALIERE
+basketball player,man,woman,CESTISTA
+that contributes to everyday life,person,person,CHE CONTRIBUISCE  ALLA VITA QUOTIDIANA
+chef,woman,man,CHEF
+chattery,woman,woman,CHIACCHIERONA
+chattery,woman,woman,CHIACCHIERONE
+surgeon,man,woman,CHIRURGO
+guitarist,man,man,CHITARRISTA
+fat,person,woman,CICCIONE
+cyclist,woman,woman,CICLISTA
+citizen,man,woman,CITTADINA
+citizen,man,woman,CITTADINO
+customer,person,woman,CLIENTE
+asshole,woman,man,COGLIONE
+brother in law,man,man,COGNATA
+brother in law,man,man,COGNATO
+roommate,woman,woman,COINQUILINA
+roommate,woman,woman,COINQUILINO
+collaborate in the drafting of the work,person,woman,COLLABORARE ALLA STESURA DELL'OPERA
+collaborator,man,woman,COLLABORATORE
+home collaborator,man,woman,COLLABORATORE IN CASA
+collaborator for housework,woman,woman,COLLABORATORE PER LE FACCENDE DI CASA
+collaborator,man,woman,COLLABORATRICE
+colleague,man,woman,COLLEGA
+comic,woman,person,COMICA
+comic,woman,person,COMICO
+business consultant,man,woman,COMMERCIALISTA
+merchant,man,man,COMMERCIANTE
+shop assistant,man,woman,COMMESSA
+shop assistant,man,woman,COMMESSO
+commissioner,man,man,COMMISSARIA
+client,man,person,COMMITTENTE
+company,person,person,COMPAGNA
+work companion,man,person,COMPAGNA DI LAVORO
+student companion,woman,woman,COMPAGNA DI STUDI
+life partner,woman,woman,COMPAGNA DI VITA
+company,person,person,COMPAGNO
+life partner,woman,woman,COMPAGNO DI VITA
+qualified,man,man,COMPETENTE
+partner in crime,man,woman,COMPLICE
+with carla,woman,woman,CON CARLA
+with friends,woman,person,CON GLI AMICI
+with animals,person,person,CON GLI ANIMALI
+with the children,person,person,CON I BAMBINI
+with children,woman,person,CON I FIGLI
+with the family,person,person,CON LA FAMIGLIA
+leader,man,man,CONDOTTIERO
+driver,man,man,CONDUCENTE
+conductor,man,man,CONDUTTORE
+spouse,woman,woman,CONIUGE
+counselor,woman,woman,CONSIGLIERA
+counselor,woman,woman,CONSIGLIERE
+wife,woman,woman,CONSORTE
+consultant,man,woman,CONSULENTE
+accountant,woman,woman,CONTABILE
+farmer,man,man,CONTADINO
+alto,man,woman,CONTRALTO
+cohabitant,woman,woman,CONVIVENTE
+coordinator,man,man,COORDINATRICE
+co-pilot,man,woman,COPILOTA
+choir,woman,person,CORISTA
+run,person,person,CORRERE
+runner,woman,man,CORRIDORE
+builder,man,man,COSTRUTTORE
+creature,woman,person,CREATURA
+christian,man,woman,CRISTIANA
+cristian christians,person,woman,CRISTIANACCIO
+christian,man,woman,CRISTIANO
+christ,man,man,CRISTO
+to cook,person,man,CUCINARE
+cooking the roast,person,person,CUCINARE L'ARROSTO
+cook,woman,person,CUCINIERA
+cousin,woman,woman,CUGINA
+cousin,woman,woman,CUGINO
+cook,woman,person,CUOCA
+cook,woman,person,CUOCO
+dancer,woman,woman,DANZATRICE
+get to do,person,person,DARSI DA FARE
+employer,woman,person,DATORE DI LAVORO
+typist,woman,woman,DATTILOGRAFA
+decorator,woman,woman,DECORATRICE
+dentist,woman,woman,DENTISTA
+designer,woman,woman,DESIGNER
+detectives,woman,woman,DETECTIVE
+determined,person,woman,DETERMINATA
+devil,man,man,DIAVOLO
+dietician,woman,woman,DIETOLOGO
+employee,woman,woman,DIPENDENTE
+paint,person,person,DIPINGERE
+director,man,man,DIRETTORE
+director,man,man,DIRETTRICE
+executive,man,woman,DIRIGENTE
+draw,person,person,DISEGNARE
+designer,woman,woman,DISEGNATORE
+designer,woman,woman,DISEGNATRICE
+unemployed,man,woman,DISOCCUPATO
+messy,person,person,DISORDINATO
+available,person,person,DISPONIBILE
+releaser,woman,man,DIVULGATORE
+djs,person,person,DJ
+professor,man,man,DOCENTE
+sweet,woman,person,DOLCE
+domestic,person,person,DOMESTICA
+domestic,person,person,DOMESTICO
+woman,woman,woman,DONNA
+woman of the house,person,woman,DONNA DI CASA
+play boy,man,man,DONNAIOLO
+sleepylone,man,man,DORMIGLIONE
+sleep,woman,person,DORMIRE
+doctor,woman,woman,DOTTORE
+doctor,woman,woman,DOTTORESSA
+drivers,person,person,DRIVER
+excellent,person,person,ECCELLENTE
+educator,woman,woman,EDUCATORE
+educator,woman,woman,EDUCATRICE
+efficient,person,woman,EFFICIENTE
+selfish,person,man,EGOISTA
+element,person,woman,ELEMENTO
+car electric,person,person,ELETTRAUTO
+electrician,man,woman,ELETTRICISTA
+escort,woman,woman,ESCORT
+expert,man,man,ESPERTO
+to be,person,woman,ESSERE
+human being,person,woman,ESSERE UMANO
+living being,person,woman,ESSERE VIVENTE
+beautician,woman,woman,ESTETISTA
+blacksmith,man,man,FABBRO
+clerk,woman,woman,FACCENDIERE
+porter,man,man,FACCHINO
+factotum,man,person,FACTOTUM
+do-it-yourself,man,person,FAI DA TE
+carpenter,man,man,FALEGNAME
+wonderful,person,person,FANCAZZISTA
+child,woman,woman,FANCIULLA
+child,woman,woman,FANCIULLO
+laughter,woman,person,FANNULLONE
+doing male things too,person,woman,FARE COSE ANCHE MASCHILI
+making sweets,person,woman,FARE DOLCI
+doing homework,person,person,FARE I COMPITI
+make the accounts,person,person,FARE I CONTI
+do the shopping,person,person,FARE LA SPESA
+do heavy work,person,person,FARE LAVORI PESANTI
+do the house chores,person,person,FARE LE FACCENDE DI CASA
+do the housework,person,person,FARE LE FACCENDE DOMESTICHE
+do the cleaning,person,person,FARE LE PULIZIE
+make minor repairs,person,person,FARE PICCOLE RIPARAZIONI
+do small household work,person,person,FARE PICCOLI LAVORI DOMESTICI
+do everything,person,person,FARE TUTTO
+pharmacist,woman,woman,FARMACISTA
+make me feel good,person,person,FARMI SENTIRE BENE
+delivery man,man,man,FATTORINO
+fool,person,man,FESSO
+fiancé,woman,woman,FIDANZATA
+fiancé,woman,woman,FIDANZATO
+sounds cool,person,person,FIGA
+son,man,man,FIGLIA
+son,man,man,FIGLIO
+son,man,man,FIGLIOLA
+son,man,man,FIGLIOLO
+sounds cool,person,person,FIGO
+flower shop,woman,woman,FIORAIA
+flower shop,woman,woman,FIORAIO
+physiatric,woman,woman,FISIATRA
+baker,man,man,FORNAIO
+i photograph,man,woman,FOTOGRAFA
+i photograph,man,woman,FOTOGRAFO
+brother,man,person,FRATELLO
+freelance,woman,person,FREELANCE
+greengrocer,man,woman,FRUTTIVENDOLA
+greengrocer,man,woman,FRUTTIVENDOLO
+cartoonist,man,man,FUMETTISTA
+officer,man,woman,FUNZIONARIO
+cunning,man,woman,FURBO
+ice cream man,man,person,GELATAIA
+ice cream man,man,person,GELATAIO
+son in law,man,man,GENERO
+generous,person,woman,GENEROSA
+generous,person,woman,GENEROSO
+parent,person,woman,GENITORE
+gentleman,man,woman,GENTILUOMO
+gentleman,man,woman,GENTLEMEN
+geologist,man,woman,GEOLOGO
+surveyor,man,woman,GEOMETRA
+managing work and family,man,person,GESTIRE LAVORO E FAMIGLIA
+managing situations,person,person,GESTIRE LE SITUAZIONI
+gardener,man,woman,GIARDINIERA
+gardener,man,woman,GIARDINIERE
+gynecologist,woman,woman,GINECOLOGA
+gynecologist,woman,woman,GINECOLOGO
+to play,person,woman,GIOCARE
+play tennis,woman,woman,GIOCARE A TENNIS
+player,man,man,GIOCATORE
+play tennis,woman,woman,GIOCATORE DI TENNIS
+player,man,man,GIOCATRICE
+golf player,man,woman,GIOCATRICE DI GOLF
+playful,woman,woman,GIOCHERELLONA
+juggler,woman,man,GIOCOLIERE
+journalist,woman,woman,GIORNALISTA
+young,man,woman,GIOVANE
+young man,man,man,GIOVANOTTO
+young,man,woman,GIOVINE
+judge,man,woman,GIUDICE
+tire shop,person,person,GOMMISTA
+graphic,person,woman,GRAFICO
+crane operator,person,man,GRUISTA
+to gain,person,person,GUADAGNARE
+guaglion,man,man,GUAGLIONA
+guaglion,man,man,GUAGLIONE
+gascon,man,person,GUASCONE
+tourist guide,person,woman,GUIDA TURISTICA
+to drive,person,person,GUIDARE
+driver,man,man,GUIDATORE
+driver,man,man,GUIDATRICE
+handyman,woman,woman,HANDYMAN
+plumber,man,man,IDRAULICA
+plumber,man,man,IDRAULICO
+illustrator,woman,woman,ILLUSTRATRICE
+painter,man,man,IMBIANCHINO
+imitator,person,man,IMITATORE
+engaged,woman,woman,IMPEGNATA
+emperor,man,man,IMPERATORE
+plant installer,person,person,IMPIANTISTA
+employee,woman,woman,IMPIEGATA
+employee,woman,woman,IMPIEGATO
+entrepreneur,man,woman,IMPRENDITORE
+entrepreneur,man,woman,IMPRENDITRICE
+improviser,man,man,IMPROVVISATORE
+by bike,person,person,IN BICILETTA
+in home,man,person,IN CASA
+in the kitchen,person,woman,IN CUCINA
+in mathematics,man,woman,IN MATEMATICA
+in everything,person,person,IN TUTTO
+unclassifiable,person,man,INCLASSIFICABILE
+individual,person,man,INDIVIDUO
+indolent,woman,man,INDOLENTE
+inexistent,woman,man,INESISTENTE
+inept,man,person,INETTO
+male nurse,woman,woman,INFERMIERA
+male nurse,woman,woman,INFERMIERE
+influence the thinking of the group,person,person,INFLUENZARE IL PENSIERO DEL GRUPP
+computer scientist,man,woman,INFORMATICA
+computer scientist,man,woman,INFORMATICO
+engineer,man,woman,INGEGNERE
+tenant,woman,woman,INQUILINA
+tenant,woman,woman,INQUILINO
+teacher,woman,woman,INSEGNANTE
+yoga teacher,woman,woman,INSEGNANTE DI YOGA
+to teach,person,person,INSEGNARE
+installer,woman,woman,INSTALLATORE
+installer,woman,woman,INSTALLATRICE
+intelligent,man,woman,INTELLIGENTE
+connoisseur,man,woman,INTENDITORE
+interlocutor,man,man,INTERLOCUTORE
+interpreter,man,woman,INTERPRETE
+interpreter of gender equality,woman,woman,INTERPRETE DELLA PARITà DI GENERE
+entertainer,woman,woman,INTRATTENITORE
+inventor,man,man,INVENTORE
+instructor,man,man,ISTRUTTORE
+juventino,man,man,JUVENTINA
+juventino,man,man,JUVENTINO
+to complain,person,person,LAMENTARSI
+laundryman,woman,woman,LAVANDAIA
+laundryman,woman,woman,LAVANDAIO
+washing,person,woman,LAVATIVO
+to work,person,person,LAVORARE
+worker,woman,woman,LAVORATORE
+self employed,man,woman,LAVORATORE AUTONOMO
+domestic worker,man,woman,LAVORATORE DOMESTICO
+worker,woman,woman,LAVORATRICE
+self employed,man,woman,LAVORATRICE AUTONOMA
+working mother,woman,woman,LAVORATRICE MADRE
+professional remote worker,man,man,LAVORATRICE PROFESSIONISTA IN REMOTO
+smartworking worker,person,person,LAVORATRICE SMARTWORKING
+houseworks,person,person,LAVORI DOMESTICI
+ass-guck,man,man,LECCACULO
+to read,person,person,LEGGERE
+reader,woman,woman,LETTORE
+reader,woman,woman,LETTRICE
+smooth,person,person,LEVIGARE
+freelance,woman,person,LIBERA PROFESSIONISTA
+machinist,man,woman,MACCHINISTA
+butcher,man,man,MACELLAIO
+mother,woman,woman,MADRE
+master,man,person,MAESTRA
+master,man,person,MAESTRO
+ski instructor,woman,woman,MAESTRO DI SCI
+butler,man,man,MAGGIORDOMO
+mom,woman,woman,MAMMA
+manager,man,man,MANAGER
+house manager,man,woman,MANAGER DELLA CASA
+to eat,person,person,MANGIARE
+pastry eater,woman,woman,MANGIATORE DI PASTICCINI
+glutton,man,man,MANGIONE
+labor worker,woman,woman,MANOVALE
+maintainer,woman,woman,MANUTENTORE
+maintainer,woman,woman,MANUTENTRICE
+sailor man,man,woman,MARINAIO
+husband,woman,woman,MARITO
+massage therapist,woman,woman,MASSAGGIATORE
+massage therapist,woman,woman,MASSAGGIATRICE
+massager,woman,woman,MASSAIA
+massager,woman,woman,MASSAIO
+mathematical,man,woman,MATEMATICO
+mechanic,man,person,MECCANICA
+mechanic,man,person,MECCANICO
+mediator,man,woman,MEDIATRICE
+doctor,woman,woman,MEDICO
+basic doctor,man,man,MEDICO DI BASE
+careless,man,woman,MENEFREGHISTA
+merentor,woman,woman,MERETRICE
+bitch,woman,woman,MIGNOTTA
+military,man,woman,MILITARE
+minister,man,woman,MINISTRA
+wife,woman,woman,MOGLIE
+wife,woman,woman,MOGLIETTINA
+set up,person,person,MONTARE
+motorcyclist,woman,woman,MOTOCICLISTA
+multitasking,woman,person,MULTITASKING
+mason,woman,man,MURATORE
+musician,man,woman,MUSICISTA
+narcissus,woman,man,NARCISO
+narrator,woman,man,NARRATORE
+navigator,person,man,NAVIGATRICE
+retailer,person,woman,NEGOZIANTE
+in the calculations,person,woman,NEI CALCOLI
+in house work,man,person,NEI LAVORI DI CASA
+in the diy,person,person,NEL BRICOLAGE
+in the drawing,person,person,NEL DISEGNO
+in the diy,person,person,NEL FAI DA TE
+at work,man,woman,NEL LAVORO
+in the execution,person,person,NELLA ESECUZIONE
+in the management,person,person,NELLA GESTIONE
+in the house choices,person,person,NELLE FACCENDE DI CASA
+in the household work,person,person,NELLE FACCENDE DOMESTICHE
+in maintenance,person,person,NELLE MANUTENZIONI
+in sports,man,man,NELLO SPORT
+dustman,man,person,NETTURBINO
+neurologist,woman,woman,NEUROLOGA
+grandson,man,woman,NIPOTE
+nephew,man,man,NIPOTINO
+not no,person,man,NONNA
+not no,person,man,NONNO
+notary,man,woman,NOTAIO
+nothing,person,person,NULLAFACENTE
+to swim,person,woman,NUOTARE
+swimmer,woman,woman,NUOTATORE
+swimmer,woman,woman,NUOTATRICE
+omit,person,person,OMETTO
+little man,man,man,OMINO
+worker,woman,woman,OPERAIA
+worker,woman,woman,OPERAIO
+operator,person,man,OPERATORE
+computer operator,person,woman,OPERATORE A COMPUTER
+crane operator,person,man,OPERATORE DI GRU
+ecological operator,person,man,OPERATORE ECOLOGICO
+computer operator,person,woman,OPERATORE INFORMATICO
+operator,person,man,OPERATRICE
+opportunist,man,man,OPPORTUNISTA
+speaker,man,man,ORATORE
+speaker,man,man,ORATRICE
+order at home,man,person,ORDINARE IN CASA
+organize,man,person,ORGANIZZARE
+organize parties,person,woman,ORGANIZZARE FESTE
+organize meetings,man,woman,ORGANIZZARE RIUNIONI
+manager,man,man,ORGANIZZATORE
+manager,man,man,ORGANIZZATRICE
+guest,woman,woman,OSPITE
+observer,man,man,OSSERVATORE
+obstetrician,woman,woman,OSTETRICA
+obstetrician,woman,woman,OSTETRICO
+father,man,man,PADRE
+father of the family,man,man,PADRE DI FAMIGLIA
+master,man,person,PADRONA
+householder,woman,man,PADRONA DI CASA
+master,man,person,PADRONE
+householder,woman,man,PADRONE DI CASA
+volleyball player,man,woman,PALLAVOLISTA
+baker,man,man,PANETTIERE
+pope,man,man,PAPA'
+pimp,woman,person,PAPPONE
+paraculo,man,man,PARACULO
+speak,man,man,PARLARE
+talker,woman,man,PARLATORE
+hair salon,woman,person,PARRUCCHIERA
+hair salon,woman,person,PARRUCCHIERE
+partner,woman,woman,PARTNER
+pastry chef,woman,woman,PASTICCERA
+pastry chef,woman,woman,PASTICCERE
+buddled,woman,woman,PASTICCIONE
+shepherd,man,man,PASTORE
+potato,person,woman,PATATONE
+skater,woman,man,PATTINATRICE
+pediatrician,woman,woman,PEDIATRA
+pedicure,woman,woman,PEDICURE
+pelandrone,man,man,PELANDRONE
+thinker,man,man,PENSATORE
+waster,person,man,PERDIGIORNO
+person,man,woman,PERSONA
+character,woman,woman,PERSONAGGIO
+fisherman,man,man,PESCATORE
+to plan,person,person,PIANIFICARE
+pianist,woman,woman,PIANISTA
+lazy,person,man,PIGRONE
+pilot,man,man,PILOTA
+motorbike pilot,man,man,PILOTA DI MOTO
+pirla,woman,woman,PIRLA
+pyrlone,woman,woman,PIRLONE
+pischello,man,man,PISCHELLO
+painter,man,man,PITTORE
+painter,man,man,PITTRICE
+pizza maker,man,person,PIZZAIOLO
+poet,woman,woman,POETA
+poker player,man,woman,POKERISTA
+versatile,person,woman,POLIEDRICA
+policy,person,person,POLITICA
+political expert,man,woman,POLITOLOGO
+policeman,man,woman,POLIZIOTTA
+policeman,man,woman,POLIZIOTTO
+fireman,man,person,POMPIERA
+fireman,man,person,POMPIERE
+blowjob,woman,woman,POMPINARA
+pornstar,woman,woman,PORNODIVO
+installer,woman,woman,POSATORE
+delivery man,man,man,POSTINA
+delivery man,man,man,POSTINO
+accurate,person,man,PRECISO
+take care of yourself and of carla,person,woman,PRENDERSI CURA DI Sè E DI CARLA
+prepare sweets,woman,woman,PREPARARE I DOLCI
+prepare breakfast,woman,person,PREPARARE LA COLAZIONE
+announcer,man,man,PRESENTATORE
+announcer,man,man,PRESENTATRICE
+president,man,woman,PRESIDENTE
+prime minister,man,woman,PRESIDENTE DEL CONSIGLIO
+prestidigitator,woman,woman,PRESTIDIGITATORE
+magician,man,woman,PRESTIGIATORE
+priest,man,man,PRETE
+professional,man,woman,PROFESSIONALE
+professional,man,woman,PROFESSIONISTA
+professional house cleaning,man,woman,PROFESSIONISTA DELLA PULIZIA DI CASA
+professor,man,man,PROFESSORE
+professor,man,man,PROFESSORESSA
+to design,person,person,PROGETTARE
+designer,woman,woman,PROGETTISTA
+programmer,man,woman,PROGRAMMATORE
+programmer,man,woman,PROGRAMMATRICE
+project manager,man,person,PROJECT MANAGER
+psychiatrist,woman,woman,PSICHIATRA
+psychologist,woman,woman,PSICOLOGA
+psychologist,woman,woman,PSICOLOGO
+boxer,woman,woman,PUGILE
+to clean,person,person,PULIRE
+clean house,person,person,PULIRE CASA
+cleaner,person,woman,PULITORE
+cleaner,person,woman,PULITRICE
+boy,man,man,RAGAZZA
+little boy,man,man,RAGAZZINO
+boy,man,man,RAGAZZO
+accountant,woman,woman,RAGIONIERA
+accountant,woman,woman,RAGIONIERE
+recruiters,woman,person,RECRUITER
+movie director,person,man,REGISTA
+relating,man,woman,RELAZIONANDOSI
+responsible,person,woman,RESPONSABILE
+restorer,woman,person,RESTAURATRICE
+researcher,woman,woman,RICERCATORE
+researcher,woman,woman,RICERCATRICE
+laugh,person,person,RIDERE
+reorder,person,person,RIORDINARE
+unsorcerer,man,man,RIORDINATORE
+unsorcerer,man,man,RIORDINATRICE
+repair,person,person,RIPARARE
+fix everything,person,person,RIPARARE TUTTO
+repairman,man,man,RIPARATORE
+computer repair,person,person,RIPARATORE DI COMPUTER
+repairman,man,man,RIPARATRICE
+fixes everything,person,person,RIPARATUTTO
+to break,person,person,ROMPERE
+pain asshole,woman,person,ROMPICOGLIONI
+ball breaker,person,man,ROMPIPALLE
+buzzers,person,person,ROMPISCATOLE
+priest,man,man,SACERDOTE
+pole vaulter,woman,woman,SALTATRICE CON L'ASTA
+butcher,man,man,SALUMIERE
+tailor,man,woman,SARTA
+tailor,man,woman,SARTO
+chess player,man,woman,SCACCHISTA
+climber,man,man,SCALATORE
+slackers,person,person,SCANSAFATICHE
+fool,person,person,SCEMO
+set designer,woman,person,SCENOGRAFA
+slave,woman,woman,SCHIAVA
+ski,woman,person,SCIARE
+skier,woman,man,SCIATORE
+skier,woman,man,SCIATRICE
+scientist,man,woman,SCIENZIATA
+scientist,man,woman,SCIENZIATO
+schoolboy,man,man,SCOLARA
+schoolkid,woman,woman,SCOLARETTO
+schoolboy,man,man,SCOLARO
+unknown,person,man,SCONOSCIUTA
+unknown,person,man,SCONOSCIUTO
+fuck,person,person,SCOPARE
+writer,woman,woman,SCRITTORE
+writer,woman,woman,SCRITTRICE
+to write,person,man,SCRIVERE
+write to the computer,person,person,SCRIVERE AL COMPUTER
+sculptor,man,man,SCULTORE
+secretary,man,woman,SEGRETARIA
+simplify problems,person,man,SEMPLIFICARE I PROBLEMI
+servant,man,woman,SERVA
+servite,man,person,SERVETTO
+sexist,woman,woman,SESSISTA
+lazy,person,man,SFATICATO
+man,man,woman,SIGNORA
+lady of the house,person,woman,SIGNORA DELLA CASA
+man,man,woman,SIGNORE
+mayor,man,man,SINDACA
+mayor,man,man,SINDACO
+tidy up,person,person,SISTEMARE
+fix the house,person,person,SISTEMARE LA CASA
+fix the machine,person,person,SISTEMARE LA MACCHINA
+fix chandelier,person,person,SISTEMARE LAMPADARIO
+smartworker,person,person,SMARTWORKER
+rescuer,woman,woman,SOCCORRITRICE
+socialize,woman,woman,SOCIALIZZARE
+partner,woman,woman,SOCIO
+subject,person,person,SOGGETTO
+soldier,man,man,SOLDATO
+withstand me,person,person,SOPPORTARMI
+sister,woman,woman,SORELLA
+drug dealer,man,woman,SPACCIATORE
+scavenger,person,man,SPAZZINO
+mirror,person,person,SPECCHIARSI
+speleologist,woman,woman,SPELEOLOGA
+stapler,person,person,SPILLATRICE
+sport,person,person,SPORT
+sporty,person,woman,SPORTIVO
+groom,woman,woman,SPOSA
+groom,woman,woman,SPOSO
+intern,woman,woman,STAGISTA
+stay as a couple,person,woman,STARE IN COPPIA
+statistics,person,woman,STATISTICA
+stylist,woman,woman,STILISTA
+press,man,person,STIRARE
+ironer,person,person,STIRATRICE
+asshole,woman,man,STRONZO
+student,woman,woman,STUDENTE
+study,person,person,STUDIARE
+scholar,man,woman,STUDIOSA
+scholar,man,woman,STUDIOSO
+cocksucker,man,man,SUCCHIACAZZI
+father in law,man,man,SUOCERA
+father in law,man,man,SUOCERO
+to ring,person,woman,SUONARE
+nun,woman,woman,SUORA
+supporters,man,person,SUPPORTER
+surfist,woman,woman,SURFISTA
+developer,man,woman,SVILUPPATORE
+unscrew the wheel bolts,person,person,SVITARE I BULLONI DELLE RUOTE
+taxi driver,man,woman,TASSISTA
+technical,person,woman,TECNICO
+tennis player,man,woman,TENNISTA
+tenor,man,man,TENORE
+therapist,woman,woman,TERAPEUTA
+terrorist,person,woman,TERRORISTA
+tester,person,man,TESTER
+guy,man,man,TIPA
+guy,man,man,TIPO
+printer,person,woman,TIPOGRAFO
+dude,man,man,TIZIO
+translator,man,woman,TRADUTTORE
+ferryman,woman,man,TRAGHETTATORE
+transgender,woman,woman,TRANSGENDER
+put on makeup,person,woman,TRUCCARSI
+make up artist,person,woman,TRUCCATRICE
+legal guardian,person,woman,TUTORE
+handyman,woman,woman,TUTTOFARE
+human,person,woman,UMANA
+human,person,woman,UMANO
+man,man,person,UOMO
+business man,man,man,UOMO D'AFFARI
+cleaning man,man,man,UOMO DELLE PULIZIE
+man of the house,man,man,UOMO DI CASA
+family man,man,person,UOMO DI FAMIGLIA
+urbanist,woman,woman,URBANISTA
+vain,woman,woman,VANITOSA
+sailor,woman,woman,VELISTA
+salesperson,woman,woman,VENDITORE
+salesperson,woman,woman,VENDITRICE
+veterinary,man,woman,VETERINARIA
+traveler,woman,woman,VIAGGIATRICE
+near,person,person,VICINA
+near,person,person,VICINO
+fireman,man,woman,VIGILE DEL FUOCO
+traffic warden,man,woman,VIGILESSA
+violinist,woman,woman,VIOLINISTA
+cellist,woman,woman,VIONCELLISTA
+voyeur,woman,man,VOYEUR
+web marketing,person,person,WEBMARKETING
+uncle,man,man,ZIA
+uncle,man,man,ZIO
+slut,woman,woman,ZOCCOLA

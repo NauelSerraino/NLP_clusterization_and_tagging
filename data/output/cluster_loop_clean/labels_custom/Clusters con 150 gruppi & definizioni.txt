@@ -1,0 +1,301 @@
+Clustering with 150 groups: 
+Cluster 1 (family)
+ ["TO COOK ", "COOKING THE ROAST ", "COOK ", "COOK ", "COOK ", "TO EAT "] 
+Cluster 2 (art)
+ ["ANIMATOR ", "CARTOONIST "] 
+Cluster 3 (intellectual labor/profession)
+ ["ASSISTANT ", "BARTENDER ", "WAITER ", "WAITER ", "EMPLOYER ", "TYPIST ", "EMPLOYEE ", "UNEMPLOYED ", "EMPLOYEE ", "EMPLOYEE "] 
+Cluster 4 (home)
+ ["ADJUST ", "ADJUST THE ELECTRICAL SYSTEM ", "ALPHA EXTENSION ", 'FURNISH HOME ', 'DETERMINED ', "SMOOTH ", "OMIT ", "SIMPLIFY PROBLEMS ", "WITHSTAND ME ", 'STAY AS A COUPLE '] 
+Cluster 5 (intellectual labor/profession)
+ ["AUTHOR ", "JOURNALIST ", "NARRATOR ", "POET ", "WRITER ", "WRITER "] 
+Cluster 6 (health work)
+ ["ANESTHETIST ", "CAREGIVER ", "CARDIOLOGIST ", "SURGEON ", "DENTIST ", "DIETICIAN ", "PHARMACIST ", 'GYNECOLOGIST ', 'GYNECOLOGIST ', "NEUROLOGIST ", "OBSTETRICIAN ", "OBSTETRICIAN ", "PEDIATRICIAN ", "PSYCHIATRIST ", 'INTERN ', "THERAPIST ", "VETERINARY "] 
+Cluster 7 (parenthood)
+ ["CARING FOR THE CHILDREN ", 'BABY SITTER ', "BABY ", "BABY ", "CHILD ", "CHILD ", "WITH THE CHILDREN ", "WITH CHILDREN ", "CHILD ", "CHILD ", "GRANDSON "] 
+Cluster 8 (intellectual labor/profession)
+ ["STUDENT ", "STUDENT ", "STUDENT ", "STUDENT ", "STUDENT COMPANION ", "CONNOISSEUR ", "READER ", "READER ", "THINKER ", "STUDENT ", 'STUDY ', "SCHOLAR ", "SCHOLAR "] 
+Cluster 9 (sport)
+ ['BARZELLETTERE ', 'BRICOLEUR ', 'BRICOLEUR ', 'BRICOLEUR '] 
+Cluster 10 (art)
+ ['HEAD ', 'SET UP ', 'SET DESIGNER '] 
+Cluster 11 (family)
+ ['GROOM ', 'GROOM '] 
+Cluster 12 (manual labor)
+ ["FARMER ", "BEEKEEPER ", "FARMER ", "GARDENER ", "GARDENER "] 
+Cluster 13 (family)
+ ["CHRIST ", 'SON ', 'SON ', 'SON ', 'SON ', 'SON IN LAW '] 
+Cluster 14 (intellectual labor/profession)
+ ["GUITARIST ", "CONDUCTOR ", "DJS ", "MUSICIAN ", "PIANIST ", "VIOLINIST ", "CELLIST "] 
+Cluster 15 (leadership)
+ ["SELFISH ", "GENEROUS ", "GENEROUS ", "PLAYFUL "] 
+Cluster 16 (art)
+ ["ELEMENT ", "I PHOTOGRAPH ", "I PHOTOGRAPH ", "GRAPHIC "] 
+Cluster 17 (family)
+ ['GOOD MAN ', 'GOOD BOY ', 'GOOD PERSON ', 'GOOD BOY ', 'GOOD ', "EXCELLENT ", "WONDERFUL "] 
+Cluster 18 (intellectual labor/profession)
+ ["GRINDER ", "ARTISAN ", "ARTISAN ", "SOCIAL WORKER ", "WORKER ", "WORKER ", "SMARTWORKING WORKER ", 'LABOR WORKER ', "DUSTMAN ", "WORKER ", "WORKER "] 
+Cluster 19 (manual labor)
+ ["IN THE KITCHEN ", "IN MATHEMATICS ", "IN EVERYTHING ", "IN THE CALCULATIONS ", "IN THE DIY ", "IN THE DIY ", "IN THE MANAGEMENT ", "PRIME MINISTER "] 
+Cluster 20 (sport)
+ ['FOOTBALL ', "ATHLETE ", "ATHLETE ", "BOXER ", 'SPORT ', "SPORTY ", "TECHNICAL "] 
+Cluster 21 (leadership)
+ ["LEADER ", "EMPEROR "] 
+Cluster 22 (domestic work)
+ ['DOING MALE THINGS TOO ', "DOING HOMEWORK ", 'DO THE SHOPPING ', 'DO HEAVY WORK ', 'DO THE HOUSE CHORES ', 'DO THE HOUSEWORK ', 'DO THE CLEANING ', 'DO SMALL HOUSEHOLD WORK ', 'DO EVERYTHING '] 
+Cluster 23 (manual labor)
+ ['WASHING ', 'TO CLEAN ', 'CLEAN HOUSE ', "CLEANER ", "CLEANER ", 'CLEANING MAN '] 
+Cluster 24 (sport)
+ ['BOY ', 'BOY '] 
+Cluster 25 (health work)
+ ["EDUCATOR ", "EDUCATOR ", "TEACHER ", "YOGA TEACHER ", "TO TEACH ", "INSTRUCTOR ", "SKI INSTRUCTOR "] 
+Cluster 26 (parenthood)
+ ['CASINIST ', 'INEXISTENT ', 'PYRLONE ', 'SERVITE '] 
+Cluster 27 (subordinate role)
+ ["TRAINER ", "TRAINER OF PAROKETS ", "CO-PILOT ", 'CAR ELECTRIC ', 'NAVIGATOR ', "PILOT ", "MOTORBIKE PILOT "] 
+Cluster 28 (family)
+ ["COUSIN ", "COUSIN ", "NEPHEW ", "SISTER ", "UNCLE ", "UNCLE "] 
+Cluster 29 (intellectual labor/profession)
+ ["ARCHITECT ", "ARCHITECT ", "BUILDER ", "SURVEYOR ", "ILLUSTRATOR ", "SCULPTOR ", "DEVELOPER ", 'URBANIST '] 
+Cluster 30 (sport)
+ ['PLAY BOY ', 'TO PLAY ', 'PLAY TENNIS ', 'PLAY TENNIS '] 
+Cluster 31 (domestic work)
+ ["DOMESTIC HELP ", "DOMESTIC ", "DOMESTIC ", "DOMESTIC WORKER ", "HOUSEWORKS ", 'SLAVE ', "SERVANT "] 
+Cluster 32 (parenthood)
+ ["YOUNG ", 'YOUNG MAN ', "YOUNG ", "MASON "] 
+Cluster 33 (leadership)
+ ["HUMAN BEING ", "HUMAN ", "HUMAN "] 
+Cluster 34 (subordinate role)
+ ["TO LISTEN ", "LISTENER ", "LISTENER ", "INTERLOCUTOR ", "OBSERVER ", "VOYEUR "] 
+Cluster 35 (art)
+ ["DECORATOR ", "DESIGNER ", "DESIGNER ", "DESIGNER ", "TO DESIGN ", "DESIGNER ", "TAILOR ", "TAILOR "] 
+Cluster 36 (health work)
+ ['WELCOMING ', "COMPANION ", "SUPPORT WORKER ", "ESCORT "] 
+Cluster 37 (art)
+ ["SING ", "LAUGHTER ", "SPEAK ", "LAUGH "] 
+Cluster 38 (subordinate role)
+ ['OFFICER ', "MILITARY ", "POLICEMAN ", "POLICEMAN ", "RECRUITERS ", "SOLDIER ", 'SAILOR '] 
+Cluster 39 (subordinate role)
+ ["ADMINISTRATOR ", "ADMINISTRATOR ", "CONDOMINIUM ADMINISTRATOR ", "COMMISSIONER ", "EXECUTIVE ", "PRESIDENT ", "SECRETARY ", "MAYOR ", "MAYOR "] 
+Cluster 40 (manual labor)
+ ["HOMEMADE ", "HOMEMADE ", "DO-IT-YOURSELF "] 
+Cluster 41 (sport)
+ ["DANCE ", "DANCER ", "DANCER ", "DANCER "] 
+Cluster 42 (sport)
+ ['SOCCER PLAYER ', 'SOCCER PLAYER ', 'SOCCER PLAYER ', 'SOCCER PLAYER ', "BASKETBALL PLAYER ", "PLAYER ", "PLAYER ", "GOLF PLAYER ", "VOLLEYBALL PLAYER ", "POKER PLAYER ", 'CHESS PLAYER ', "TENNIS PLAYER "] 
+Cluster 43 (subordinate role)
+ ["ANALYST ", "ACCOUNTANT ", "ACCOUNTANT ", "ACCOUNTANT ", "RESPONSIBLE "] 
+Cluster 44 (parenthood)
+ ['KISSER ', "ASSHOLE ", 'ASS-GUCK ', "BITCH ", "PIMP ", "BLOWJOB ", "ASSHOLE ", "COCKSUCKER ", "SLUT "] 
+Cluster 45 (subordinate role)
+ ["KNIGHT ", "WOMAN ", "WOMAN OF THE HOUSE ", 'LADY OF THE HOUSE ', "NUN "] 
+Cluster 46 (sport)
+ ['JUVENTINO ', 'JUVENTINO ', 'MERENTOR ', 'PELANDRONE ', 'PISCHELLO '] 
+Cluster 47 (leadership)
+ ["AGENT ", "ECOLOGICAL OPERATOR ", "WASTER ", "VERSATILE ", "SCAVENGER ", "TERRORIST ", "WEB MARKETING "] 
+Cluster 48 (family)
+ ["DAD ", 'FATHER ', 'FATHER OF THE FAMILY ', 'FATHER IN LAW ', 'FATHER IN LAW '] 
+Cluster 49 (manual labor)
+ ["JANITOR ", "JANITOR ", "ELECTRICIAN ", "HANDYMAN ", "PLUMBER ", "PLUMBER ", "MACHINIST ", "MECHANIC ", "MECHANIC ", "FISHERMAN ", "RESTORER ", "REPAIRMAN ", "REPAIRMAN ", "FERRYMAN ", "HANDYMAN "] 
+Cluster 50 (art)
+ ['MATCH COLORS ', "LOVER ", 'PARTNER IN CRIME ', 'PARTNER ', 'PARTNER '] 
+Cluster 51 (intellectual labor/profession)
+ ["EXPERT ", "ENGINEER ", "INTELLIGENT ", "POLICY ", "POLITICAL EXPERT "] 
+Cluster 52 (neutral)
+ ['CHATTERY ', 'CHATTERY ', 'SLEEPYLONE '] 
+Cluster 53 (parenthood)
+ ['FIANCÉ ', 'FIANCÉ '] 
+Cluster 54 (neutral)
+ ["HOUSEHOLDER ", "HOUSEHOLDER ", "HOUSEHOLDER "] 
+Cluster 55 (subordinate role)
+ ['RELEASER ', "REORDER ", 'UNSORCERER ', 'UNSORCERER ', 'SURFIST '] 
+Cluster 56 (domestic work)
+ ['WORK COMPANION ', 'GET TO DO ', 'DRAW ', "TO BE ", "MAKING SWEETS ", "MAKE THE ACCOUNTS ", "MAKE MINOR REPAIRS ", 'MAKE ME FEEL GOOD ', 'TO GAIN ', "TO DRIVE ", 'TO WORK ', 'TAKE CARE OF YOURSELF AND OF CARLA ', 'TO BREAK ', "PRESS ", "PUT ON MAKEUP ", 'MAKE UP ARTIST '] 
+Cluster 57 (manual labor)
+ ["REPAIR ", 'FIX EVERYTHING ', 'FIXES EVERYTHING ', 'FIX THE HOUSE ', 'FIX THE MACHINE ', 'FIX CHANDELIER '] 
+Cluster 58 (school)
+ ["PROFESSOR ", "PROFESSOR ", "PROFESSOR "] 
+Cluster 59 (parenthood)
+ ["CHRISTIAN ", "CRISTIAN CHRISTIANS ", "CHRISTIAN "] 
+Cluster 60 (manual labor)
+ ["COMPUTER ", "CRANE OPERATOR ", "COMPUTER SCIENTIST ", "COMPUTER SCIENTIST ", "OPERATOR ", "COMPUTER OPERATOR ", "CRANE OPERATOR ", "COMPUTER OPERATOR ", "OPERATOR ", "PROGRAMMER ", "PROGRAMMER ", "COMPUTER REPAIR ", "STAPLER ", "PRINTER "] 
+Cluster 61 (intellectual labor/profession)
+ ["ARCHAEOLOGIST ", "ARCHAEOLOGIST ", "BIOLOGIST ", "DETECTIVES ", "GEOLOGIST ", "PSYCHOLOGIST ", "PSYCHOLOGIST ", "RESEARCHER ", "RESEARCHER ", "SCIENTIST ", "SCIENTIST ", "SPELEOLOGIST "] 
+Cluster 62 (health work)
+ ['MALE NURSE ', 'MALE NURSE '] 
+Cluster 63 (sport)
+ ["LIFEGUARD ", "LIFEGUARD ", "TO SWIM ", "SWIMMER ", "SWIMMER "] 
+Cluster 64 (leadership)
+ ['THAT CONTRIBUTES TO EVERYDAY LIFE ', 'LIFE PARTNER ', 'LIFE PARTNER ', 'SLEEP ', "LIVING BEING "] 
+Cluster 65 (leadership)
+ ["MANAGER ", "MANAGER ", "MANAGER "] 
+Cluster 66 (manual labor)
+ ["CARPENTER ", "CARPENTER ", "BLACKSMITH ", "CARPENTER "] 
+Cluster 67 (manual labor)
+ ['DELIVERY MAN ', 'DELIVERY MAN ', 'DELIVERY MAN ', "BALL BREAKER "] 
+Cluster 68 (domestic work)
+ ['BARBER SHOP ', 'WORKSHOP HEAD ', 'SHOP ASSISTANT ', 'SHOP ASSISTANT '] 
+Cluster 69 (subordinate role)
+ ['INTERPRETER ', 'INTERPRETER OF GENDER EQUALITY ', "MEDIATOR ", "SUBJECT ", "TRANSLATOR "] 
+Cluster 70 (domestic work)
+ ['COLLABORATE IN THE DRAFTING OF THE WORK ', 'ORDER AT HOME ', "ORGANIZE ", 'ORGANIZE PARTIES ', "ORGANIZE MEETINGS ", "PREPARE SWEETS ", "PREPARE BREAKFAST ", "SOCIALIZE "] 
+Cluster 71 (art)
+ ["ARTIST ", "PAINT ", "PAINTER ", "PAINTER ", "PAINTER "] 
+Cluster 72 (manual labor)
+ ['FLOWER SHOP ', 'FLOWER SHOP ', "PLANT INSTALLER ", "NARCISSUS "] 
+Cluster 73 (parenthood)
+ ['ICE CREAM MAN ', 'ICE CREAM MAN '] 
+Cluster 74 (intellectual labor/profession)
+ ["CASHIER ", "MERCHANT ", "CLERK ", 'PORTER ', "BAKER ", "BUTCHER ", "RETAILER ", "BAKER ", "PIZZA MAKER ", "BUTCHER ", "SALESPERSON ", "SALESPERSON "] 
+Cluster 75 (manual labor)
+ ["CHEF ", "PASTRY EATER ", "PASTRY CHEF ", "PASTRY CHEF ", "POTATO "] 
+Cluster 76 (leadership)
+ ['MASTER ', 'MASTER ', 'MASTER ', 'MASTER '] 
+Cluster 77 (leadership)
+ ["FIREMAN ", "FIREMAN ", "FIREMAN "] 
+Cluster 78 (school)
+ ["SCHOOLBOY ", 'SCHOOLKID ', "SCHOOLBOY "] 
+Cluster 79 (intellectual labor/profession)
+ ["EFFICIENT ", "INDOLENT ", "INEPT ", "OPPORTUNIST ", "LAZY ", "SLACKERS ", "LAZY "] 
+Cluster 80 (home)
+ ["GAS STATION ", "GAS STATION ", 'GASCON '] 
+Cluster 81 (parenthood)
+ ['SAILOR MAN ', "PERSON ", 'SEXIST ', 'MAN ', 'MAN ', "GUY ", "GUY ", "DUDE ", 'MAN ', 'MAN OF THE HOUSE '] 
+Cluster 82 (family)
+ ["FRIEND ", "FRIEND ", "WITH FRIENDS ", 'SUPPORTERS '] 
+Cluster 83 (domestic work)
+ ["BEAUTICIAN ", 'MASSAGE THERAPIST ', 'MASSAGE THERAPIST ', "MASSAGER ", "MASSAGER ", 'PORNSTAR '] 
+Cluster 84 (manual labor)
+ ['CHANGE LIGHT BULBS ', 'CHANGE LIGHT BULBS '] 
+Cluster 85 (leadership)
+ ['MOUTHPIECE ', "SOUNDS COOL ", "SOUNDS COOL ", "SPEAKER ", "SPEAKER ", "TALKER ", "ANNOUNCER ", "ANNOUNCER "] 
+Cluster 86 (manual labor)
+ ["DRIVER ", "MOTORIST ", "TRUCK DRIVER ", "DRIVER ", "DRIVERS ", "DRIVER ", "DRIVER ", "TAXI DRIVER "] 
+Cluster 87 (parenthood)
+ ["UNKNOWN ", "UNKNOWN "] 
+Cluster 88 (intellectual labor/profession)
+ ["BUSINESS CONSULTANT ", 'COMPANY ', 'COMPANY ', 'BUSINESS MAN '] 
+Cluster 89 (domestic work)
+ ["LAWYER ", "COUNSELOR ", "COUNSELOR ", "CONSULTANT ", "LEGAL GUARDIAN "] 
+Cluster 90 (family)
+ ["RELATING ", "NEAR ", "NEAR "] 
+Cluster 91 (parenthood)
+ ["PARENT ", "MOTHER ", "MOM "] 
+Cluster 92 (manual labor)
+ ["ADJUSTER ", "ADJUSTER ", "ADJUSTER ", "INSURER ", "TESTER "] 
+Cluster 93 (domestic work)
+ ['MULTITASKING ', 'SMARTWORKER '] 
+Cluster 94 (leadership)
+ ['PROJECT LEADER ', "TO PLAN ", 'PROJECT MANAGER '] 
+Cluster 95 (sport)
+ ['RUN ', "RUNNER ", "CLIMBER "] 
+Cluster 96 (art)
+ ["SINGER ", "SINGER "] 
+Cluster 97 (parenthood)
+ ['GUAGLION ', 'GUAGLION ', 'PARACULO ', 'BUDDLED ', 'PIRLA '] 
+Cluster 98 (family)
+ ["ROOMMATE ", "ROOMMATE ", 'COLLEAGUE ', 'COHABITANT '] 
+Cluster 99 (intellectual labor/profession)
+ ["ENTREPRENEUR ", "ENTREPRENEUR ", "INVENTOR "] 
+Cluster 100 (neutral)
+ ['INSTALLER ', 'INSTALLER ', 'INSTALLER '] 
+Cluster 101 (domestic work)
+ ['HAIR SALON ', 'HAIR SALON ', 'PEDICURE ', "MIRROR ", "STYLIST "] 
+Cluster 102 (domestic work)
+ ["ALLY ", "COLLABORATOR ", "COLLABORATOR FOR HOUSEWORK ", "COLLABORATOR "] 
+Cluster 103 (health work)
+ ['DOCTOR ', 'DOCTOR ', 'DOCTOR ', 'BASIC DOCTOR '] 
+Cluster 104 (sport)
+ ["AT VOLLEYBALL ", 'AT SCHOOL ', "AT THE PC ", 'AT WORK '] 
+Cluster 105 (free time/hobbies)
+ ["ASTRONAUT ", "CYCLIST ", "TOURIST GUIDE ", "BY BIKE ", "MOTORCYCLIST ", "GUEST ", "TRAVELER "] 
+Cluster 106 (manual labor)
+ ['BUSY ', "UGLY ", "MESSY ", 'CARELESS ', 'TIDY UP '] 
+Cluster 107 (parenthood)
+ ["DEVIL ", "FOOL ", "CUNNING ", "FOOL ", "VAIN "] 
+Cluster 108 (school)
+ ["BANKING ", "BANKING "] 
+Cluster 109 (art)
+ ["COMIC ", "COMIC "] 
+Cluster 110 (domestic work)
+ ['IN HOME ', 'IN HOUSE WORK ', 'IN THE DRAWING ', "IN THE EXECUTION ", 'IN THE HOUSE CHOICES ', 'IN THE HOUSEHOLD WORK ', "IN MAINTENANCE ", 'IN SPORTS ', 'POLE VAULTER '] 
+Cluster 111 (neutral)
+ ["NOT NO ", "NOT NO ", "NOTHING "] 
+Cluster 112 (leadership)
+ ["ALTO ", "CHOIR ", 'TENOR '] 
+Cluster 113 (sport)
+ ['PHYSIATRIC '] 
+Cluster 114 (manual labor)
+ ['FURNISHER ', 'FURNISHER ', 'IMPROVISER ', "IRONER "] 
+Cluster 115 (leadership)
+ ['BENEFITER ', 'COUNCILOR ', 'COUNCILOR '] 
+Cluster 116 (family)
+ ['BROTHER IN LAW ', 'BROTHER IN LAW ', "WITH THE FAMILY ", "BROTHER ", 'FAMILY MAN '] 
+Cluster 117 (manual labor)
+ ["JUGGLER ", "PRESTIDIGITATOR ", "MAGICIAN "] 
+Cluster 118 (parenthood)
+ ['LITTLE MAN ', 'LITTLE BOY '] 
+Cluster 119 (health work)
+ ["DOG TRAINER ", 'ANIMALIST ', "FAT ", "WITH ANIMALS ", 'CREATURE ', "GLUTTON "] 
+Cluster 120 (subordinate role)
+ ["TO COMPLAIN ", "TO READ ", 'TO WRITE ', 'WRITE TO THE COMPUTER '] 
+Cluster 121 (subordinate role)
+ ["MINISTER ", "POPE ", "SHEPHERD ", "PRIEST ", "PRIEST ", "RESCUER "] 
+Cluster 122 (neutral)
+ ['REFEREE ', "JUDGE ", 'NOTARY '] 
+Cluster 123 (sport)
+ ["SKATER ", "SKI ", "SKIER ", "SKIER "] 
+Cluster 124 (family)
+ ['SPOUSE ', 'WIFE ', 'HUSBAND ', 'WIFE ', 'WIFE '] 
+Cluster 125 (home)
+ ["BUZZERS "] 
+Cluster 126 (art)
+ ["ACTOR ", "PROSE ACTOR ", "ACTOR ", "ENTERTAINER ", 'CHARACTER '] 
+Cluster 127 (art)
+ ['PAIN ASSHOLE '] 
+Cluster 128 (art)
+ ["DIRECTOR ", "DIRECTOR ", 'MOVIE DIRECTOR '] 
+Cluster 129 (domestic work)
+ ["FREELANCE ", "FREELANCE "] 
+Cluster 130 (neutral)
+ ["CITIZEN ", "CITIZEN "] 
+Cluster 131 (parenthood)
+ ["GREENGROCER ", "GREENGROCER "] 
+Cluster 132 (school)
+ ["UNCLASSIFIABLE "] 
+Cluster 133 (subordinate role)
+ ["CUSTOMER ", "CLIENT ", "AVAILABLE ", 'TRAFFIC WARDEN '] 
+Cluster 134 (art)
+ ['REAL ESTATE AGENT ', "MATHEMATICAL ", "ACCURATE ", "STATISTICS "] 
+Cluster 135 (domestic work)
+ ["HOUSE ADMINISTRATOR ", 'HOME COLLABORATOR ', "HOUSE MANAGER "] 
+Cluster 136 (school)
+ ["ASTROPHYSICS "] 
+Cluster 137 (parenthood)
+ ["SCREW ", "FUCKS ", "FUCK "] 
+Cluster 138 (art)
+ ["YOU LIAR ", "IMITATOR "] 
+Cluster 139 (family)
+ ['WITH CARLA '] 
+Cluster 140 (domestic work)
+ ["PROFESSIONAL REMOTE WORKER ", "PROFESSIONAL ", "PROFESSIONAL ", 'PROFESSIONAL HOUSE CLEANING '] 
+Cluster 141 (domestic work)
+ ["HELP ", 'QUALIFIED ', 'TIRE SHOP ', 'ENGAGED ', "INDIVIDUAL ", "SELF EMPLOYED ", "SELF EMPLOYED ", "DRUG DEALER "] 
+Cluster 142 (sport)
+ ['MOUNTAINEEPER '] 
+Cluster 143 (leadership)
+ ['MANAGING WORK AND FAMILY ', 'MANAGING SITUATIONS ', 'INFLUENCE THE THINKING OF THE GROUP ', 'WORKING MOTHER '] 
+Cluster 144 (family)
+ ['EASY GOING ', "NICE ", "NICE ", 'SWEET '] 
+Cluster 145 (manual labor)
+ ["LAUNDRYMAN ", "LAUNDRYMAN "] 
+Cluster 146 (subordinate role)
+ ["COORDINATOR ", "MAINTAINER ", "MAINTAINER "] 
+Cluster 147 (subordinate role)
+ ["CARABINIER ", "FACTOTUM ", 'GENTLEMAN ', 'GENTLEMAN ', "BUTLER "] 
+Cluster 148 (manual labor)
+ ["TO RING ", 'UNSCREW THE WHEEL BOLTS '] 
+Cluster 149 (family)
+ ["TENANT ", "TENANT "] 
+Cluster 150 (parenthood)
+ ["TRANSGENDER "] 
